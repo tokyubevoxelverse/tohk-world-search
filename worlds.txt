@@ -1,4 +1,4 @@
-#tohk-world-index	1	143	2026-10-07
+#tohk-world-index	1	144	2026-10-07
 wrld_57514404-7f4e-4aee-a50a-57f55d3084bf	Prismic's Avatar Search	Prismic247	7	1670374	7	avatar,search,find,world,avatars
 wrld_dd036610-a246-4f52-bf01-9d7cea3405d7	'Among Us' game	Jar	7	589484	3	game,udon,quest
 wrld_e4908cea-023b-4749-9ad7-a898b12996e7	Test Pilots	Sacchan	6	495917	3	flight,udon,flying,dogfight,jets
@@ -142,3 +142,4 @@ wrld_418fafe6-6f9c-4feb-8959-3c2d2f9d04e1	DOT HERO IDLE｜도트 용사 키우�
 wrld_0b773dcd-d821-40c3-b53c-1779ee8f269c	PV's OASIS˸ MMORPG（Beta）	Prospect Valley	4	353	7	chill,game,relax,mmo,rpg
 wrld_2dea66fb-1c74-471c-93b4-a1d4533674ec	PV Plaza（Updated 9-29-26）	Prospect Valley	2	52	7	kfc,tacobell,chill,relax,fish
 wrld_aab8758b-15e8-4cef-95f7-1e0c4eb4c99a	PV Palladium - AVPro ＋ Youtube Search	Prospect Valley	3	11	3	youtube,hangout,chill,relax,relaxing
+wrld_31e96358-ded4-48fe-94a7-4eeec526a4c3	PV's TATAKAI NO SHIMA（Beta）	ScriptWizard	0	1	7	chill,relax,video,hangout,game

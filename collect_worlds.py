@@ -92,11 +92,14 @@ def to_line(w, include_adult):
 def load():
     """The list already on disk, as {id: line}."""
     have = {}
-    if not os.path.exists(OUT): return have
-    for line in io.open(OUT, encoding="utf-8").read().split("\n"):
-        if not line or line.startswith("#"): continue
-        parts = line.split("\t")
-        if len(parts) == 7 and parts[0].startswith("wrld_"): have[parts[0]] = line
+    # pinned.txt: worlds that are ALWAYS in the list, in the same line format -
+    # hand-added ones the collector would never find (a private world, say).
+    for path in (OUT, os.path.join(HERE, "pinned.txt")):
+        if not os.path.exists(path): continue
+        for line in io.open(path, encoding="utf-8").read().replace("\r", "").split("\n"):
+            if not line or line.startswith("#"): continue
+            parts = line.split("\t")
+            if len(parts) == 7 and parts[0].startswith("wrld_"): have[parts[0]] = line
     return have
 
 

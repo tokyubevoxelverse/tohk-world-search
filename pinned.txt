@@ -1,0 +1,2 @@
+# worlds always kept in the list (same format as worlds.txt)
+wrld_31e96358-ded4-48fe-94a7-4eeec526a4c3	PV's TATAKAI NO SHIMA（Beta）	ScriptWizard	0	1	7	chill,relax,video,hangout,game
