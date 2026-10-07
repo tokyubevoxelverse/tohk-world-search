@@ -1,3 +1,4 @@
 .collector_position
 *.tmp
 __pycache__/
+collector.log
