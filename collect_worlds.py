@@ -28,12 +28,15 @@ RUN
   (it then asks for the cookie; or set the VRC_AUTH_COOKIE environment variable)
 
   --requests 60      how many requests this run makes (60 = about an hour)
+  --target 10000     stop as soon as the list holds this many worlds
   --delay 60         seconds between requests
   --include-adult    keep worlds tagged as adult / sexual content (left out by default)
   --selftest         check the list format with made-up data; contacts nobody
 
-THE LIST (worlds.txt): one world per line, most visited first, tab separated:
-  id  name  author  visits  favorites  platforms  tags
+THE LIST (worlds.txt): one world per line, most favourited first, tab separated:
+  id  name  author  heat  favorites  platforms  tags
+  heat: how busy the world was when collected (VRChat's own 0-10 or so). The
+  world list VRChat gives out has no visit counts, so there are none here.
   platforms: 1 = PC, 2 = Quest, 4 = iOS, added together (7 = all three)
   The first line is a header:  #tohk-world-index  1  <count>  <date>
 """
@@ -82,7 +85,7 @@ def to_line(w, include_adult):
         elif t.startswith("content_"): shown.append(clean(t[len("content_"):]).replace(",", " "))
     name = clean(w.get("name"))
     if not name: return None
-    return "\t".join([wid, name, clean(w.get("authorName")), str(int(w.get("visits") or 0)),
+    return "\t".join([wid, name, clean(w.get("authorName")), str(int(w.get("heat") or 0)),
                       str(int(w.get("favorites") or 0)), str(plat), ",".join(x for x in shown if x)])
 
 
@@ -98,10 +101,10 @@ def load():
 
 
 def save(have):
-    def visits(line):
-        try: return int(line.split("\t")[3])
+    def favourites(line):
+        try: return int(line.split("\t")[4])
         except ValueError: return 0
-    lines = sorted(have.values(), key=visits, reverse=True)
+    lines = sorted(have.values(), key=favourites, reverse=True)
     head = "#tohk-world-index\t1\t%d\t%s" % (len(lines), datetime.date.today().isoformat())
     tmp = OUT + ".tmp"
     with io.open(tmp, "w", encoding="utf-8", newline="\n") as f:
@@ -119,27 +122,32 @@ def ask(params, cookie, agent):
 def plan():
     """Every request this collector knows how to make, in order."""
     jobs = []
+    # this account's own public worlds first, every run
+    jobs.append({"n": 100, "offset": 0, "user": "me", "releaseStatus": "public", "sort": "updated", "order": "descending"})
     for page in range(PAGES):
         for s in SORTS:
             jobs.append({"n": 100, "offset": page * 100, "sort": s, "order": "descending", "releaseStatus": "public"})
     for page in range(PAGES):
         for t in TAGS:
             jobs.append({"n": 100, "offset": page * 100, "sort": "popularity", "order": "descending", "releaseStatus": "public", "tag": t})
+    # after everything above: random pages, which keep finding worlds the sorted pages never reach
+    for i in range(400):
+        jobs.append({"n": 100, "sort": "random", "releaseStatus": "public"})
     return jobs
 
 
 def selftest():
     sample = [
-        {"id": "wrld_00000000-0000-0000-0000-000000000001", "name": "Test\tWorld\nOne", "authorName": "Someone", "visits": 1200,
+        {"id": "wrld_00000000-0000-0000-0000-000000000001", "name": "Test\tWorld\nOne", "authorName": "Someone", "heat": 5,
          "favorites": 30, "releaseStatus": "public", "tags": ["author_tag_game", "author_tag_chill"],
          "unityPackages": [{"platform": "standalonewindows"}, {"platform": "android"}]},
-        {"id": "wrld_00000000-0000-0000-0000-000000000002", "name": "Grown Ups", "authorName": "X", "visits": 99999,
+        {"id": "wrld_00000000-0000-0000-0000-000000000002", "name": "Grown Ups", "authorName": "X", "heat": 9,
          "favorites": 1, "releaseStatus": "public", "tags": ["content_sex"], "unityPackages": [{"platform": "standalonewindows"}]},
         {"id": "wrld_00000000-0000-0000-0000-000000000003", "name": "Private", "authorName": "X", "releaseStatus": "private", "tags": []},
         {"id": "nope", "name": "Bad id"},
     ]
     lines = [to_line(w, False) for w in sample]
-    assert lines[0] == "wrld_00000000-0000-0000-0000-000000000001\tTest World One\tSomeone\t1200\t30\t3\tgame,chill", lines[0]
+    assert lines[0] == "wrld_00000000-0000-0000-0000-000000000001\tTest World One\tSomeone\t5\t30\t3\tgame,chill", lines[0]
     assert lines[1] is None and lines[2] is None and lines[3] is None, lines[1:]
     assert to_line(sample[1], True).endswith("\t1\tsex")
     print("selftest passed:", lines[0].replace("\t", " | "))
@@ -150,6 +158,7 @@ def main():
     ap.add_argument("--contact", help="an email or Discord name to identify these requests to VRChat")
     ap.add_argument("--requests", type=int, default=60)
     ap.add_argument("--delay", type=float, default=60.0)
+    ap.add_argument("--target", type=int, default=0)
     ap.add_argument("--include-adult", action="store_true")
     ap.add_argument("--selftest", action="store_true")
     a = ap.parse_args()
@@ -176,7 +185,7 @@ def main():
     at = start
     while done < a.requests:
         job = jobs[at]
-        what = job.get("tag", job["sort"]) + " page " + str(job["offset"] // 100 + 1)
+        what = ("my worlds" if job.get("user") else job.get("tag", job["sort"])) + " page " + str(job.get("offset", 0) // 100 + 1)
         try:
             got = ask(job, cookie, agent)
         except urllib.error.HTTPError as e:
@@ -201,6 +210,8 @@ def main():
         at = (at + 1) % len(jobs)
         open(state_path, "w").write(str(at))
         print("[%d/%d] %-34s +%d new, %d in the list" % (done, a.requests, what, added, len(have)))
+        if a.target > 0 and len(have) >= a.target:
+            print("Reached the target of %d worlds." % a.target); break
         if done < a.requests: time.sleep(max(1.0, a.delay))
 
     print("\nSaved %d worlds to %s" % (len(have), OUT))

@@ -11,15 +11,17 @@ when the world loads, and searches it inside the world.
 
 | File | What it is |
 |---|---|
-| `worlds.txt` | The list. One world per line, most visited first, tab separated. |
+| `worlds.txt` | The list. One world per line, most favourited first, tab separated. |
 | `collect_worlds.py` | Builds and updates the list. Read the top of the file first. |
 
 ## The list format
 
     #tohk-world-index <tab> 1 <tab> <count> <tab> <date>
-    id <tab> name <tab> author <tab> visits <tab> favorites <tab> platforms <tab> tags
+    id <tab> name <tab> author <tab> heat <tab> favorites <tab> platforms <tab> tags
 
-`platforms` is 1 (PC) + 2 (Quest) + 4 (iOS). `tags` are comma separated.
+`heat` is how busy the world was when collected (VRChat's world list has no
+visit counts). `platforms` is 1 (PC) + 2 (Quest) + 4 (iOS). `tags` are comma
+separated.
 
 ## Updating the list
 
