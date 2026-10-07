@@ -1,145 +1,1580 @@
-#tohk-world-index	1	144	2026-10-07
-wrld_57514404-7f4e-4aee-a50a-57f55d3084bf	Prismic's Avatar Search	Prismic247	7	1670374	7	avatar,search,find,world,avatars
+#tohk-world-index	1	1579	2026-10-07
+wrld_57514404-7f4e-4aee-a50a-57f55d3084bf	Prismic's Avatar Search	Prismic247	7	1670378	7	avatar,search,find,world,avatars
 wrld_dd036610-a246-4f52-bf01-9d7cea3405d7	'Among Us' game	Jar	7	589484	3	game,udon,quest
-wrld_e4908cea-023b-4749-9ad7-a898b12996e7	Test Pilots	Sacchan	6	495917	3	flight,udon,flying,dogfight,jets
-wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe	Murder 4	Jar	7	452583	7	game,udon,murder
+wrld_e4908cea-023b-4749-9ad7-a898b12996e7	Test Pilots	Sacchan	6	495920	3	flight,udon,flying,dogfight,jets
+wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe	Murder 4	Jar	7	452584	7	game,udon,murder
 wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b	The Black Cat	spookyghostboo	7	432884	7	bar,quest,hangout,chill,lounge
 wrld_266523e8-9161-40da-acd0-6bd82e075833	Popcorn Palace	spacebaar	8	430302	3	Chill,sleep,private_rooms,video,youtube
-wrld_df2776a3-8c84-45e3-bbf1-30ac8422911b	Kitchen Cooksǃ	Jar	6	374881	3	game,udon,cooking,kitchen,restaurant
+wrld_df2776a3-8c84-45e3-bbf1-30ac8422911b	Kitchen Cooksǃ	Jar	6	374882	3	game,udon,cooking,kitchen,restaurant
 wrld_900dd077-1337-c0fe-babe-71de05ea12c4	YTS 2․1 - YouTube Search‚ Subtitles‚ Quest	syncpulse	8	361543	7	chill,video,youtube,search,gimmick
 wrld_d29bb0d0-d268-42dc-8365-926f9d485505	Midnight Rooftop	ImLeXz	7	344888	3	chill,optimised,ambience,relaxing,VRCLightVolumesReady
-wrld_6b77c061-a1bf-48eb-b107-c4d944490198	McDonald's	VR_Jen	7	323396	7	playground,happymeal,mcdonalds,halloween,nuggets
+wrld_6b77c061-a1bf-48eb-b107-c4d944490198	McDonald's	VR_Jen	7	323397	7	playground,happymeal,mcdonalds,halloween,nuggets
 wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a	Prison Escape	Ostinyo	6	308708	7	game,udon,gun,prison,halloween
-wrld_740c3481-9d4b-446e-8bb7-c94b00c53801	The Spider-Lair˸ Evolved	Bronx	6	305099	7	spiderman,marvel,lair,swing,avatar
-wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b	Cuddle meǃ	Kristinee28	6	281724	7	
+wrld_740c3481-9d4b-446e-8bb7-c94b00c53801	The Spider-Lair˸ Evolved	Bronx	6	305100	7	spiderman,marvel,lair,swing,avatar
+wrld_0ecc4280-ae0d-4d0b-88ec-242b5f5690d2	Nony's Avatar World	·ᴢɪɴɴʏ·	5	291366	3	avatar,pen,mirror,chill,pool
+wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b	Cuddle meǃ	Kristinee28	6	281725	7	
 wrld_f557959f-6fde-4164-be36-31f1d40bb9a5	Zombie Survival	Τeal	6	277437	7	game,gun,shooting,zombies,pve
-wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa	A Simple Fishing World	Puppet~	6	270496	7	game,fish,relax,chill,ambience
-wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb	Better UNO	Encoye	6	249935	3	uno,card,game,udon,better
+wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa	A Simple Fishing World	Puppet~	6	270497	7	game,fish,relax,chill,ambience
+wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb	Better UNO	Encoye	6	249936	3	uno,card,game,udon,better
 wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd	Sovren's Chill home	sovren	6	247022	7	sleep,8ball,videoplayer,games,drink
 wrld_7281543e-6888-4676-896a-fdd090552fc4	Exoplanet Journey	Niko∗	6	234144	7	chillout,planets,space,exploration,audiolink
 wrld_9da1349e-470b-47fd-a9b5-bd57d49255e2	Spirits of the Sea 海の幽霊	Maki Maki	6	229817	3	puzzle,spirits,ocean,cafe,underwater
+wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022	Aircraft Carrier Jets˸ F-14	Zweikaku	6	220970	7	combat,jets,flying,flight,fly
 wrld_ad903340-41c5-44a1-bf37-9bfad5c91a76	The Midnight Bar	[Jmelt] Kurisu	5	214299	7	cyberpunk,bar,drink,valhalla,jp
 wrld_a5444b7a-94a5-430e-9f4f-9f57b06aeeb1	Omegle VR	Puppet~	7	209055	7	social,omegle,fun,friend,talk
 wrld_057b9b0f-a9c1-4f3c-b002-058a658e2217	中文吧 Chinese Bar 8․1․5［CN＼HK＼TW］	Circes	7	207783	7	cn,hk,tw,中文吧
 wrld_0733e12b-6e3a-4e2e-9b09-183e3627357b	Rainy Road	Bia_Kawaii_Br	5	206249	7	rain,motorhome,cozy,trailer,chill
-wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77	FISH ǃ ［PYRAMID］	Godfall	7	205269	7	fish,game,fishing,chill,boats
-wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9	Avatar Testing Chamber	Ziggor	7	198383	7	photo,testing,avatar,profile,picture
+wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678	Beyond a bit - 想像のちょっと先へ	EstyOctober	5	206225	7	music,chill,houdini,space,meadow
+wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77	FISH ǃ ［PYRAMID］	Godfall	7	205270	7	fish,game,fishing,chill,boats
+wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9	Avatar Testing Chamber	Ziggor	7	198384	7	photo,testing,avatar,profile,picture
 wrld_bd5fd91c-8369-438f-85d2-37ee593a5c36	Haunted Asylum	Ostinyo	6	197287	3	horror,dark,halloween,scary,game,horror
-wrld_4a65ba53-d8df-40a7-b67d-30c63bff0e95	Drinking Night	Rackshaw	7	193974	3	fun,drink,drinking,night,mirror
-wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd	VRChat Home	vrchat	5	189197	7	feature_avatar_scaling
+wrld_6d6a4637-8175-4ccb-81d8-aeb1af6acb1e	THE SMILE ROOM	ItsCripsy	6	195620	7	gameworld,horror,game,scary,Halloween
+wrld_4a65ba53-d8df-40a7-b67d-30c63bff0e95	Drinking Night	Rackshaw	7	193973	3	fun,drink,drinking,night,mirror
+wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd	VRChat Home	vrchat	5	189198	7	feature_avatar_scaling
+wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd	Udon Bird Sanctuary	Sarah Duck	5	188997	7	ai,relaxing,ducks,udon,canada
 wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a	The room of the rain	Ivaj15	5	185437	7	chill,sleep,rain,furry,sounds
-wrld_81800175-2fdb-4e77-b602-c7fa35f33c0c	Audience Anarchy	Jar	5	177294	3	game,theater,improv,acting
+wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6	Aquarius	Fins	3	178929	1	aquarium,educational,fish,ocean
+wrld_81800175-2fdb-4e77-b602-c7fa35f33c0c	Audience Anarchy	Jar	5	177295	3	game,theater,improv,acting
 wrld_44f4a344-4489-4e11-a54a-86971f16f0e6	Sunset Bar - DVC	Lingie	6	172525	7	drinking,chill,bar,lounge,duskview
+wrld_c077aa49-4820-472d-ace5-c11368f1e3f4	Project Aincrad 1․6․3	ArgusVRC	6	171006	3	rpg,mmo,game,sao,persistence
 wrld_1146f625-5d42-40f5-bfe7-06a7664e2796	VRCDB Avatar Search ＋ GPT-4o	DynamicDesire	6	170980	7	avatar,search,avatars
 wrld_e9093447-5e69-4eec-8262-358a4ad72db9	Blackoutǃ	Ostinyo	7	170742	7	game,udon,dark,murder,halloween
 wrld_736bad27-4663-4346-a345-26e1e859d94e	Japan Shrine	ITOAR	4	164527	7	japan,shrine,japanshrine
+wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820	EvolvedAnt Arcade	EvolvedAnt	6	163642	7	quest,arcade,fnaf,playground,game
+wrld_f059e174-249c-4aa9-b1f2-3873ed9dfd89	Just Dance VRChat	Ikbenmathijs	6	162522	7	music,game,exercise,dancing,dance
 wrld_bf51e60f-f372-48b1-a757-88ba8331d926	［JP］Tutorial world	tamsco274	7	162071	7	japan,japanese,jp
-wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300	Japan Shrine［autumn］	RootGentle	7	156713	7	japan,shrine,jp,VRC_Light_Volumes
-wrld_fac11e5f-1c73-4436-8936-a70b80961c5a	Rest and Sleep 寝る	ʟᴏʟɪ	6	156348	1	sleep,bed,chill,relax,hangout
+wrld_5edb4d7d-2400-49f8-bae1-a8eb48a258e2	AudioOrbs	Kilerbomb	5	158999	1	visualizer,music,audiolink,lights,color
+wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300	Japan Shrine［autumn］	RootGentle	7	156714	7	japan,shrine,jp,VRC_Light_Volumes
+wrld_fac11e5f-1c73-4436-8936-a70b80961c5a	Rest and Sleep 寝る	ʟᴏʟɪ	6	156349	1	sleep,bed,chill,relax,hangout
 wrld_e0434a34-2f64-4e89-99da-8e3b4a86ffe4	VR Chess	NoLife1942	6	154585	7	gun,shoot,udon,game,murder
-wrld_1e0e3667-af03-4ce2-9399-30014a109c48	Cozy Calm	~Sam	6	153186	3	cozy,chill,relax,hangout,sleep
-wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7	SuRroom	citrusxr	6	150477	7	home,relax,party,sleep
-wrld_bcfd94c8-3d69-4d9b-b610-282c6d8a5b3d	Karaoke Central	NyanBlade	6	149943	7	karaoke,central,singing,pool,axe
-wrld_4b341546-65ff-4607-9d38-5b7f8f405132	Furry Hideout	Lt_Shadow	6	149351	7	NOAI,furry,chill,hangout,avatar,Videoplayer
+wrld_1e0e3667-af03-4ce2-9399-30014a109c48	Cozy Calm	~Sam	6	153188	3	cozy,chill,relax,hangout,sleep
+wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef	Super Tower Defense	DragonCookie	5	151127	7	td,defence,game,tower,defense
+wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7	SuRroom	citrusxr	6	150478	7	home,relax,party,sleep
+wrld_bcfd94c8-3d69-4d9b-b610-282c6d8a5b3d	Karaoke Central	NyanBlade	6	149942	7	karaoke,central,singing,pool,axe
+wrld_4b341546-65ff-4607-9d38-5b7f8f405132	Furry Hideout	Lt_Shadow	6	149354	7	NOAI,furry,chill,hangout,avatar,Videoplayer
 wrld_d5d2825e-7896-46db-9a5e-8154648c95ed	Get Lostǃ ［Forest］	NovemberFrog	6	142219	7	forest,roleplay,game,horror,horror,camping
-wrld_ac9414e5-003d-4b0c-8d07-1a50043fe534	Goodnight Sleep（Cabin）	Kristinee28	6	139983	7	relax,bedroom,modern,sleep,cabin
+wrld_1153c06c-f59c-4d18-a335-8e48fe192d28	Bugs Avatars	Ｂｕｇｓ	5	140007	3	eboy,egirl,couple,avatars,avatar
+wrld_ac9414e5-003d-4b0c-8d07-1a50043fe534	Goodnight Sleep（Cabin）	Kristinee28	6	139985	7	relax,bedroom,modern,sleep,cabin
 wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce	Trash Compactor	Jordo	7	139429	7	game,halloween,spookality,quest,physics
+wrld_1b3b3259-0a1f-4311-984e-826abab6f481	Just B Club	Blue-kun	4	139329	3	npc,bedroom,club,pool,chill
+wrld_a2279029-c555-4fed-945f-dde72e8fac0b	The Backrooms v11․2	Friday1	5	138520	3	backrooms,fun,scary,horror,game
+wrld_01b62965-1b3c-4062-bc22-0b339b8063ca	VRCraft	Markcreator	6	137438	7	minecraft,udon,build,creative,game
 wrld_df4c9545-808f-4032-b5ad-91aca98d1d5f	Truth or Dare	Street0r	6	136617	3	udon,games,game,dare,truth
 wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce	MR MMD World	Missing_	7	136174	1	MMD,Song,Music,Dance,camera
+wrld_a23a67da-4dd8-4d26-ab3f-0ae870d990d6	mmd home	瑞幸烤布丁拿铁	6	134228	7	quest,mmd
 wrld_1a8b8684-3b19-4770-a4a7-288762f57b29	1's Optimized Box	1	6	133688	7	box,mirror,optimized,hangout,1
+wrld_637ca2d9-9073-4bf4-ba24-c194ff051536	Avatars by Mai	Mai♡	5	133197	7	avatar,chill,mirror,cozy,soft
 wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d	日本語話者向け集会場「FUJIYAMA」JP	JP_Fujiyama	7	131996	3	japan,jp
 wrld_9ca4e522-f903-4900-8a7c-103371245304	Life Drawing	Tokkio	6	131914	7	artist,painting,game,sketch,draw
 wrld_9876e234-6dcf-444e-b9e9-d505b6d27189	No Time Two Talk	Faxmashine	5	131327	7	chat,talk,omegle,roulette,social
-wrld_0ae3e886-52eb-4ee0-aa0c-ef7d5a9fb2d8	［3D You］ avtr․zip - Search ＆ Hangout	Armagan	7	131217	7	avatar,search,chill,cuddle,cozy
+wrld_0ae3e886-52eb-4ee0-aa0c-ef7d5a9fb2d8	［3D You］ avtr․zip - Search ＆ Hangout	Armagan	7	131220	7	avatar,search,chill,cuddle,cozy
+wrld_88e3c772-894f-418d-b9e5-96059af3d631	Yayoi Summer Nights	猫屋敷やよい	6	130471	1	japan,summer,night,yayoi,fantasy
 wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f	Magic Freeze Tag	Jar	6	129454	7	udon,game,tag
 wrld_30716c54-3565-42f7-b7c5-d398ef4faac5	ポピー横丁-Poppy Street-	Coquelicotz	6	129138	1	
-wrld_15f7034a-b074-4812-bfcb-317eaa2741de	Melon ＆ Chill Suika Game	mahu	6	128233	7	game,watermelon,chill,persistence,suika
+wrld_15f7034a-b074-4812-bfcb-317eaa2741de	Melon ＆ Chill Suika Game	mahu	6	128234	7	game,watermelon,chill,persistence,suika
 wrld_19150cfd-170b-4ca7-a32e-6ba0ae080c09	Freddy's Custom Pizzeria 2․0	Fraca	6	128152	7	fnaf,pizzeria,roleplay,gmod,events
+wrld_f5f11bb8-e02a-452b-b0cb-f2d8db74a3e8	Dreams Train	Kireya	4	127851	7	chill,friends,cozy,quest,train
 wrld_14048005-69c2-438f-9ec3-e5ad95fee014	Music ＆ Chill	Kinashi	4	126202	7	music,chill,spotify,youtube,relaxing
+wrld_16248871-a374-4819-a284-555ddfc33380	Quick‚ Drawǃ	Maki Maki	6	126162	3	game,draw,charades,pictionary,multiplayer
+wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7	The Avatar Studio ｜ Avatown	MetaCreatorsTYO	6	126146	3	avatar,photo,testing,Avatarstudio
 wrld_c16e4dee-d149-4116-adbc-16bc30b664b0	Idle Home	Maki Maki	5	125565	7	game,exercise,idle,gacha,relaxing
 wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd	Terrors of Nowhere	Beyond	7	124975	1	game,udon,horror,survival,chaos
+wrld_28e96571-5447-4ce4-9b01-0a812da7426b	坪倉家｜Tsubokura's Home	kohack_v	5	124721	3	youtube,japan,video,room,quest
+wrld_551c30cb-0e56-4c69-9176-10e259a89e2a	Treehouse in the Shade	1001	5	123584	1	fractals,chill,shaders,treehouse,hangout
+wrld_de53549a-20cf-4c6f-abea-dcda197e1e16	ORGANISM （v1․5）	DrMorro	5	123045	1	night,city,coridor,explore,backrooms
+wrld_107869ee-ee7e-4332-aed2-9d0fd5bc5f31	Prop Hunt	MMMaellon	0	122336	3	game,udon,multiplayer
 wrld_a729bf90-1220-423a-9630-7e60851e7475	Rainy Daze	Very Merri	6	121226	3	Rain,Cozy,Comfy,Sleep,Home
 wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3	［JP］UDON-SABER QUEST うどんせいばーQ	ちしゃねこ	6	120140	7	beatsaber,music,game,quest,jp
+wrld_2c4df0ee-b61d-415c-86b0-c16270d11c00	F․E․A․R․S	ItsCripsy	4	120093	7	horror,spooky,survey,fears,game
 wrld_f8474f94-684c-47be-84fd-a7ce90a1b5ce	Winter Company	Lucifer MStar	5	119266	7	udon,relax,solitary,snow,quest
 wrld_6135fbae-c3ac-4395-b5ab-1218f130dfbd	The McMansion	spookyghostboo	6	119156	7	house,mansion,suburban,lake,night
-wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc	place to eat cereal	Rоѕеfаll	6	117723	7	optimized,ambient,rain,cuddles,subtitles,sponsor block,search,avatar search,furries,space,relax,cozy,furry,comfy,cuddle,cereal,sleep,youtube,chill,hangout
+wrld_61ec19ef-3e4f-427a-9b6f-8a9719507243	Aoinu's Shooting Lab	あおいぬ	5	118896	3	shooting,gun,udon
+wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc	place to eat cereal	Rоѕеfаll	6	117724	7	optimized,ambient,rain,cuddles,subtitles,sponsor block,search,avatar search,furries,space,relax,cozy,furry,comfy,cuddle,cereal,sleep,youtube,chill,hangout
+wrld_ed630acd-ddf7-4b3d-bf5b-e4502714000f	Dullish	DullEyeMob	3	117420	3	pool,christmas,shrek,portals,avatar
 wrld_6caf5200-70e1-46c2-b043-e3c4abe69e0f	The Great Pug	owlboy	6	115694	1	bar,hangout,social,classic,stage
+wrld_66431182-f46c-45c9-9c8e-ba7f47c10177	VROOM VROOM DRIVE	PROTOCO	4	115414	7	car,driving,game,udon,desert
 wrld_566ff86a-bd70-4037-9bd5-7bba189e9267	5ka Пятёрочка Russian	Vasya	6	114735	7	russian,rus,5,russia,ru
 wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5	VRC BOXING ［JP ⁄ EN ⁄ KR］	ムシコロリ	7	113511	7	game,boxing,udon,quest,battle
+wrld_1608a761-8ffd-4327-95b9-6800921f7af4	THE CABIN LIFE	Kristinee28	5	113505	7	cozy,hangout,cabin
+wrld_77f63ac2-2dcf-49e2-8c7e-9cd1e5011d74	Serenity Cove	Zappaku	6	113453	3	island,beach,sleep,games,rest
+wrld_34693736-118a-4a1f-9b4d-95b866ed83a7	Astral Bounds	Vectriel	5	112435	7	clouds,underwater,particle,music,relaxing
+wrld_c101c803-7d1a-42d8-9a5e-00a0ccfb2b2f	Probability Labs	JohnD0E	6	111661	7	multiplayer,party,game,quest
 wrld_58b24425-a355-45d0-be76-9483c4f6fbae	Cozy Apartment	~Sam	5	109202	3	sleep,hangout,relax,chill,bed
+wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e	Spy Check?ǃ	Jar	6	108388	7	spy,udon,game
+wrld_31f1a843-16b6-454f-ba8c-7de6573c9767	Noodles Quest ＆ PC Avatars	NoodleBoxDemon	4	108380	3	noodle,avatar,avatars,quest,tree
+wrld_4b1f02f0-0b17-4af7-9425-87e10cad8039	Gen's Chill World	Genesis	5	107591	3	pong,pool,cards,drink,youtube
 wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653	メゾン荘 201号室	ARUSON_EF	7	105445	7	room,chill,relax,japan,home
+wrld_4f826865-8501-4de2-b83a-f7eeb86b26a1	ROOT'S HOME （2024）	ROOT BEER	4	105071	1	relax,sleep,video,cozy,music
+wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe	Jetski Rush	Quap	6	101609	7	game,race,multiplayer,water,pvp
+wrld_e9a31011-8401-4b72-af0f-0d7595328c0c	Summer Solitude	Lucifer MStar	5	100549	7	udon,solitary,hongkong,peaceful
+wrld_42b399f6-08c2-4155-a293-9b26bd337e4e	Go Kart Zombie Tag	PlayerBush001	6	100355	7	tag,cars,udon,game,Karts
 wrld_29ed52b4-f39f-4874-a012-c95d8eff02a2	Wobblins' Digital Circus	Wobblins	7	99875	7	circus,pomni,TADC
+wrld_5bd54be1-20ae-40c0-8a7e-eb0b5ab31296	Rum Ham's Avatar World	Rum Ham	3	99650	3	avatar,meme,funny,hangout
+wrld_db8505a0-4dd9-4344-9d13-208ced35931e	Tier Land	Jar	6	99155	7	udon,game
+wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b	Complex 7	Fins	5	99009	1	Fins,Exploration,Scifi,Cyberpunk,Atmospheric
+wrld_0ec97c4f-1e84-4a3a-9e3a-fa3075b6c56d	Ghost - Police Office	NoLife1942	5	98234	7	gun,shoot,udon,game,murder
+wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4	Absence	DawidCSX	6	98052	7	island,chill,sleep,ocean,twilight
+wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6	Super VR Ball	blueasis	6	97757	7	ball,monkey,game,racing,jam
+wrld_fb02d79e-0cb1-42ed-89d3-21097045bf67	NightShift - ［LEGACY］	Chaotic_Jay	3	97362	7	game,fnaf,pvp,horror,freddy
+wrld_987b7998-9e1f-4ac2-b428-718e20f78060	Keep Running （Game）	Junii23	4	97309	3	horror,game,scary,nextbot,udon
+wrld_9c703738-b963-4558-a23c-182f538a7e50	RØDREVEN _ Scandinavian Island Home	Kevin the fox	5	96669	1	furry,sleep,realistic,relax,rain
+wrld_32402c8f-f897-4ed6-8266-cd22fdce3313	Infected˸ Reborn	NoLife1942	5	96518	3	gun,shoot,udon,game,murder
+wrld_69c41e95-1539-426a-a321-34412e0b021e	GIGAS -OLYMPUS-	キャンディちゃん	6	96401	7	game,pvp,quest,battle
+wrld_7f9b9fe5-1ef9-4525-836b-e86e095b27e8	Acquarium Loft	Kireya	6	96384	3	friends,cozy,chill,relax,underwater
+wrld_70353369-ba69-46ab-a20b-f6112c82adba	Putt Putt Quest	Ostinyo	5	95973	7	golf,game,ball,quest
+wrld_505738e4-c1fb-4ecc-b49a-b7865e884bb1	Hotel MorningStar	Lucifer MStar	6	95668	7	movies,exploration,uk,cosy,Quest
+wrld_63bf7009-3011-4604-b7b8-3987ed6a99bb	Star Wand	phi16	5	94294	7	
+wrld_c60988b7-20fb-4fc1-81fc-7431fbf27ae4	Bayshore Loop	Jintei13	5	93816	3	cars,expressway,racing,night
+wrld_5eb5929a-c878-4372-b2f8-8198b96400a0	Soft Space	~Sam	5	92881	3	relax,cozy,quiet,small,soft
+wrld_75f43f6a-8f69-477a-9dab-cd0291d03bcb	Drive Different Cars	Bia_Kawaii_Br	5	92718	3	cars,car,vehicle,drive,game
 wrld_cd3213dc-4ea7-4b60-9010-3e239ec4f2be	Bar Hien	hien_hei	5	91958	7	quest,videoplayer,drink,bar
-wrld_84b742b1-2c9f-451a-9e4f-65d3855aaa50	everyone is asleep except you	Rain Mist	7	87659	7	sleep,ambient,rain,cuddles,chill
+wrld_8afc29f9-47f8-4452-b8a9-5d7119fc57c1	Gothic Loft	Kireya	6	91923	7	gothic,dark,chill,sleep,photos
+wrld_ac92e1e8-0059-4249-a5af-18bd4b3e8478	Hide And Shriek	Superfriend	5	91846	7	game,horror,pvp,udon,Halloween
+wrld_78e661b9-05ec-4d43-9dcf-b06efc1237ec	Varneon's Udon Vehicles ｜ Docks - Time Trial	Varneon	5	91400	3	driving,interactive,worldjam
+wrld_e46a4a29-b066-4df0-a33c-b0a96722acdf	The Normal Elevator	Hens	6	91098	3	game,meme,memes,cursed,roblox
+wrld_a8912308-d979-407e-b744-4a6a760ff86e	Horse Mountain	nprowler	5	90573	7	winter,mountains,horses,forest,nature
+wrld_de730e74-7c20-45ee-9551-b0ae0665849a	DragUdon Ball Z Timenest v1․7․0	zeshin	5	90241	7	udon,time,nest,dbz,game
+wrld_6ebfc3e2-3553-4cd3-9aca-1ee5e84f7811	Cozy Boat	Lealennia	6	90203	7	hangout,boat,chill,cozy,comfy
+wrld_6a10cd2b-7b72-4bb8-b2c5-3b9c11998efb	Genshin Impact - Favonius Cathedral	Khaslana	4	90180	7	genshin,quest,cathedral,mondstadt,favonius
+wrld_6f5c4c61-a85e-4a31-a7d5-4a882fee4fe7	Aeryn's Avatars	Aeryn	2	89978	3	avatar,relax,chill,mirror,optimized
+wrld_776a6a37-f307-43f4-aeef-8f151f38dba4	MMD JP Music	Aeriiie	6	89901	1	mmd,dance,camera,music
+wrld_93fbc503-bc5b-4bc3-a4f7-7d289dc82740	Break the Glass ǃ	Cattus	5	89442	3	glass,break,destroy,udon
+wrld_e80d7c90-14bf-423a-9cff-7ec257ff1dc2	Night Hangout	Kristinee28	5	88580	7	hangout,rooftop,night,chill
+wrld_dfcf1824-c28d-43b8-906b-3d94e4902001	Gio's avatar world	~Gio~	4	88570	3	music,quest,gio,chill,avatar
+wrld_f6759aa2-20d8-4ef5-8b96-c8498f1142c6	Sensory Loft	Kireya	6	88274	7	colorful,adhd,anxiety,relax,photo
+wrld_84b742b1-2c9f-451a-9e4f-65d3855aaa50	everyone is asleep except you	Rain Mist	7	87660	7	sleep,ambient,rain,cuddles,chill
+wrld_65ce4a4b-f66f-4844-adfe-072663394514	FurHub˸ The Furry Hub	TheDoctor26	4	87591	7	furry,hub,club,fur,avatar
+wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46	Happy Hill Dog Park	Dr․Kim	4	86838	7	dogpark,ドッパーク,perros,狗公園,tamananjing
+wrld_aa762efb-17b3-4302-8f41-09c4db2489ed	PROJECT˸ SUMMER FLARE	y23586	4	86794	1	projectsummerflare,summer,project,flare,y23586
+wrld_e6b1d6f1-2c45-4d96-a3b0-5db6d153edff	Big Als Avatar Corridors	Big Al	3	86049	3	corridor,avatar,al,viseme,cartoon
+wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f	Putt Putt Pond	Ostinyo	5	85663	1	golf,pond,game,ball
+wrld_ceeaf69f-cb05-4089-b7df-41437d549646	The Superstar Daycare	Vazojji	5	83770	3	fnaf,sb,freddy,moon,daycare
 wrld_827a38d3-9a81-49ee-9ac4-9bb6c50716d0	Soft Sea of Stars	Camille	6	83204	3	soft,sea,quiet,safe,rain
+wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b	よるとうげ -Yorutouge-	VR_SMEJ	5	83127	1	music,Kikuo,VOCALOID,animation,night
+wrld_c54add9f-29b2-4b60-b051-e4999966ebc8	SunDown	WispyWoo	6	82874	7	beach,sun_set,cave,comfy,loft
+wrld_37326793-88aa-4587-b58b-07073df8839a	Gun Em Down VR	Dinky_	5	82561	3	game,quest,pvp,fps,dinky
+wrld_8f97c2ce-9455-4468-9925-628f6fba0dd1	MidNight Drive	WispyWoo	6	82511	7	van,moon,night,comfy,adventure
+wrld_cfb86e57-6227-4a00-b47e-43fd3f1bb105	Halloween UA - My Hero Academia	Takato Matsuki	5	82452	7	myheroacademia,mha,avatars,myhero,school
+wrld_02450116-8967-4d0a-87a0-86765515fcce	Tunnel （Music Visualizer）	Klinck	4	82069	3	udon,music,visualizer,tunnel,particles
 wrld_53881c47-4d56-4fff-b8da-0453deddadb6	中文补番追番动漫屋V3․0520［CN］	Kitsune	6	81992	1	中文,动漫,cn,chinese,视频
+wrld_47237d61-4fd9-4066-bf91-41c482a67f0a	The Devouring	Lakuza	5	81602	1	game,horror,4poneys,gameworld,adventures
+wrld_80b35e16-21f8-4084-bc96-c136cd68f2e4	Avatar Nexus - 300＋ Avatarsǃ	Godfall	5	81602	3	chill,avatar,godfall,quest,avatars
+wrld_d1d2318c-5144-4902-a774-876f45c06804	Price Guess	Jar	5	81394	7	udon,game
+wrld_ba265839-272c-40c9-bed5-247b7ec0bb52	［JP］UDON-SABER うどんせいばー	ちしゃねこ	6	81205	1	beatsaber,game,music,jp,dance
+wrld_435c3698-da11-41d5-888e-1ce8e214e4ed	Remnant VR ˸ Vale	Dinky_	5	80714	3	rwby,remnant,vr,vale,game
+wrld_ad1d64be-292b-4400-9565-c34fc378b70e	YAAS - YET ANOTHER AVATAR SEARCH WORLD	MomzTaro	4	80602	7	
+wrld_9870aa37-916c-4e90-ba71-b8703c8204b3	Ramu's Gun Range	Xramu	5	80289	1	udon,gun,shooting,game,hunt
+wrld_fe890f89-1d56-403b-ab47-08957374a74f	Placid Plastic Duck World	zSkull162	5	79950	7	duck,simulator,chill,port
+wrld_caf792c9-1df1-4cc3-96f1-80f65bca2f3d	Cards Against VRC	Jar	4	79734	3	game,card,udon
+wrld_8c857d64-c74b-4e6d-827b-291621c3948f	Astraious's Avatars （9⁄3⁄25 Update）	LOVE ΛDDICT	4	79552	3	avatar,avatars,physbones,vrcft,face_tracking
+wrld_3cfce79a-ba30-4346-b4dc-2ba288c7c820	Mushroom Loft	Kireya	5	79357	3	mushroom,fairy,cute,sleep,magic
 wrld_153be667-a86e-4aaf-9eed-921bd568ee9b	EN-JP Language Exchange	BocuD	6	78851	7	English,Japanese,Language Exchange,Educational
+wrld_76eff8ae-2107-4851-9e04-2b0281fd9800	The backrooms	RyuukaVR	5	78735	3	horror,liminal,maze,backrooms,game,horror
+wrld_f717fe0a-c81b-4e06-8c0d-9e9b5ba44201	The Texas Pocket Mansion	Gaykujo	6	78008	7	chill,house,mansion,youtube,quest
+wrld_f612c90d-1a12-4355-8683-215c3a34c8ed	Thad Magic Mirrors - マジカル鏡	Thad Gyther	6	77751	7	mirrors,shader,relaxing,comfy,cozy
+wrld_3e8d1aec-85e9-4f91-b30a-a3af3e2c8003	Ghost Hotel	988U	6	77240	3	horror,horror,snow,ghost,hangout,game,gore
+wrld_a8cbf00c-f2d9-43a6-b257-675be512a02d	Toga and ikita Avatar	Toga	3	77159	3	toga,ikita,anime,avatar
+wrld_e51e964f-8b15-41a4-af76-5af156abbaef	Black Fire	Bloomin'	6	77156	7	Space,Campfire,Atmospheric,Blackhole,Flowers
+wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3	遠郷の冬めく夜 -Nostalgic Winter Night-	Atto_あっと	6	76979	7	onsen,japan,bath,snow,spring
+wrld_8abba687-ebfd-4356-846d-d069976df375	GeoLocator Remapped	Maki Maki	5	76885	3	game,panorama,map,earth,globe
+wrld_458eb373-50e5-4f79-a08a-a7af67e93c6f	Magic AI-Art˸ Dimensions	Niko∗	5	76862	7	psychedelic,gallery,shader,AI,meditation
 wrld_1b94e327-036b-4d09-81be-e898d71f02cb	日本人向け 1対1お話しワールド NAGiSA ［JP］	エンジンかずみ	6	76352	7	japan,japanese,jp,Nagisa,1on1
-wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038	Tiharuum - ちはるーむ	Tiharu	7	71933	7	boardgame,tablegame,sleep,chill,rest
-wrld_7a0c95e2-476c-4655-9b4e-7380933c4fd3	Cuddle ＆ Sleep	「Jаy」	6	70921	7	cozy,christmas,comfy,space,furries,relax,chill,sleep,cuddle,hangout,YouTube,furry
+wrld_83f5544b-66ba-4baf-a5aa-4fecc5b6b780	Prompt or Dieǃ	Puppet~	5	76055	7	game,fun,card,social,udon
+wrld_dd2bd994-851e-4b94-83b6-9b03547c67bd	Rainy Cliffside Shack	rinvo	5	75136	7	mountains,music,youtube,search,rain
+wrld_995e63e4-3ce4-46dc-89b1-38e790313432	Quest Saber Ultimate	Kitty Jen	4	74511	3	music,udon,game,beatsaber,quest
+wrld_6f55a286-b851-4d3e-8933-e7a31138edd7	PokoPeaLand	PPLSTAFF01	5	74432	1	park,game,japan,pokopea,horror
+wrld_78e566af-c5f4-4654-9baf-98209560fbb9	［Initial D］ Myogi （Circuit）	Jintei13	6	74426	3	cars,touge,driving,racing
+wrld_49e97e53-1fd8-404a-823d-4c1c3978412a	Drum Hero	Renamοn	5	74141	7	game,music,rhythm,multiplayer,drumming
+wrld_bfc702bc-f279-49c1-ae38-5ec876fdc958	Analog Nights	MikuChanAnime	6	73873	7	horror,Analog Horror,Mandela,Walten Files,Gemini,FNaF,Chill,Horror,VHS,coffee
+wrld_e7bf829c-c7ef-4a8f-9428-1c0bee825652	Skye's world （new update）	тупик	2	73431	3	chill,avatar
+wrld_8e0c918e-b8bb-4718-bec2-b7f7aece0fc2	Stalker	BLG18	6	72782	3	psx,horror,spooky,game,cursed
+wrld_080a6971-54d6-49f2-b09e-a000893c8444	Dead Men Walking	Jar	5	72384	3	zombies,halloween,udon,game
+wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2	Starlight lane	tp․jp	6	72368	3	cill,comfy,sleep,train,space
+wrld_c3e69a3a-508d-48e0-9289-0472b898804c	Magic Heist	Fins	4	72151	1	magic,adventure,fins,ride,heist
+wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038	Tiharuum - ちはるーむ	Tiharu	7	71932	7	boardgame,tablegame,sleep,chill,rest
+wrld_d5658267-c965-4dbf-b58f-6f50104e9f24	Spook Em Up	Crazium	6	71729	7	death_run,spookality,halloween,game,spooky
+wrld_aaed7e23-8798-41d5-bacc-347a0020b809	Ghost's Avatar World	GhostDotMidi	4	71566	3	avatar,military,Black_Ops,Modern_Warfare,doom
+wrld_b155ff30-0bbf-486c-afc5-e7a05145387b	VirtualFurence Furry Convention Hotel Estrel Berlin	Reimajo	5	71352	3	furry,hotel,elevator,piano,convention
+wrld_ca928d42-fd97-436f-9413-49be86b56cb2	Grapple Island	Sacchan	5	71159	3	hookshot,hook,grappling,game
+wrld_7187b577-bd38-43b6-a699-d39889b1b97f	Pap's Shooting Range	Pappekönig	6	71121	7	ww1,ww2,german,guns,secret
+wrld_7a0c95e2-476c-4655-9b4e-7380933c4fd3	Cuddle ＆ Sleep	「Jаy」	6	70920	7	cozy,christmas,comfy,space,furries,relax,chill,sleep,cuddle,hangout,YouTube,furry
 wrld_ed4a3561-4498-4450-96ee-9b711f730586	Seclusion	Rixiz	7	70368	7	chill,rain,concrete,ambient,sleep
+wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f	NeoWorlds	Widget365	5	70333	7	neo,worlds,retro,pixel,game
+wrld_2d9803f0-924d-407c-b92b-b0654c5afbde	Waves	Mochie	5	70172	1	
 wrld_ccbf8103-c23e-472f-8efb-38a9a9164357	Murder 2ǃǃ （GAME）	Jar	3	70067	3	game
-wrld_b8562984-4c23-4374-9421-47e1495de24b	for Two	green101	7	68997	1	chill,sleep,rain,cozy,ASMR
-wrld_a0ea27f8-f530-44f9-8461-4c343ddabf17	Karaoke in Syncǃ	CMajor7	6	68674	7	karaoke,music,stage,sing,singing
+wrld_ad18caf7-46e9-471e-b119-aa42c4cf4303	Soft Sea	Camille	5	70032	3	soft,sea,quiet,safe,rain
+wrld_dfe68a4c-64e4-46a6-ab68-80b382c30447	NAS Avatars 05․06․23	Nek0	4	69947	3	animation,avatar,quest,fullbody,erp
+wrld_0fed7b01-ec2a-4704-bea1-bcad73e6e879	Floating Airship	Lura_	5	69212	7	home,chill,airship,relaxing,sleep
+wrld_b8562984-4c23-4374-9421-47e1495de24b	for Two	green101	7	68998	1	chill,sleep,rain,cozy,ASMR
+wrld_a0ea27f8-f530-44f9-8461-4c343ddabf17	Karaoke in Syncǃ	CMajor7	6	68672	7	karaoke,music,stage,sing,singing
+wrld_4bc2fcb1-4d60-45cf-868c-ea5c2dd863b8	Ezekiel's Avatar World	Ezekiel˖	4	68566	3	movies,cute,funny,meme,cats
 wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849	なでなでマッチング【PC Desktop＆VR両対応】	CHIHAYA ちはや	7	68397	7	
+wrld_2054fa71-8e72-4c93-9040-f174f71fab2e	カラオケワールド JP KARAOKE	krypton zinc	6	68375	7	karaoke,sing,japan,quest
+wrld_79d241ea-afb0-499d-9874-455f85e87523	Starlight Home	Mei ʚɞ	6	68343	7	youtube,cozy,hangout,sleep,relax
 wrld_6c5dc06b-02e2-48bc-953b-cc4b600f5632	The Butterfly Mansion - Demon Slayer˸ -KNY- HC 2	Takato Matsuki	6	68081	7	demon,demonslayer,avatars,slayer,kny
+wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc	Nero's MMD world	Ner0kun	5	68071	1	mmd,dance,music
+wrld_0c2cbf7d-bfd9-4dc7-9ba7-97e4fd0a9489	Suburban Lakehouse	spookyghostboo	4	67795	3	hangout,party,videoplayer,house,pool
+wrld_ae7c68ff-4134-4adf-a7c0-2b7b1f33adaf	The Waiting Room	Yipped	5	67770	7	mirror,chill,game,psychological,puzzle
+wrld_f27e30fd-7f5e-40a6-a332-0fcbb6fa63a0	crow's chibi avatar edits	քɨռɛǟքքʟɛ×ʟօӄɨ	3	67589	3	avatar,avatars,avis,cute,mamehinata
+wrld_1ef6553e-8ddf-49da-8969-2b3c75a325b1	Pocket Rain	Silyataru	4	67408	7	cozy,rain,snow,car,comfy
+wrld_09e6752e-f412-4794-8c07-92d65af0f759	Victory of Round -v2․50-	M-UE（真上）	5	66752	3	game,fps,rogue-lite,pvp,udon
+wrld_c7423848-bb22-4cba-9341-37d8b076b6fd	Tanksǃ	Maki Maki	3	66724	3	game,tank,pvp,rc,battle
+wrld_25aa60c6-ca27-458c-8fdb-43b227caa9ed	Cozy Cabin - Legacy	~Sam	4	66671	3	relax,cozy,cabin,sleep,winter
+wrld_c82a5c14-97a5-4782-a034-d897d2d943a2	新宿ライブストリート ⁄ Shinjuku Live Street	Artistoid	6	66573	7	city,topazchat,shinjuku,Music,Live
+wrld_4d501c26-deb3-48e3-a5ea-e8dcc2a7f4e4	Comfy Hideout	ω Neptune ω	5	66439	3	chill,sleep,relax,chat,bed
 wrld_a4059cdf-d617-4605-8a74-cfe177b4b2b4	French Vibes ［FR］	xCommando	6	66327	7	french,paris,quest,fr,france
-wrld_cb47c3be-fc94-44b6-b723-4ae04fe6c91f	oxxo （spanish）	N0CH	6	63707	7	oxxo,mexico,spanish,tienda,shop
-wrld_d619675d-139d-4e58-bcda-da26a3c75c0e	ヘヤタテ型交流ワールド「ひまり旅館」-Himari Ryokan- ［JP］	エンジンかずみ	6	63044	7	social,japanese,jp,talk
+wrld_94028898-f92c-4565-9900-4a676d1bad77	VRBricks	Yuiko	5	66313	7	brick,build,sandbox,lego,persistence
+wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d	RESONARK 4 ELVES Pt․1 - v4․1․12	septem47	5	65656	7	udon,rhythmgame,septem47,game,avatar
+wrld_e070034f-da8c-4b00-b0f7-1fc66cf85d02	Magnetize	Juice․․․	5	65491	7	nostalgic,explore,interactive,basement,surreal
+wrld_baec7040-f9ac-4d66-9e58-3bc9d1f0256a	VRWare Quest	Haï~	4	65459	3	minigames,minigame,game,udon
+wrld_22b5b212-6834-481d-bc4e-01c5845add96	FNaF 1 PvP	CL3NR c2	5	65322	3	fnaf,avatar,horror,freddy,pvp
+wrld_d22ca932-a4dd-424c-a733-97d1cfb15a52	Undernet HUB	C H A R A	5	65016	3	undertale,avatar,deltarune,community,fandom
+wrld_bc5c40e7-9cfb-4a71-9d10-07330a3c1623	i have to calm down	༺EternalFool༻	6	64911	3	calm
+wrld_d13027bc-fc2b-4422-a6f1-8fa232222446	The Edge	Mochie	4	64889	1	
+wrld_f7a25364-c6a5-4b12-af64-c67bd95ef960	DrivingCity at Night	amesake	5	64872	1	
+wrld_e73c414f-78bf-4e85-bb01-8d151ba571ec	Backyard BBQ House	VR_Jen	5	64649	7	grape,goofy,youtube,swing,smashing
+wrld_87701b58-ee11-4ac1-80a6-6663ea1ca9c8	Solar Cabins ｜ ソーラーキャビン	artsy glitch	6	64084	3	fog,storm,video,chill,rain
+wrld_cb47c3be-fc94-44b6-b723-4ae04fe6c91f	oxxo （spanish）	N0CH	6	63708	7	oxxo,mexico,spanish,tienda,shop
+wrld_fd5c5c0b-17d3-44ce-a4ed-2b052b5e2710	Backspace 2	You are amazing	5	63643	7	horror,game,scary,spookality2024,spooky
+wrld_58e44637-9916-481e-93e5-2929bacd3bb9	Rooftop Party - KareedaFlix ＆ Chill	Kareeda	4	63540	3	hangout,audiolink,party,pool,vrclv
+wrld_7ef54852-7894-46e4-9935-7dacb78f81c5	Jetski Islet	Quap	5	63492	7	jetski,racing,beach,ocean,game
+wrld_8c422b2d-a819-45a9-b21b-61fbf2dd2e96	Cozy Cottage - Legacy	~Sam	5	63451	3	rain,country,quiet,cozy,relax
+wrld_d619675d-139d-4e58-bcda-da26a3c75c0e	ヘヤタテ型交流ワールド「ひまり旅館」-Himari Ryokan- ［JP］	エンジンかずみ	6	63045	7	social,japanese,jp,talk
+wrld_7d27ce46-4676-4031-8432-7f144554495c	SCP 087 QB	Doomster	4	62991	3	cave,horror,atmosphere,scp,game
+wrld_b2d9f284-3a77-4a8a-a58e-f8427f87ba79	Club Orion	AcChosen	6	62890	1	games,club,dance,stagelighting,audiolink
+wrld_ecc56c7e-09f7-44ec-be4c-6982a2c604ef	Just Zero Gravity Spaceship	ときわ（tokiwa）	5	62591	7	space,cosmic,spacestation,spaceship
+wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7	Hanami Onsen	zelfine	5	62544	3	cozy,sleep,hangout,japanese,youtube
+wrld_260cf262-0764-41eb-95a9-e74035a38c61	Just's Furry Avatars	Justifire	2	62539	3	avatar,rex,furry,avatars,chill
+wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832	［JP］ USiOPORT ウシヲポート	UMIUSiO	4	62524	1	usio,portal,hub,japan,jp
+wrld_5506c96f-99b2-462a-98b9-ab7586d7f9fa	Pinkie Promise	beverlyyyyy	5	62453	7	pink,garden,draw,cute,games
+wrld_97c016f3-a3d5-4ed0-aea8-92d1003c281f	Danger Roulette	PetersProblem	5	62358	3	game,roulette,gun,suspence,russian
+wrld_860bdea8-0499-4c16-8170-5683a3a3ab8a	Dream Waves	Very Merri	2	62287	1	vaporwave,comfy,dark,waterbed,cozy
+wrld_c8c1c373-dd05-4095-a5f9-57cc1e2dcc33	Squid Game RL⁄GL	Ostinyo	4	62015	3	game,udon
+wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57	VRWare	Haï~	4	61880	1	minigames,minigame,game,udon
+wrld_dcf23267-4176-407b-a365-df8f52cbb8f4	Bruhville	ThatFatKidsMom	5	61873	3	fun,meme,adventure,game,explore
+wrld_7cead4eb-165d-46a1-bbe7-76c3f99d85bc	Aero House	Sathon	6	61825	7	chill,lounge,modern,architecture,games
+wrld_26a207c4-e8f3-4d1f-8127-e5fb418aca72	Kyo's AVA world	Shiroppi	3	61786	3	avatar,quest,pc
+wrld_1d270307-7252-4117-9d97-50ff58ce7cb8	Hens' Meme Avatars	Hens	4	61612	3	avatars,memes,shrek,meme,avatar
+wrld_b38541b0-09bc-4b5b-9290-43b974448937	ǃ~Hoodie's Avatar Box~ǃ	H00DIE_VR	4	61554	3	omori,creepypasta,fnaf,avatar,securitybreach
+wrld_f20326da-f1ac-45fc-a062-609723b097b1	PyPyDance	pypy	6	61473	1	dance,justdance,youtube,fitness,game
+wrld_56dcd7bb-bfcd-44ab-ba42-e037b2e8cefb	The Ink Room	Trixelized	4	61355	7	paint,small,room,chill,relax
+wrld_42d284a9-7563-4739-98a4-44f4c43f0038	Dreamy Loft	Kireya	5	61220	3	loft,sleep,relax,chill,cute
+wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef	東雲風船 - SHINONOME BALLOON -	sakanaplus	5	60965	3	balloon,chill,quiet,sky,meditation
+wrld_6f6c85cf-61e0-469c-a863-08c85dc73daa	Hangout House	Munificent	4	60675	1	hangout,video,sleep,chill,winter
+wrld_3d892cf2-cd4a-4322-9e7e-2ec0cd7ea44c	The Afterdark Plaza	CoffeeBandit`	5	60608	1	game,arcade,furry,vaporwave,audiolink
+wrld_acddf0d0-628c-4b52-9fe3-9cbe0fe05602	Zombie Tag	markerss	5	60520	7	tag,zombie,game,infection,hide
+wrld_b5ed19cb-cf04-481c-833a-9833138ff668	VR宇宙博物館コスモリア Cosmoria［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］	vsp_vrc	5	60510	1	science,museum,planetarium,space
+wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a	Spirit Speak Game	Jar	5	60494	7	game,udon
+wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d	Japan Street 0․457	NEET ENGINEER	6	60465	1	japan,jp,udon,car,audiolink
+wrld_38f9757a-91cf-4df0-a64f-485c5ee695ac	VRChat 7-Eleven	CoffeeBandit`	4	60437	3	store,roleplay,avatar,7eleven
+wrld_d3e5abc3-2464-4e2f-b3df-d8f1758bf74e	Hook Junkers	Phasedragon	4	60319	3	original,game,udon,grapplehooks
+wrld_16011900-811a-45d6-be09-7f8d0a15207f	The Backrooms	Zayee	5	60178	3	horror,scary,backrooms,Game
+wrld_f9708fc3-ecd5-4c0c-a862-aee94753bfbc	Desert Airbase	NØNN	5	60137	3	fly,flight,flying,jets,combat,a-10,a10,mig-29,mig29,mig,f-15,f15,f-16,f16,planes,udon,aircraft,combat,jet,flight,sacc
+wrld_98422193-2ddd-4af4-bd97-ab5609a46785	BOMBERio	キャンディちゃん	5	59597	3	shooting,pvp,udon,game,quest
+wrld_81570649-e53b-4334-bed5-c28854daa9f1	Ducky's Avatars	SeDUCKtive	5	59508	3	avi,ducky,cute,avatars,smol
+wrld_46b756eb-1d85-4377-81db-b49bc9441f62	Fire's Avatars	Fire's	3	59433	3	avatar,chill,pc,quest,udon
+wrld_89794e6f-6812-4ead-90f4-c461a536c23c	The Evening News	kataze	5	58750	3	fun,udon,news,game,roleplay
+wrld_f7a383bc-c925-4696-85c2-2996c0a40112	Deep Blue	Fins	4	58644	1	ocean,fins,swimming,underwater,beach
+wrld_302d5b48-810d-4d65-bb08-8dfd629cba56	夏宙の休息地 -Summer Starrysky Rest-	Leiria_vrc	5	58503	7	Summer,Island,Night,Quest,Android
+wrld_d010695a-3e7c-43a1-ac38-d80f3ffeab17	Thermal Treatment	Jordo	4	58466	3	vrcprefabs,halloween,game,quest,spookality
+wrld_41eee024-34ec-43cf-a2f8-2bc16e2896d0	Dream Ocean	Shinyflvres	5	57695	7	home_world,blue,ocean,pictures,cozy
+wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06	Terra Cotta Valley	Octuplex	5	57194	7	explore,surreal,liminal,art,puzzle
+wrld_505f4d19-00a5-448c-9440-913c86ec9761	MoonLit Wanderings	WispyWoo	6	57060	7	comfy,moon,rain,cabin,ocean
+wrld_36117d86-d759-4b9c-962e-eb25c8caebdf	Sunset Bay	~Sam	6	57024	3	chill,hangout,relax,quiet,bed
+wrld_15ba8ede-374c-47dd-9906-2aaf4f50527f	YAMTheater - Ownership transfer ǃ	Nіyah	2	56994	1	movie,cinema,comfy,3d,anime
+wrld_38646e89-6117-48a9-aab9-aea64c1cd629	Transience	Tajasuka	5	56973	7	blackhole,dream,space,chill,alienplanet
+wrld_468b41a9-61f4-4ffe-84dd-864ce7f2f6af	Pet House Quest	Oli·	4	56737	3	pet,leash,cat,dog,collar
+wrld_cae35e0f-1544-4209-82b9-85f349010c74	Destructible House	Mr FoxQC	5	56616	3	house,destroy,game,quest,simulation
+wrld_fdc200a4-852e-408c-9bb0-56768ca138a9	NightShift 2 - ［LEGACY］	Chaotic_Jay	5	56597	7	game,fnaf,pvp,horror,freddy
+wrld_c9896ee4-eead-4901-be0d-f3a756478e96	Reflect on Life	ValeTheDream	5	56518	3	night,relax,chill,music,lifeisstrange
+wrld_51368d75-8d79-4167-be2c-b7cefefb1f42	Khihani's Avatars	khihani	1	56415	3	avatar,quest,nature,cave,models
+wrld_100bab88-1015-4916-8234-95ec1aa57751	Eyes-The Horror Game ｜ VRC Edition	CL3NR c2	5	56258	3	game,eyes,horror,objective,survival,horror
+wrld_18de6440-6cb4-4b6d-a2bf-772ed9655f99	DiscoHead's Fnaf HW Avatars （Quest）	DiscoHead	4	56059	3	fnaf,avatar,avatars,hangout,quest
+wrld_c6b6c1fa-ed05-46eb-a148-38655c64b8e4	Meat Grinder	Jordo	4	55629	7	vrcprefabs,halloween,game,slope,quest
+wrld_424c75c2-533c-4922-be0d-cd13c6aa6d6f	Antiheat's Apartment	Antiheat	5	55283	3	cyberpunk,apartment,furry,hangout,quest
+wrld_bfbfef9d-3084-41b5-b68a-97b2667a04c8	Amber Glade	Mankey	4	55281	3	chill,sleep,nature,photos,furry
+wrld_9c4ae09d-f6cc-45d1-be63-b9a6b6df1fb9	Magic Arena	とみー⁄Tommy	5	55121	3	fight,game,magic,battle,pvp
+wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262	小雨のあの日-A drizzly day	HANI․	4	54876	1	
+wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb	THE Swimming Pool	iyFale Edvifin	5	54788	3	chill,swim,pool,water,party
+wrld_3e0903d9-7572-4530-a96c-cea251992062	ATTO HOME -Usual-	Atto_あっと	5	54723	7	japan,chill,room,Summer,Pool
+wrld_9a55060d-8393-4de2-b202-199779f85ccd	Warm․ Obscured	Sumeru	6	54351	1	asmr,sleep,rain,night,nature
+wrld_fb4edc80-6c48-43f2-9bd1-2fa9f1345621	Luminescent Ledge	Thorinair	5	54261	3	night,chill,sleep,forest,audiolink
 wrld_0d333062-c99b-474f-91b4-cee7a28519cb	Adopt A Furry ǃ	7777zahar	7	54221	7	furry,chill,meme,roleplay,funny
+wrld_c3cf550b-b987-45ef-8b96-cc61fa6c2fde	Steps of Time ⁄ 時間の階段	_Harim	6	54188	1	Nature,train,japan,photo,harim
+wrld_0729c818-2397-4d80-84e2-dbd43844361e	Serenity Sleepover	TeddieP4	5	54108	3	chill,cozy,video,relaxing
+wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6	The Tenth Floor	-dem-	5	53811	3	game,spookality,horror,halloween
+wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7	Smash Contest スマッシュコンテスト	bironist	5	53784	3	contest,game,smash,udon,homerun
+wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f	消えたあなたと‚ 止まっている春が-Spring and you	AREN _	5	53623	1	relax,home,spring,cozy,painting
+wrld_d2af6dab-c6fa-4752-b8c5-227addcc5b10	Crystal Defenders	~Maru~	5	53505	7	pve,tower,game,avatar,defense
+wrld_3c78d22f-e1d7-471c-a2b4-de208249f473	Ice's Avatar World	TheIceDragonz	5	53499	3	lightvolumes,optimized,ice,avatar,couple
+wrld_3641292e-c412-45db-be53-6a89cc893012	Cloud Loft	Kireya	5	53444	3	chill,cute,relax,sleep,white
+wrld_854020c3-426a-4e55-b36a-65ecbbf5d491	夕焼けの帰り道ーOn my way home in the Sunset	HANI․	5	53280	1	
 wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340	The Pool Parlor ｜ 8 Ball Pool	Ahoya	7	53279	3	billiards,pool,game,8 ball,quest
-wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d	Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム	りくち_	7	51949	3	Game,Medal,Chill,Idle
+wrld_53862908-6fea-4919-bbbc-47afc5f65e2e	Light House	spookyghostboo	6	53274	7	island,house,mirror,mansion,beach
+wrld_fae97da1-d389-4f3b-aeb5-4f94ff232698	Miko Paradise ＆ Avatars	Cimomo	4	53256	1	miko,avatar,cimomo,cute
+wrld_8433c01a-797d-4cae-b3f9-30919f5f4c67	7 Minutes in Heaven	NeoSunfyre	5	52855	7	game,chill,quest,optimized,udon
+wrld_08437c5f-01c1-45a8-8c71-51458d883351	Justper's Furry Avatar World	justper	5	52195	3	nardo,dragon,rex,fox,avatar
+wrld_fd1b10c7-fac1-45fd-adf2-53f9a30e032d	The Great Plateau - Zelda˸ Breath of the Wild	ColonelMcKernel	3	52176	1	game,zelda,adventure,climbing,botw
+wrld_d3721f82-a99b-4fde-9a98-ae82a30a81fa	Botanophobia	Vygnarmenshnarf	5	52162	3	horror,horror,game,scary
+wrld_ca4a0801-7a02-49bc-ab5f-d4f2b111653b	Chill 2000s Bedroom	soldier boy	6	52095	7	chill,anime,bedroom,home,nostalgia
+wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b	WORLD OF THE SOUL	えしりあ	5	52069	1	rpg,game,udon,persistent,PVE
+wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d	Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム	りくち_	7	51950	3	Game,Medal,Chill,Idle
+wrld_93cb25d9-c3c5-4670-b0fa-c83a730f2c54	Just A Cabin	Maru~	6	51938	3	cuddle,rain,sleep,ambient,chill
+wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085	Ghost Hunters	Jar	5	51937	7	game,halloween,spookality
+wrld_36ee176b-cddc-404c-ac82-45a122507a9e	Minecraft VRChat Edition v1․10․1［Beta］	BarricadeBandit	6	51859	7	minecraft,udon,game,building,survival
+wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb	青天霹靂（夕）	しーの／T_Shiino	4	51743	3	
 wrld_760b95b6-7dcd-4939-9b0a-7837ab24c2f6	Thad Tiny Library （AI Inside）	Thad Gyther	6	51547	7	Cozy,Cabin,Sleep,Chill,Books
+wrld_640da926-5063-49c7-a790-c98fd4124b1a	Varneon's Udon Vehicles - Island ［PC］	Varneon	3	51333	1	driving,interactive,realistic
 wrld_7d6e45ce-d03e-4d98-9b11-0ac33239a3cc	Cruzeiro Brasil	Bia_Kawaii_Br	5	51305	7	brazil,brasil,bar,br,ze
+wrld_b20a27d2-cd22-4aa0-a25b-666dc97451ec	TonboBattlefield˸ Classic Remake	LefTonbo	4	51079	3	shooting,battle,game,melee,udon
+wrld_9936b6ff-e523-4066-9e40-a333320ff5d3	New Generation ⁄ 新世代	_Harim	5	51042	1	photo,nature,light,chill,harim
+wrld_ab7babbb-6428-43a4-8da8-d282733622f8	ScareBrandLand	StoreBrandChocoPops	5	50895	3	park,theme,halloween,scary,gore,horror
+wrld_55f1af61-9fca-4d61-bc33-935cb6d1bae4	Backrooms ｜ A-Sync Threshold	CL3NR c2	6	50885	3	maze,horror,game,backrooms
 wrld_9907d48d-47e6-4139-b859-297396ed0f13	A Game About Crates	_Froggi	7	50872	7	game,crate,casual,gambling,idle
+wrld_71eca28e-ee80-400c-9b53-dddc55c93124	Hearthwood	~Sam	5	50634	3	snowy,warm,fire,chill,cabin
+wrld_88972b1b-e3c9-4705-b4f7-47bec2292a03	Genshin Impact Avatars	Alexroc	4	50619	3	mihoyo,avatar,genshin,impact
+wrld_d4a9ba9e-4270-4c9a-85a6-5c8f3b2e1cd5	Private Jet Stream	Moffco	5	50584	7	airplane,comfy,chill,sleep,jet
+wrld_6e0fd383-33fd-4a1b-8042-1b33ef51fb7c	Superstar Daycareǃ ｜ FNAF˸ Security Breach	CabaBear	5	50581	3	fnaf,freddy,fnafsb,sb,daycare
+wrld_28583ff9-c014-4a20-b334-ed0006b177fd	Tony's Bizarre Avatars	TonyFilms335	2	50398	3	jojo,anime,avatar,jjba
+wrld_93efcff4-1cb4-4f2c-96bb-5eafb5993275	Archipelago ｜ アーキペラゴー	artsy glitch	5	50311	3	ocean,games,beach,chill,sleep
+wrld_ca2c5edc-b44b-4c68-863a-9a94b04889d5	District Roboto	Fins	4	50173	1	robot,fins,town,scifi,cyberpunk
+wrld_4e90675f-ccb0-46dc-818b-bc0d68aaafd1	Room of Rain	Welby Ariel	6	50036	3	rain,chill,simple,sleep,relax
+wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0	Ephemeris	Fins	5	49988	1	Fins,Flowers,Field,Chill,Stars
+wrld_e2e685de-1af9-4426-b614-dbdb4b316e5a	Starry Nights	~Sam	5	49965	3	sleep,cozy,relax,soft,night
+wrld_e1594101-a693-4209-83e0-96ac31a13bb3	Metal's Avatar World	-MetalMischief-	3	49959	3	other,avatars,dinosaurs,xenomorphs,undertale,pikmin
+wrld_0ed3d22f-9546-4e9e-8b1c-09dc87e82c92	Courtroom	Pan Diman	3	49875	3	court,roleplaying,attorney
+wrld_9647acf7-e077-4428-9f4f-4c8c0c49db55	Sleep Neko UwU Avatar	InsomniaAisu	3	49699	3	sleep,avatar,chill,cute,neko
+wrld_d048292b-42ad-4204-9372-0103d9a46f71	Gion Street - 祇園通り日本	Fins	3	49356	1	shrine,japan,kyoto,fins,nye
+wrld_3843bcb2-ad66-40c3-bf76-8d01fc8449a3	Horror Portal Hub	JustSaber	4	49345	3	horror,portal,scary,hub,game
+wrld_39c90776-52cc-4c77-9cfd-bf5fd803b108	The House	Ryuskeh	5	49297	7	chill,firework,sleep,tv,rain
+wrld_94d1bce9-7b9e-4c58-8277-0fe62b5770c2	Submerge	Fins	4	49295	1	halloween,fins,spookality,underwater
+wrld_d6e55ea7-5fdc-42ac-93cd-f285fc22cd04	Tsumuri Kart	ゲコつむり	4	49144	7	kart,game,racing,driving
+wrld_0c5b4cd0-a2a6-49fd-8c42-4862062b3671	rchs_	齊 iii	6	49127	7	chill,photo,puzzle,meadow,door
+wrld_b92b44e1-bd57-4100-9d49-c6eaee90c7de	Glimmer Glade	Mei ʚɞ	6	48994	7	fantasy,fairy,magic,forest,cozy
+wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb	Sushi Aquarium 海洋棟	Kaiiiiiiiii	5	48986	3	Fish,Sea,chill,Date,aquarium
+wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a	Overseer	Jar	5	48948	3	game,udon
+wrld_3df71090-3d5b-4cac-8b08-ea45c4e2518e	ShootingBattleVRC	K1911jp_けーいち	4	48927	3	gun,game,shooting,サバゲー,fps
+wrld_f35c2cfa-6ab8-40fc-92bb-87c052f0b3f8	HELL'S BASEMENT	Zayee	4	48914	3	halloween,scary,horror,spookality
+wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5	YH MMD WORLD Vol․1	yaohu	5	48838	1	mmd,dance,music,中文
+wrld_bb3f79e5-3e39-4190-aecb-7237b264f6bb	Anna	Bombae	6	48624	7	horror,paranormal,game,scary
+wrld_15c6ff42-a779-40a2-8c30-862d9015795e	Cute Avatar Search ｜ ?????????	Zuxi	6	48517	7	search,mirror,avatar
+wrld_8d740b03-93a4-4153-99de-9fd67d86d4ae	Sunset Retreat	DvLRaphy	5	48484	7	sunset,lake,chill,relax,game
+wrld_52330ddb-312f-4813-9670-a468f0fe4062	Wii Sports - VRChat	Bambо	5	48461	7	wii,nintendo,game,mii,wii_sports
+wrld_c2c0a30b-51d8-46d1-a62f-d17b0ca28911	Cosmos	suzuki_i	5	48448	3	comos,cosmetics,cosmetic
+wrld_f2ead82c-51f8-4411-8f76-2ca1e69f0d78	Karaoke Latino （spanish）	N0CH	4	48385	7	karaoke,latino,spanish,chill,music
+wrld_613a1804-1af3-47d6-a25c-bfa2cd398daa	cow's avatar world	·zox	3	48317	3	cow,avatarworld,avatars,egirl,eboy
+wrld_793f88dd-227b-4f1b-aea7-f4342c5bb66d	Liminal Hotel	Kireya	6	48165	7	backrooms,liminal,adventure,game,photos
+wrld_cb43c149-c9cb-4b9a-b228-ac8833cb69ff	Project Lost Worlds	Fins	6	47801	1	Fins,Adventure,Ride,Dinosaur,Scifi
+wrld_18c04a5c-c63c-4e88-9ba2-6786a6e8dab1	Character Smash Or Pass	Puppet~	6	47707	7	smash,pass,game,anime,party
+wrld_8ba30516-000b-489b-b5a9-95ed0186f7f6	Obsession VR Horror	FlowersRite	5	47443	1	gore,adventure,horror,game,puzzle,atmosphere
+wrld_2676386a-7c68-44bc-bce9-7692b72bfd30	Sky High Apartment	Sathon	6	47377	7	
 wrld_bc647b75-363d-40ed-ac02-c576098a1efc	Idle Cube	CryoZONE	5	47324	7	game,idle,relaxing,night
-wrld_61e374f5-a05f-44a9-80ff-6b845923dcd3	［CN］ 中文新手教程 ［Tutorial］	shine trick	6	47095	1	教程,cn,中文教程,中文,tutorial
+wrld_61e374f5-a05f-44a9-80ff-6b845923dcd3	［CN］ 中文新手教程 ［Tutorial］	shine trick	6	47098	1	教程,cn,中文教程,中文,tutorial
+wrld_1e02aa98-d6e8-4109-9803-754a6d3d3ba3	Udon Boxing v1․9․3	zeshin	4	47064	3	arena,boxing,udon,fighting,game
+wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe	Test Drivers	Sacchan	5	47056	3	bus,vehicles,cars,stunts,driving
+wrld_1752e426-4b07-45b7-99c2-452c02f5dcbd	The room of the Sleep	Ivaj15	5	47020	3	night,rain,optimiced,bed,sleep
+wrld_b02e2bbe-c0c4-46f9-aca2-1d0133eb374f	VRChat 한국어 튜토리얼（VRChat Korean Tutorial）	R3C0D3R	5	46933	3	korean,guide,tutorial,chobo
+wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83	Ludo	tp․jp	6	46758	3	game,ludo,cpu,chill,play
+wrld_00352602-587d-4bde-a4b4-8b6227e7cc53	Pressure Wash Simulator	nyakome	4	46740	3	game
+wrld_b25aef03-b5de-402e-8c19-01b85c34bfcc	Nordic Lakehouse Home 2․0	Arkîe	5	46705	1	sleep,furry,home,relaxing,nordic
+wrld_2902b80d-f4ba-48b8-b325-27227bff7500	Oceans Away	Sombie	4	46688	3	sleep,vibe,music,chill,beach
+wrld_e34431c3-cfb3-40b4-a084-4d58c39874e9	Lunar Plants	yagiri	4	46588	1	moon,flower,night
+wrld_d0a68029-96da-4e9f-aa0a-e4f8c6f5d6d9	Steel 'n' Gold	vrchat	4	46581	3	fps,western,guns,game,udon
+wrld_f6445b27-037d-4926-b51f-d79ada716b31	2000s Classroom	Artic-	5	46581	3	classroom,school,chalkboard,draw,education
+wrld_22470539-f6e1-4488-89ce-5f792e06bef1	DuckTalesWoo-oo's Avatars	DuckTalesWoo-oo	4	46538	3	ducktales,eboy,egirl,avatar,avatarworld
+wrld_bef9eccb-677f-4431-8dd2-cfd0467105f6	ThrillSeeker	EchoLoveVR	5	46527	3	Horror,adventure,spooky,game,story
+wrld_edb5a196-2e39-4f7a-a6e8-82fd378ba245	Swagguy47's Titanfall Avatarsǃ	Swagguy47	3	46514	7	swagguy47,titanfall,avatar,quest
+wrld_f276af30-d347-408c-b24d-9514293cb4d5	Fate of the Irrbloss	xCirrex	5	46407	1	game,social,roguelike,space
+wrld_99123966-6b37-46d9-835c-25c2f6e0706c	VRC Volleyball	mamemoyasys	6	46328	1	volleyball,sports,game
+wrld_2141ab2a-3a79-4f2c-a1d4-9c65d62a6091	Saji's House	sᴀᴊɪ	5	46298	3	house,mansion,fireworks,chess,villa
+wrld_acfd9876-5c18-4012-82c0-b00c89afc99d	Moody	Fins	5	46273	1	relax,chill,sleep,scenery,fins
+wrld_feda5b33-e22d-47ce-8707-537be2517351	Forest	BLG18	5	46196	3	psx,horror,game,spooky,cursed
+wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653	星屑の原	しーの／T_Shiino	5	46112	3	
+wrld_e4ecd2a7-2165-407a-80b5-2dcbebca0f7e	Cougar Circuit Drift CVS2	sleepy trippy	6	46104	3	Speed my mom kinda homeless,jdm,racing,race,help me please,uuuh,tandem,drifting,inital d,togue,game,drone,drive,car,drift
+wrld_54b8fa52-3c03-4604-8253-d9fb94c65543	Embers Avatar World	Ember-Dragoness	3	45981	3	avatar,emberdragoness,free,furry
+wrld_e51a6e72-36c1-4bb9-b2e3-fc87cc338091	CyberSoft	Kireya	5	45891	3	cute,purple,cyber,cozy,sleep
+wrld_1caa6d80-9ee4-4a7d-95ee-50259272aa35	ArgusVRC Transition World	Zerithax	2	45684	3	mmo,game,udon,rpg,sao
+wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33	Japan Talk Room 日本人向け談話室 ［ JTR JP ］	やがて捨てられる補助輪	5	45629	7	japan,jp,nihon,jtr,talk
+wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7	R4 Xross Discs Refresh	xd_inc	4	45529	7	udon,battle,game,pvp,quest
+wrld_b7be1698-9184-4002-85a0-ceb216fd30bd	VRLuffy's Avatar World （Halloween）	VRLuffy	5	45384	7	onepiece,anime,avatar,thousandsunny,vrluffy
+wrld_456b8675-7168-495a-9e85-f6b8b3573294	Cinema Movie Theatre	Tabaru Neko	5	45377	3	sleep,video,cinema,hangout,movie
+wrld_b44964d5-9f41-4719-bb0d-685f438d9d99	オモイデに沈む前に -Before It Sinks in Memories-	Atto_あっと	5	45218	1	
+wrld_60f27ea7-a9f0-4aca-aecd-9aba18c86ed9	Home of the Time 時のお家	fr1ed	4	45168	3	sleep,hideout,night,daycycle,home
+wrld_61f742f6-9ec4-4a11-ba76-4bed929ee3a9	Dazai's cult （Avatar World）	Ｄａｚａｉ _ｓａｎ	2	45081	3	cursed,dazai,dead,avatar,quest
+wrld_db853b3a-3923-4e5f-bcc1-22a9b716e1e3	YPT Avatar World	Yes please ty	3	44626	3	avatars,physbones,quest,avatar
+wrld_538edfbb-e36c-480b-92bf-744d12c671f3	陣内智則の動画を見るためだけのワールド	T-NEX	5	44509	7	udon,video,jinnai,jinnnai,quest
+wrld_3127528f-9f2c-4f0c-a9e4-6fa6e4db359a	Furry Fuzz Hub	Hirozu	3	44484	3	furry,quest,avatar,rezuium,zuprano
 wrld_4e7bc01b-98a2-4001-acb0-d0a54d9d583f	台北纯K（装修中）	Traveller002	6	44475	7	ktv,中文
-wrld_29e92dbd-b1fa-479a-a53d-1f312cb54570	孤	Miro-cn	7	42108	1	睡觉,sleep,BiliPlayer,视频,chinese,中国,中文,cn,B站,哔哩哔哩,bili
-wrld_75153884-b65c-462e-9f53-7396dea0d693	Sky Dream	Bia_Kawaii_Br	7	41438	3	chill,airplane,jet,sky,sleep
+wrld_6e898261-390c-4b50-9f2b-632f09d06ae0	Haadokkoi	AAYOISHO	5	44454	3	chill,talk,sleep,afk,healing
+wrld_7e10376a-29b6-43af-ac5d-6eb72732e90c	Void Club	Lycon	3	44352	1	dance,club,party,games,udon
+wrld_235c1737-7add-40f8-a132-221a2a3f0207	confusey's avatar corner	confusey	4	44334	3	avatar,quest,world,confusey
+wrld_6f23cdc6-be51-49e6-bdf8-b71de828d413	SCP RP˸ Site-97	dorktoast	6	44205	3	prison,roleplay,military,facility,scp
+wrld_a07540c6-fd5e-4d31-841f-e5d9c9fb14bd	Collin's One Piece Avatar World	Collinmoo	4	44189	7	one,piece,anime,avatar,world
+wrld_9502426b-60e7-4190-8252-8d02420c8199	Snowdin Town［3․4］	Unidelta	6	44117	7	avatar,undertale,snowdin,deltarune
+wrld_c013701f-6202-43a8-81b4-fd4fc8f8a2cd	The Reservoir	WispyWoo	5	43622	3	water,underwater,chill,jellyfish,ocean
+wrld_a6903d1c-7969-4833-8c3c-7cb0744302ec	Night forest	Miller-	5	43588	3	forest,relax
+wrld_e8072442-0827-45bb-93f2-2851f10ab27a	Coffee and Chill	Kristinee28	5	43515	7	coffee,stage,chill,sleep,hangout
+wrld_08a070e7-36d4-4eff-ac09-5a1322d97d54	Kami's Lookout - ［KingTodd's World］	KingTodd	5	43496	3	Kamis,Lookout,DragonBall,Hangout,DBZ
+wrld_f6cbfe07-2fc0-4e3e-abf8-c048b31c3f8e	Backspace	You are amazing	5	43324	7	horror,game,scary,spooky,spookality2023
+wrld_891d0376-3ee6-4ff3-9f5c-d44e982d3d7c	Cozy Cave	Unforgiveable_	5	43084	3	cozy,hangout,comfy,blanket,space
+wrld_9856e574-cbc1-4eea-811d-f214090db1e8	中文梗博物馆v20240226 Chinese memes Museum［CN］	四迹ovo	4	43060	1	cn
+wrld_bd6a1a13-3f8c-4dd0-8f3a-d0e6f0b147ec	Xzona's Daycare	Xzona	4	43024	3	fun,kid,quest
+wrld_398c0813-1bc6-4284-bb85-cfdcb5881344	Danganronpa Next	Snufflebuns	6	42543	7	mafia,danganronpa,werewolf,game,persistence
+wrld_23a62ea4-6645-47a2-b3de-1247472c5222	Customizable Home World	BunnyLeos	5	42263	7	customizable,apartment,home,cozy,know_your_friends
+wrld_b740ae32-aedb-4d9b-8ed3-579a50eddaea	Five Nights （Horror） v1․1	_Null_-	5	42256	3	fnaf,lore,spooky,horror,game
+wrld_f33d809d-12b5-43a3-98a3-27c5f5add919	Meadow Cottage	Mei ʚɞ	5	42241	7	cozy,spring,home,relax,youtube
+wrld_29e92dbd-b1fa-479a-a53d-1f312cb54570	孤	Miro-cn	7	42110	1	睡觉,sleep,BiliPlayer,视频,chinese,中国,中文,cn,B站,哔哩哔哩,bili
+wrld_cba703ea-eb25-49ac-bb35-46297fdcc608	TJoC˸R Maintenance Tunnels	Kubis147	6	42074	3	Horror,Fnaf,Chica,Ignited_Chica,Ignited_Bonnie
+wrld_5e778b1b-88c7-4f44-8ff3-a3f289816fd0	Experimental Sign Language World （Udon）	Bob64	5	42015	3	mocap,americansignlanguage,asl,sign,language
+wrld_8a88610c-8c1d-4a3e-8aef-b8a0137e370e	Sky Avatar World	ˢ ᵏ ʸ	2	41949	3	avatar
+wrld_84f03063-6013-43f6-a827-995a512a617e	春空の休息地 -BloomingSky Rest-	Leiria_vrc	4	41908	7	Spring,Sakura,Neko,Quest,Haru
+wrld_e7c30848-2c3f-4013-bb7b-8e190c099976	Project T․U․B․E․S	Mr Mycelium	5	41898	7	spookality,backrooms,horror,game,scary
+wrld_20dfe30a-0337-4a4c-8fb0-c5a5fac65c9c	Cold Motel	Coldcancer	5	41783	3	night,video,car,creepy,retro
+wrld_6fed9fd2-33fd-4943-9a98-102e03f67c05	Sovren's cozy club	sovren	6	41750	7	drink,8ball,event,games,club
+wrld_fa12f381-6196-4ba5-9f9f-d443d6ebdd6b	Horror Portal JP-ホラーポータルJP-	にゃこみ	5	41740	3	horror,jp,portal,game,quest
+wrld_18930fde-634f-463d-a9df-4e61a35f4228	Starlit Canopy	민소담_	6	41726	1	nature,night,pond,sleep,forest
+wrld_f98ef072-86eb-4431-9505-212345650dbb	Night Church	OPCherry	6	41669	3	germany,cathedral,gothic,church,wedding
+wrld_fff707c6-bec1-442c-b4d6-41a707166f37	［Initial D］ Lake Akina	Jintei13	4	41639	3	lake,cars
+wrld_4904dbe3-2b37-4452-ab23-4506f84ea884	SmallCottage	Mr FoxQC	4	41493	3	relax,chill,quest,sleep,cottage
+wrld_4e8f3e44-dca9-4ae7-9580-954bb4b2cbc4	Amebient	phi16	5	41486	1	vraa02
+wrld_75153884-b65c-462e-9f53-7396dea0d693	Sky Dream	Bia_Kawaii_Br	7	41443	3	chill,airplane,jet,sky,sleep
+wrld_47545113-9d34-4890-8881-5315a35bd182	Sakura Cove - 夜桜の入り江	˖Vera˖	6	41353	3	home,chill,sleep,sakura,hangout
+wrld_f6f4bb4f-5abf-4fa4-b07d-dae59c182331	CyberLove Okinawa ｜ 沖縄	artsy glitch	6	41238	3	cozy,punk,sleep,video,cyber
+wrld_8be08902-6cb2-43f5-a978-b12d9310b26a	Grapnel Gun Playground	torityan	3	41199	3	udon
+wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44	VRC Hogwarts	~Robert	5	41151	3	hogwarts,harry,potter,school,wizard
+wrld_77a23f07-47a4-4de8-8ecc-d4cca3e4257a	PokéNexus Pokemon Avatarsǃ Boreal Town	Inevanable	5	41122	3	pokemon,avatar,quest
+wrld_46f3001d-5e7c-4cda-b68b-0d683211ee45	ChickenTopia	Mankey	5	41066	3	
+wrld_ab525602-1cde-4982-9ee2-c5e98768a23e	Waffle's Avatar World	GreenTeaWafflez	3	40963	3	avatar,chill,mirror,quest
+wrld_aa8390d4-da7e-4173-8401-88311ecbc180	Epilogue․ Chapter 1․ （v 1․2）	DrMorro	5	40937	1	organism,rooms,liminal,trip,adventure
+wrld_0ad12f37-f7d2-4c3e-8d09-219cfe9292e8	We're On Observation Duty	Mega G Wolf	5	40708	7	game,horror,observation_duty,anomaly
+wrld_2fdbe222-c40a-46dc-8744-29d0091042b7	NightShift ［REMASTERED］	Chaotic_Jay	6	40704	3	game,fnaf,horror,pvp,freddy
+wrld_b18db546-c726-4ea1-a7cf-c3e077d39a50	Greybonz avatar world	Greybonz	3	40674	3	avatar,furry,dragon,digimon,dog
+wrld_b4f1d990-e7d1-4694-bfab-88d7e8aeac22	Shy's Avi World	shylukha	5	40580	3	avatar,avi,couples,coupleavatars,mirror
+wrld_4e7b0176-68fc-471c-98a9-5bd10148c333	Evermist Manor	Mei ʚɞ	5	40535	7	gothic,victorian,fog,dark,quiet
+wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521	BOOTH Room	pixiv Inc․	6	40497	7	chill,booth,simple,home,rain
+wrld_44734568-26a4-4508-8953-a1a7ce251bfd	AE MMD World	Eveᅠ	5	40378	1	mmd,mmdworld,mmddance,dance,stage
+wrld_97959650-62e7-4ef2-94da-bbcf4d2346c9	Liminal Dreams˸ The Poolrooms	∗Lotus∗	5	40351	7	liminal,poolrooms,backrooms,exploration,adventure
+wrld_bf342095-c3ee-4041-a579-4a70d167bf55	Bandit's Barcade	CoffeeBandit`	5	40336	7	game,arcade,furry,vaporwave,bar
+wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e	Luminous Hotel	Lura_	5	40291	7	hotel,sleep,chill,night,movie
+wrld_020d2f7f-d586-4ded-8a70-d5245201a638	陽射しの廃駅-Abandoned station in the sunshine	HANI․	5	40291	1	
+wrld_4c64a2fa-2916-4491-8764-11221af96f98	Pocket Storm	Silyataru	6	40284	3	snow,winter,storm,sleep,relax
+wrld_1c5e42c6-7097-4dd1-b4e4-34bb05e3ba77	Grand Theft VRchat	JohnD0E	4	40273	3	gta,game,shooting,roleplay,pvp
+wrld_1127eb3a-c79a-44de-af49-3505a035564e	Derp-san's Avatar World	bats	3	40185	3	avatar,quest,derp,aot,memes
+wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb	Comfy Puzzles - Jigsaw ＆ Chill	BoatFloater	5	40136	7	jigsaw,persistence,chill,game,cozy,puzzle
+wrld_da97f2e5-28bc-4859-9280-16eeee907c69	Treasure Heist	Fins	5	40106	1	ride,puzzle,egypt,adventure,fins
+wrld_93010c8e-08b1-4cc3-a0f1-cb88044ef8b5	Slender Man VR	Lavryou	5	40093	3	slenderman,horror,game,forest,scary
 wrld_f116cdc9-152e-4879-aa62-70704980249f	small room	bohky	7	40073	3	relux,room,rain,sleep,chill
+wrld_c27c147d-e0a2-445c-843b-678bfe1b65be	The Smile Room - Chapter 2 - Demo	ItsCripsy	5	40067	7	horror,halloween,the_smile_room,chapter_2,game
+wrld_9c29196c-9375-44a7-8741-b5a14285ddcf	Rigged 3D Scanned Avatars	Ezekiel˖	4	40023	3	funny,dank,meme,scary,physbones
+wrld_64f34f0c-5c08-4eb1-8b33-0a08f86becb9	Kaiylast's Avatar World	kaiуlast	5	39993	3	avatar,avatar_world,ft,quest,face_tracking
+wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef	Palm Point	~Sam	5	39958	3	beach,cozy,chill,sun,drink
+wrld_2d2963de-5270-4b78-a62e-c51c2813ee75	Lost in your mind	Kireya	4	39889	7	skybox,sky,chill,sleep
+wrld_251b5983-cf2a-4a93-9489-38be6b06475e	Spiritedspy's Avatar Vault	SpiritedSpy	2	39850	3	rickastley,daftpunk,avatar,loki,rickandmorty
+wrld_5993198d-e869-414b-bf97-deb424bff63c	Daybreak ⁄ 黎明	_Harim	6	39697	1	flower,dawn,morning,star,Harim
+wrld_5e15cf05-5f60-459f-baac-f1e2fe9ae78b	˗ˏˋ ［ NovaPie ＆ GMsBox Avatar World ］ˎˊ˗	NovaPie	3	39469	7	
+wrld_fa6ac9a3-df4d-4fe5-963a-e4ed8facbb9c	DarkCloud	＋Trizzy＋	4	39447	3	avatar,rain,night,video
+wrld_c3dda9f9-7615-41e4-bbfa-a2cf5b77b9fb	Fear of Fire	cwsaturn	5	39421	3	space,guns,multiplayer,game,shooter
+wrld_79ac2912-d2c1-4ba7-b17e-bf4bd4e46f38	chill ＆ yt	Dark_Luke19	6	39359	3	chill,youtube,search,video
+wrld_db6b9fa4-6afb-41e3-8f06-f512fd2676ce	Wistful	Lilly the cat	6	39051	3	home,garden,surreal,wisteria,dreamy
+wrld_7345f139-e021-45cb-986e-b8b0f43994fa	JP 初心者プラザ	V WORLD	6	38550	7	japan,tutorial,japanese,avatar,jp
+wrld_ca3748a6-df7f-42cc-ba26-e9a07347d70f	Queen Bella's Mexican Beach Hideaway	Cain`	5	38310	7	
+wrld_cb8a80b2-de72-49d2-ac5d-d750f948877e	めたモグ-MetamogphoseLab․【VirtualSanrioPuroland】	Gugenka	6	38290	7	
+wrld_a451a949-7d98-4e6a-a467-085f07979eec	Comfy Condo	TeddieP4	5	38260	3	night,cozy,rooftop,movies
+wrld_518e82d9-8ecd-4a63-b126-6996093888a0	Cozy Cottage	~Sam	5	38243	3	rain,quiet,cozy,relax,countryside
+wrld_6295d6c6-2e61-444e-87f2-51c378b2b794	Padded Room	casuaƖgamer	6	38150	7	cozy,small,bed,dim,optimized
+wrld_04a00bbb-da55-4a13-91e0-a30a3bfb2302	Bus To Nowhere	Beyond	5	37990	1	random,hangout,bus,udon,game
+wrld_dc14c874-9609-44db-bda2-5d31c9be0fef	City 10 Quest	hidearimjosh	6	37831	7	halflife,rp,roleplay,city
+wrld_3d2d87b4-dad7-4bac-b276-5a54531f8420	Cozy Christmas	Mei ʚɞ	4	37807	7	festive,cabin,snow,hangout,youtube
+wrld_726a2222-aee7-4b59-bbe0-a6afb1df01da	After Glow	WispyWoo	5	37726	7	AfterGlow,comfy,scifi,cyberpunk,city
+wrld_2120ec29-10ba-4ef7-8912-52f1edc5199d	MMD K-POP	Aeriiie	6	37497	1	mmd,music,k-pop,camera,kpop
+wrld_8f1d7f94-8053-4647-a896-a5eaf59641de	Rockstar Row - FNAF˸ Security Breach	Takato Matsuki	5	37463	7	freddy,fnaf,fnafsb,fazbear,securitybreach
+wrld_221aaa8e-0bb8-46d9-97f1-09c3370e9eb6	Fort Duvet	Ymmotehl	6	37297	3	home,sleep,relaxing,chill,bed
+wrld_459dc463-7f0f-4b5e-aa4b-7e74370bc463	Lycan	Horkew［ホロケゥ］	6	37162	7	sleep
 wrld_92bf5258-6dd3-4c7d-87da-7ae3c9ecf574	Sala Pak Jai	PON4649	6	37143	3	thai,quest
+wrld_404ac063-83ec-43da-85db-e060a40f7f13	Skyline Penthouse	~Sam	5	37087	3	sleep,penthouse,chill,bed,quiet
+wrld_24ffe911-327a-4f32-866d-06f8242aefe1	Butterfly Home	Mei ʚɞ	6	37079	7	sleep,rain,butterfly,moonlight,demonslayer
+wrld_1525e877-3120-4899-bcfe-4e82b317ad9b	Autumn Midnight	Soooma	6	37078	7	Autumn,Midnight,Chill,Soooma
+wrld_df3e253e-c464-4d4e-bb2e-e57009674add	Diluc's Tavern - Angel's Share	Ϲyrene	6	37033	3	genshin,impact,diluc,tavern,mondstadt
+wrld_26df2010-226c-4b2f-a8d2-a7020f5f1ea0	Calm Minecraft Home	zSkull162	5	36834	7	minecraft,calm,cozy,rain
+wrld_beaff518-9197-4e30-82a3-73d8e28f85c6	Backrooms˸ Liminal Zones	SableWulf828	6	36765	7	backrooms,liminal,horror,the_end,poolrooms,violence,horror,gore
+wrld_78b2f1fe-622d-4556-8401-aa90921b31c1	Nest ネスト	artsy glitch	6	36491	3	sleep,video,rain,nature,cozy
+wrld_3561853a-f983-423b-830c-41eecf3dbc4e	ぷらね邸 - PLANETEI	jumius（ゆみうす）	6	36441	7	planetarium,chill,sleep,star
+wrld_b43958f9-38a6-4ce8-bb45-30b76b615722	Sakura Home	Mei ʚɞ	6	36358	7	sakura,japanese,hangout,cozy,youtube
+wrld_6d8d8f48-4040-4e5d-a7ca-af51d5306417	Just B Club 2․0	Blue-kun	3	36212	3	club,video,pool,party,bed
+wrld_4e83f3d8-66b5-4d46-8039-49025ae939b3	Smashed - Drink ＆ Drinking Games ＆ Karaoke	Mͥufͣfͫin	6	36179	7	cards,drink,game,drinking,party
+wrld_ee4dd872-ca55-44e1-900f-a2b7b875aeb0	Infinite Night	WetCat~	5	35912	3	night,infinite,sleep,comfy,chill
+wrld_343bcc5d-a151-4b1e-8d58-af4f0df37e2e	雨見る屋根裏 Attic in the rain	sizimityper	5	35768	7	sleep,attic,rain
 wrld_4bfde0c0-9941-4fe0-aab8-7819c9ec7db6	〜癒しなで〜ASMR room	ponchof	6	35660	1	asmr,chill,sleep,jp
+wrld_e0f57c52-24f3-4437-9b19-459f2834c5d5	Worlds Apart	Very Merri	5	35637	7	chill,hangout,cozy,rainy,sleep
+wrld_747e7258-f804-4414-83f5-b618ebca7471	Pool Parlor v3 ｜ 8 Ball Pool	metaphira	4	35461	3	pool,game,billiards,quest,8ball
+wrld_95d99272-1530-4c0e-94a4-18c87671a359	Grandma's Basement	Mr FoxQC	0	35424	7	Basement,cat,cozy,sleep,Bar
+wrld_e8eb7e58-a805-4dc3-99a8-8201e3d27fc5	Salem VRC	Milo 7807	5	35138	3	townofsalem,mafia,game,werewolf,salem
+wrld_7a7c4dc4-16f8-4eab-8d47-486e12d2c797	クミンの勇者冒険 v1․3	HeHZS_CN	5	35112	3	rpg,indoor,game,udon,afk
+wrld_d6e5b0c0-745e-442b-8112-d792ce9ad1ae	OutCasted	WispyWoo	5	35043	3	comfy,spa,warm,ocean,chill
+wrld_94ef6736-f998-4099-b456-b3a444734013	Open Mic Night	Gunter	2	35042	1	show,stage,performance,talent,music,featured
+wrld_317b684f-3974-4197-b41c-243eee8d2674	Heart and Mind	Apathy	5	34890	1	chill,night,music,sleep,room
+wrld_4b412aae-2e51-4ef4-854d-884b47b5a134	THE AMAZING DIGITAL CIRCUS	Voidcake	5	34594	3	circus,digital,pomni,jax,zooble
 wrld_50a4de63-927a-4d7e-b322-13d715176ef1	Elite's RNG Land	Eliteiment	6	34521	7	game,rng,idle,aura,random
+wrld_8ef393c0-a985-4d7e-90f0-33ab10d41ee3	Avatar Testingǃǃ	Mimi	4	34456	3	testing,mirror,comfy
+wrld_dbef9256-29e0-4524-b6e4-3bd5c07cea20	Squirrel Sounds	Enverex	6	34410	7	music,vinyl,chill,store,shop
+wrld_20a69566-2cbc-48f1-97ca-0f59142cf8e1	1対1 お砂糖マッチングワールド「つむぎ」	エンジンかずみ	6	34396	7	お砂糖,1on1,japanese,マッチング
+wrld_424e4033-db3d-4817-b081-8a16e41708c5	ハイム荘 401号室	ARUSON_EF	5	34295	7	room,chill,relax,japan,home
+wrld_42d023dc-1b2d-439a-b741-09113ca0e59a	Town of Salem	miner28_3	4	34245	3	mafia,game,townofsalem,udon,werewolf,salem
+wrld_c5417681-f440-4f20-9fbf-2c6c84cb198a	VR睡眠マッチング いっしょに寝ようよ	CHIHAYA ちはや	6	33867	1	suimin,neru,sleep
+wrld_3b61e4cd-9c6e-4825-9eab-1623a31205ec	SkyFall	WispyWoo	5	33865	3	comfy,clouds,ethereal,dreamy,shooting_stars
+wrld_d6715b97-5a3b-49bf-86f7-f123124f0aaf	Cozy Woods	Bia_Kawaii_Br	5	33686	7	cozy,chill,hangout,forest,night
+wrld_5edf2518-9bcb-44a3-a76a-6b69d221863c	Smart Karaoke	SmartHE	4	33501	3	karaoke,utaite,vocaloid,jpop,sing
+wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f	お風呂のある部屋 YUTOROOM -ゆとるーむ-	narazaka	6	33487	3	bathroom,chill,sleep,home,hangout
+wrld_ff683eef-4088-4f30-9614-52214dbd953c	ApoFoxBunker3	Mr FoxQC	5	33372	7	bunker,rp,Chill,apocalypse,Quest
+wrld_231b9bc4-237c-4ddc-9a06-b6f8227f3bf7	Calm Ocean	Soooma	6	33189	7	ocean,sea,jp,chill,calm
+wrld_ddfc2af5-a1d8-4fc3-a14d-82a126a059ba	YuGiOh Duel Cafe 遊戯王デュエルカフェ	Piano Walrus	6	33161	3	yugioh,cafe,cozy,game,card
+wrld_726c8a44-8222-4858-8b33-49e70d495b62	Murder 3	Jar	5	32962	3	game,murder,udon
+wrld_656d015b-eb85-48ba-9d77-ed71aa7c70d4	Hygge Night	Elliesolv	5	32933	3	chill,cozy,night,player,house
 wrld_e76f0ce1-8b2f-4fd7-a6ac-84443d6f26f1	Furry Talk and Chill	~bandit~	5	32658	7	furry,chill,hangout,openflight
+wrld_1e0d04e8-dfb8-473c-bd86-692e95c59a03	City 17	Taggynn	5	32557	3	halflife,roleplay,cmbvrc,avatar,city
+wrld_cccee80a-e3b0-42a3-8e5c-be1f6676bb9a	Piano Lounge	Temporal	5	32410	3	lounge,piano
+wrld_383c3fd1-ef79-489f-a971-a025b53aadf3	Zixha's Apartment	Zixha	5	32395	3	apartment,party,drinking,fun,chill
+wrld_f6f00ef0-ebb0-4ef7-be53-835fe11676dc	Cosmos - コスモスに入る	plumpfeline	6	32394	7	music,cozy,chill,space,vinyl
+wrld_a4cadbb7-886c-4438-9bb9-a0b1bb08ff58	MrDummy_NL World 17˸ School for Dummies	MrDummy_NL	6	32054	7	club,sign,hangout,dance
+wrld_fff5d510-fc53-4e88-9d4e-1e0e45a17aff	Bedroom Theatre	Temporal	5	32023	3	video,stream,bedroom,theater,sleep
+wrld_6b0f8171-e617-4e9a-8c4f-931d4a7bcc5f	Dream˸ ⁄ 夢˸	_Harim	6	31983	1	summer,train,water,blue,harim
+wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404	Kotatsmuri-こたつむり-	MOFUx2Wing	5	31853	7	jp_kotats_sleep_chill
+wrld_955ded62-6d09-4b84-999c-05fa97f9238b	Just Moved In	Lucifer MStar	5	31832	3	sleep,fancy,rain,relax,evening
+wrld_6124f26b-c348-4ef7-bab8-d41fb304c420	HomeBox ［ Box ］	Maebbie	5	31774	7	home,lagfree,box,avatar,android
+wrld_ddc67c04-b09c-4e3b-b470-bf79e3caeb7a	Space and Chill	Neg-en	4	31684	7	space,sleep,halo,flight,club
 wrld_0777ec10-c871-4e2f-91cc-1c43287eb16c	Illumination Media Player	Οllie	6	31618	1	youtube,cinema,video,ltcgi,vrclightvolumesready
-wrld_93d114b8-8993-4b70-a1e9-5e4e98258e83	Hwabon Night Autumn（화본역 가을）	Bepsi Train	7	31307	7	korea,korean,train
+wrld_54d0d6db-b51e-4412-9241-81d8e46576dc	Sunrise Haven	Mei ʚɞ	6	31404	7	mountain,dream,flowers,calm,field
+wrld_690a8c5d-4e62-46c7-aec0-f1995b54a73f	New Dawn˸ FNAF ［2․0 Update］	Cherryvania	4	31313	7	cozy,mirror,fnaf,chill,avatars
+wrld_93d114b8-8993-4b70-a1e9-5e4e98258e83	Hwabon Night Autumn（화본역 가을）	Bepsi Train	7	31308	7	korea,korean,train
+wrld_da6c1ec3-ae65-4295-8d3f-57ee12a1a49c	The Pwuppy Den	PuddlePup	6	31077	7	
+wrld_471a8f7c-31e9-4162-bab9-915a69f87d1a	Tokyo Jujutsu High - JJK˸ Cursed Clash	Takato Matsuki	6	30935	3	jujutsukaisen,jujutsu,kaisen,school,tokyo
+wrld_20394608-a073-477a-83ae-6141b999a3e9	（2 MILLION VISITSǃǃǃ） Freddy Fazbear's Virtual Pizzeria	Fright_Chris	6	30919	3	fnaf,fnafmovie,pizzeria,movie,avatar
 wrld_917970a0-af27-4438-abad-01ac824ff8f3	OneRoom -I-	Taechan	7	30773	7	sleep,japan,music,video,chill
+wrld_3448f7e4-79a7-4115-a44c-e6221174969f	MEROOM 336号室	MERU	5	30696	1	meroom
+wrld_36a4f752-6e45-4c37-9eed-279525f3e8c8	taktie's Gun Dynamics【FULL RELEASE】	たくてぃー	6	30683	3	game,gun,pvp,shooting,tactical
+wrld_976e4d46-ba35-4c6d-a7f6-38714ee38fbf	Trans Academy	Tizzy	5	30555	7	transgender,community,pride,trans,lgbt
 wrld_78373831-0109-4808-9b63-27382f4c6975	Presentation Room	vrchat	3	30169	1	featured,creative
-wrld_b4eef105-5db1-4c1f-8800-a6e6de4a20e7	こういう部屋に住みたい	ParusuRblx	7	27134	3	chill,sleep
+wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67	The Black Shore - 黒の岸辺	˖Vera˖	6	29715	7	chill,sleep,ocean,cozy,relax
+wrld_9e621490-a8d7-4f65-a3ac-3bebd44e9a2e	Pass The Sketchǃ	マウンテンデュー	6	29319	7	game,draw,drawing
+wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890	Femboy Starbucks	Shmezzy	6	29319	3	femboy,lgbt,starbucks,chill,coffee
+wrld_a5a668dc-6147-4b23-8619-2ed6979f9928	Moonlit Lodge	Bia_Kawaii_Br	5	29211	7	cozy,chill,hangout,forest,night
+wrld_0450123c-a41c-4fde-92d1-4f6c8b58ad6c	［Bedroom］ 恋文 ⁄ Love Letter v1․2․0	はるる早苗	4	29115	3	romance,love,sleep,blue,bedroom
+wrld_f767d1c8-b249-4ecc-a56f-614e433682c8	LS Media	LS Studio	5	29022	7	chill,youtube,comfy,video,sleep
+wrld_bcbe5162-6d0c-4bd9-a4ec-b5829a734cb0	Dandy's World Lobby	SnowCactus	6	28948	3	roblox,roleplay,dandy,dandys,game
+wrld_62cd0c48-b850-481a-84e6-97b92b937351	The Infinity Castle - Demon Slayer˸ -KNY- HC	Takato Matsuki	6	28798	7	demonslayer,demon,slayer,kny,castle
+wrld_017ab037-b9b6-4be0-b36b-5d8d58a1a09f	House Party - Fall Edition	Scarizard	6	28724	7	Bar,House,Party,Drink,Games
+wrld_dd8c25de-c755-484f-b5cc-259ba807267b	Yukon Vacation Lodge	Rum Ham	5	28422	3	snow,winter,hangout,cabin,chill
+wrld_603b0786-4501-42a2-b696-daf2bc3f1baa	Boat Inn	samemoto	5	28370	3	boat
+wrld_3036938d-689f-47f8-a224-ab67b5059723	Bar Do Zé Brasil 3 OFFICIAL	RaizenJK	6	28309	3	br,brasil,brazil,avatar
+wrld_56452fb0-754d-4601-9b32-9fffa2570419	Snowpeak Retreat	Rum Ham	5	28086	3	hangout,mountain,snow,cozy,lodge
+wrld_14a873d0-b4bf-4d52-9d4e-de9be3e3e9b8	Islands Of Dreams	ImLeXz	4	28010	1	sleep,chill,relax,space,customisable
+wrld_89661cc4-55f3-4257-a016-85361274b901	Sonic World South Island ＋	Ash the tenrec	5	27830	7	southisland,sonic,sonicworld
+wrld_cf10849f-4cb4-4a72-9083-c343be8765b2	Minecraft Cherry Blossom Island	Ghøšt Bûnñy	6	27639	3	minecraft,island,night,chill,cherry_blossom
+wrld_89fe75cc-7bce-4043-9b35-b395f7e754fd	M~Home	Maru~	5	27516	3	sleep,cozy,private,rooftop,relax
+wrld_b4eef105-5db1-4c1f-8800-a6e6de4a20e7	こういう部屋に住みたい	ParusuRblx	7	27133	3	chill,sleep
+wrld_7bb629cd-2416-46e3-9242-2c2eec705e90	キロバイトのうみ - Sea of KB	浜名湖なこ	6	26545	7	
+wrld_a6e75419-0f76-402b-966e-3dc8b79a6b30	Kartoffelbeet German Deutsch	Trias	5	26309	7	beet,deutsch,kartoffel,german
+wrld_0e4d54de-d5c9-498d-adf8-6b59e96c0f07	Snowbound	Taggynn	5	26179	3	roleplay,lab,ice,facility,gmod
+wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814	MELA - Memena's Lord Arena	HeHZS_CN	6	26154	1	game,udon,rpg,boss,mela
+wrld_4ae52b66-3445-40a9-8c02-caf0d1347ac8	Japan Rainy Day	̍̍̍̍̍̍̍̍̍̍̍̍	6	25868	7	rest,sleep,japan,relax,rain
+wrld_fc0dbf3c-2db1-42de-9f72-3325dc2ff90b	Atomic	Taggynn	6	25702	3	wasteland,fallout,desert,roleplay,garrysmod
+wrld_6ed81f53-a730-4b79-897e-57b2330ab1f9	이루아's House	이루아「Irua」	5	25621	1	sea,video,sleep,cozy,pen
+wrld_c03f8195-3c64-46d8-b5ae-242f214c9404	MinaSoco ~水底~	same0609	6	25601	3	home,chill,cozy,water,sea
+wrld_7d523933-5ba7-4f1e-bb59-ee237a9635ae	Midnight Rain	Munity	6	25582	3	rain,chill,night,sleep,relax
+wrld_16f2515e-0dda-4741-a646-ab77bec9a277	Cozy Comfort	~Sam	6	25324	3	cozy,relax,sleep,rain,hangout
+wrld_671bd43c-536e-4f9c-b397-edfec4a4e2e0	Animal Hospital ǃ ［Pens Fixed For Questǃ］	TheMechOfGames	6	24997	3	game,roblox,hospital,animal,animal_hospital
+wrld_2f287468-72f9-4beb-a58a-b2b61bd5f57c	TF2 2Fort	littlewhinging	5	24849	7	tf2,2fort,teamfortress2,port,chill
+wrld_e933926e-debb-4710-9e70-be164359fce4	FiveSkies	Juice․․․	4	24841	3	five,skies,portal,ambient,interactive
 wrld_48cd8633-74ca-4786-ade7-590f58907ba7	Apotos - Windmill Isle - Sonic World	Lugana Rysniq	6	24494	7	sonic,sonic_unleashed,sonic_world_adventure,mykonos,sonic_the_hedgehog
 wrld_e071ab26-ac90-4c47-b4a5-310fa3cb9e44	Arab Desert	TheLostDevil	7	24243	7	arab,desert
-wrld_05da9a75-947a-4e7c-bccd-8f822969abc1	DEADLIGHT	Bombae	7	21589	7	horror,game,survival,coop,lightvolumes
-wrld_be8df8df-fdb1-42dd-812b-261ee8fdf34a	MoonLight	-コウ-	7	21491	3	chill,Sleep,Nemophila,Moon,Photo
-wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69	星の入り江 - Liminal Cove	- Shigure -	7	20044	1	chill
+wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1	日语学习［CN⁄JP］日本語能力試験	卡卡-かか	6	24176	7	chinese,japanese,learning,cn,jp
+wrld_62a10120-92e0-4cdb-ac4c-98c418df9269	Spanish Community	SpanishCOM	6	24143	7	spanish,club,latino,español,custom
+wrld_b6ad492e-2e9f-415b-ab5e-b237cb4a0221	Silent Dawn	Mei ʚɞ	6	24104	3	elvish,ocean,quiet,hangout,relax
+wrld_c12c47e0-97eb-4726-91bb-01580b92f7fe	Life needs sleep	tp․jp	5	23874	3	stars,comfy,sleep,universe,chill
+wrld_42287232-c9fc-4e43-83db-a165f092e9e6	Snell's Pool	flurrux	6	23784	7	pool,water,sunny,swimming,splashdiving
+wrld_28117eb1-4198-4b34-90b9-486cbb7ac964	Virtual Tabletop RPG Zone	PsionicDragon	5	23471	3	game,dnd,dungeons,dragons,roleplay
+wrld_ebfa74e9-486b-4b1b-9f86-76ed982fc454	somewhere after midnight - 真夜中の何処か	˖Vera˖	6	23393	3	cuddle,rain,sleep,ambient,chill
+wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f	Oysm Inn	aphex503	6	23385	3	sleep,hotel
+wrld_f745dd79-3fe5-4f36-b4af-2b637b1e9e88	Central Spanish	CentralTeam	6	23323	7	spanish,night,udon,movie,cinema
+wrld_532fcc1a-5fcd-43bf-861e-d638631646d6	OneRoom -F-	Taechan	5	23291	7	sleep,music,japan,chill,video
+wrld_e21daff4-c25e-4b98-831d-2ef415a851d0	VFI - Cinema	LucyLuuu	5	23260	1	movie,anime,cinema,theater,asmr
+wrld_f995a2eb-7ddc-4558-aef1-815c3b23df6c	Avatar Dynamics Hub	vrchat	4	22775	3	avatar,feature_avatar_scaling
+wrld_40247945-b61b-477d-9c9b-7be47c4e356f	The Mafia Bar	TheKibbleMeister	6	22418	7	Mafia,drink,party,bar,chill
+wrld_5b3a1755-7285-4b05-be08-5edc904b92d1	Spooky-Loader-≻	Jade Furry	6	22346	7	speed,loader,quest,optimized,home
+wrld_790f6352-ad22-458f-828f-ca84728151ce	［GAME］ Neon Duel Automaton	Wing_	6	22116	3	game,udon,quest,pvp,pve
+wrld_035a2859-d85f-4475-b9e5-891978589da7	KOGE's Workplace	KOGE1NU	4	22054	1	avatarsample,sleep,videoplayer,workroom,qvpen
+wrld_4a64b637-195f-475c-99bc-9d51e7aa52bc	Idle Mining	BonitoFlakes	6	21971	7	idle,game,vegetation,nature,chill
+wrld_c507c9d4-1bc3-4a1b-aac7-d756fcecb23d	Fog night	オーゼンOzen	6	21948	1	car,rain,fog,sleep
+wrld_2dfd7562-8127-4091-856b-f34a2947b22b	【公式】仮想空間＜ツクヨミ＞【超かぐや姫！】	ツクヨミ感謝祭実行委員会	6	21845	1	kaguya,Cosmic_Princess_Kaguya,tutorial
+wrld_e00df8e4-4076-4ddd-96ed-2a34c03ffe24	Skibidi War	CL3NR c2	5	21842	3	skibidi,toilet,war,cameramen,dafuqboom
+wrld_3bee67c6-e83a-452b-a7f7-ed28bf790e03	ineMuri -居眠り-	泡麵 mea	5	21837	3	sleep,chill,rain,QvPen,vizvid
+wrld_05da9a75-947a-4e7c-bccd-8f822969abc1	DEADLIGHT	Bombae	7	21591	7	horror,game,survival,coop,lightvolumes
+wrld_d0b62423-fd59-48f7-9e4b-e6fece81b7ed	Russian Dimension of OziCom	OziCom	5	21557	3	rus,russian,chill,hangout,quest
+wrld_30000000-0000-0000-0000-000000000000	1KB mirror world	lox9973	6	21527	7	minimal,1kb,mirror
+wrld_be8df8df-fdb1-42dd-812b-261ee8fdf34a	MoonLight	-コウ-	7	21492	3	chill,Sleep,Nemophila,Moon,Photo
+wrld_42b0dd34-9548-476b-b0bb-0eb24ee06db3	Relix	xpmmm	6	21464	1	chill,sleep,rain,relax
+wrld_f18613e0-eca8-45ee-b3a8-50ce482b35de	Idle Defense	Cubie ღ	5	21379	7	game,idle,gacha,tower,defense
+wrld_ebeae2dc-4304-4ed1-9743-6596a504fa70	Poly Box	Ivylistar	6	21139	3	box
+wrld_e1cf08fe-086d-4400-b8f2-018e21a02f30	Cozy Loft	Epic_Monkey	5	20930	3	loft,comfy,sleep,cozy,rain
+wrld_6dee20dc-e899-4ba9-9e95-7f7cfc7ee160	VRChat Drama Court	Mattron	6	20772	3	game,court,rp,roleplay,improv
+wrld_4768d9e8-d345-4d9c-a1fa-1cf49acd7c9a	終点の住処 Last Station Home Night	Reava_レイ	6	20733	7	sleep,nature,stars,photo,anime
+wrld_8f0f13df-91f1-4f14-85a1-1e658fdceca2	Avatar Trade Center	MrZolo	0	20595	7	chill,hangout,trading,social,music
+wrld_3c3ce33e-0b66-4bb6-a5a2-64d1fc37b875	Urban Refuge	zelfine	5	20519	7	chill,youtube,search,sleep,cozy
+wrld_e2df1e94-75c6-439c-ac80-eaf0eda3d501	Rest and Sleep 寝る Quest	ʟᴏʟɪ	5	20398	3	sleep,bed,chill,relax,hangout
+wrld_cdf2df8f-19e1-436f-8386-c56414f1dc99	Dukes 3D ⁄ 4D Cinema	Dukes VR	4	20383	3	movie,3d,video,cinema,theater,violence,horror
+wrld_640f906e-da26-46a1-b4a8-9ad826052825	Stylized FPE School	oofhead1234	6	20270	7	fpe,hangout,school,roleplay,avatars
+wrld_d9d91fd7-997e-4fa3-8af2-539f6f1a4e6a	Beach Party	Rum Ham	6	20057	3	beach,party,drink,hangout,drinking
+wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69	星の入り江 - Liminal Cove	- Shigure -	7	20050	1	chill
+wrld_577c4af3-1de7-40f4-88ad-7bf10ab3a1ee	∗MAJOR REWORK∗ TITANIC˸ Beyond Reality - Sinking Experience	CabaBear	6	19929	7	titanic,ship,sinking,survival,games
+wrld_1acd133d-fbe8-4b92-9f7a-c15091dcfe5f	Moonlight Home	Mei ʚɞ	6	19872	7	fantasy,nature,sleep,relax,hangout
+wrld_570ae4ff-53dc-4244-b415-38bdc6f25cd9	French VR	FrenchVR	4	19855	3	french,fr,france,chill,quest
+wrld_e5563919-373c-4125-b36d-796f919d49e4	Murder Drones Bunker	Hywel Playz	5	19839	3	murder_drones,murderdrones,bunker,snow
 wrld_8da39ab2-3f8d-479e-a7b8-0c9c8d6a278f	Cozy Halloween	Mei ʚɞ	6	19599	7	halloween,spooky,cozy,creepy,hangout
-wrld_1ae6e079-d3d3-4111-9900-78468a3e0d6f	VRCNext Avatar Search	Shinyflvres	7	18858	7	avatar,search,avatars,cozy,find
+wrld_e3435267-9647-4f85-9c83-c9595e6ecc79	Werewolf （Targets）	Kroama	4	19450	3	game,betrayal,custom,deception,card
+wrld_071cca30-2d3a-41cf-8365-39f93ca108a8	Cozy Attic	Epic_Monkey	5	19349	3	room,rain,home,comfy,attic
+wrld_ba913a96-fac4-4048-a062-9aa5db092812	VRChat Hub	vrchat	5	19312	3	featured
+wrld_a2eb7ea5-5475-4490-90b2-375a5148d1be	月夜見 - Cosmic Princess Kaguya【非公式】	link0319	6	19097	7	chill,photography,kaguya,cozy,超かぐや姫
+wrld_8f5f8ded-0efc-4620-bfef-babf75b2ee26	Safe and sound	Lilly the cat	6	18952	7	home,sakura,japanese,sleep,cozy
+wrld_943cb637-881b-4fe8-a807-73151bac3320	mmd 360 Wonder's realm	Lilith selfairy	6	18905	7	mmd,chill_room,chill,stage,dance
+wrld_fac4787e-cd97-4bcd-be83-eca5db1800ab	Meeting Room	Bia_Kawaii_Br	6	18905	7	assembly,building,meeting,room,talk
+wrld_81aeda71-780f-4fc9-8822-bbcf70d3ed66	Sunrise	zelfine	5	18868	3	
+wrld_1ae6e079-d3d3-4111-9900-78468a3e0d6f	VRCNext Avatar Search	Shinyflvres	7	18863	7	avatar,search,avatars,cozy,find
+wrld_3e471f40-032a-42e1-9047-974d59c8dc32	Shoegaze Night	VVolfly	6	18752	1	hangout,comfy,rain,cozy,balcony
+wrld_b36fc6a5-7b8f-4390-a6d1-b49485f4eef0	Wulfie's Hangout n Sleep	Wulfie	4	18724	3	sleep,relax,hangout,wulfie,chill
+wrld_99a5eb21-1d58-4f13-b66a-73d327c42705	Silent Beach	tachikoma390	4	18482	1	night,beach,chill,sleep
+wrld_384b5794-e19d-4608-b116-cf580c6e878a	NW MMD WORLD	kimnawon	5	18318	1	dance,mmd,kpop,jpop,music
+wrld_53630b6e-2a56-4e06-a5e1-42ae8a554ffb	Next Station ⁄ 次の駅	_Harim	6	17980	1	train,photo,spring,apocalypse,harim
+wrld_4a0ed04a-58d7-48d0-950f-ff57ff645c44	MEROOM 939号室	MERU	4	17808	1	
+wrld_104f4478-d4e5-4a38-b507-b8298a2321ec	Learn Mandarin［EN⁄CN］Chinese	YUYOLUO	6	17598	7	communicate,study,chinese,mandarin
+wrld_ae67288d-cdd6-4ad2-92aa-02d9f20aedd5	Single Blue Room	ᴏᴜɪ_	5	17520	1	sleep,chill,bed,snow,relax
+wrld_f44bfdc0-a153-4eea-b11a-a247894ae9f6	OneRoom	Taechan	4	17448	7	video,music,sleep,japan,chill
+wrld_7cb5ff54-8d57-4cef-a9e3-0a51fda1a39a	SkipFloor	TAGOb6c	5	17396	1	chill,relax,sleep,sofa
+wrld_947e7953-b3ed-4b34-9451-c67ad8b5a8f3	The Drawing Board	Tokkio	6	17278	3	pens,presentation,sketch,art,drawing
+wrld_1917b43c-7d1b-4734-87db-2956c2069059	The Great Pug - West	owlboy	4	17161	3	bar,hangout,social,quest
+wrld_da2340fc-570f-418c-a54a-67b89962d0a6	OMORI - Faraway Town	GasticNox	6	17034	7	omori,chill,chat,avatar,faraway_town
+wrld_b0402852-d164-421c-a4b9-4e7cb46149c3	Liminal VHS Home	EGirlRᴇᴘᴇʟʟᴇɴᴛ	6	16977	3	liminal,space,backrooms,vintage,80s
+wrld_6b522b9c-215d-4d65-8073-9654ad546864	Loft Nine	˖Vera˖	6	16502	7	chill,sleep,home,cozy,relax
+wrld_a2314d18-1ac0-484c-9a8a-e20ca4f21678	Twilight Grotto	Soooma	6	16428	7	soooma,cave,Ocean,Chill
+wrld_6a246432-e224-454f-8962-615182276e26	超軽量ログインワールド	夕凪 ［JP］	6	16416	7	home,login
+wrld_0c4289fb-1396-42f1-9308-f756239d6604	だらけスタートルーム ⁄ The Lazy Log-in	ひやかけ⁄Hiyakake	6	16379	7	cill,home,room,smoke,login
+wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54	City rain	オーゼンOzen	6	16317	1	ozen,sleep,rain,bed,city
+wrld_fef1c533-8660-4eb4-a23a-a872e05fef31	루석바 wwg	카모뜨린	4	15883	1	wwg,rusuk,wak,rusukbar,bar
+wrld_11c13b9f-53de-47ac-ac32-270e156b4ba2	Tiny Terrors	absoltee	6	15719	7	manhunt,tag,game,games,hide_and_seek
+wrld_7240312b-de6b-4b9b-b2e2-767116a6c321	Heights Alliance 1A Dorms - My Hero Academia	Takato Matsuki	5	15718	7	myheroacademia,myhero,mha,dorm,avatars
 wrld_8b351eda-1ad1-4977-981c-a00479b273b9	Work at a Pizza Place （Forsaken）	~Arva~	6	15697	7	forsaken,roblox,Roblox,pizza,port
-wrld_ebca0ab7-7ea8-46e2-aac6-fc5a67f94924	Idle Merchant 掛機商人（V0․3․2）	turbo-	7	14218	1	game,idle,chill,qvpen,gacha
+wrld_633f8fbf-6d1f-48ff-b496-3aab01c58616	后海KTV	乌龙茶茶壶	6	15639	7	cn,CN,ktv,BAR,vfqk7dhx
+wrld_928c6e8e-34cb-408f-9d9b-17a35e5364cb	Ventura City˸ Redux	Taggynn	6	15468	3	city,cyberpunk,roleplay,nexus,scifi
+wrld_2d126f4e-b3cd-497a-b8cd-e52bb1bae3bc	Birth - Horror	cozo_cobun	4	15367	3	horror,short_horror,birthday,art,horror_art
+wrld_582a1c72-6b3d-4187-bf74-a9ec0711090f	Fantasy City	Ghost74u	6	15254	7	castle,fort,city,medieval,roleplay
+wrld_d179f0f1-3376-4d1a-b27e-576ccb43f2a2	個室DEカラオケ～自動遅延補正でVRCカラオケ！～	七宮ちろん	6	15182	3	karaoke,chill,music,japan
+wrld_941fd8b1-7f0e-434e-aa22-eec913781a9e	Cozy Cabin	~Sam	6	15066	7	cozy,sleep,relax,snow,christmas
+wrld_5198576b-15fe-4f3c-89e8-4e3913d6d9f6	Rainbound	Atamatunchik	6	14951	3	Chill,video_player,LTCGI,Rain,house
+wrld_4d353dc5-a983-4f11-96f8-e6752d627eb3	群青星海	！すらいむ！	6	14940	7	chill,android,ios,sea
+wrld_4eee4965-abed-4e99-b070-b2d10b30d84d	路地裏の隠れ家 - Alley Hiding Spot	the_karura｜カルラ	6	14843	3	chill,night,sleep,rain,cyberpunk
+wrld_d2dde14e-51e8-435a-b90d-a6564dd92aa7	Murder drones˸ Copper 9	Lonerozu	6	14810	3	drones,roleplay,murderdrones,Audiolink
+wrld_2fea5f16-6523-4a54-b4d6-80ca87cbc683	EEPY	オーゼンOzen	6	14594	1	sleep,rain,bed,ozen,eepy
+wrld_bab19e31-eccb-4ded-b63e-ef716af869f1	Stellix	xpmmm	6	14564	1	chill,sleep,relax
+wrld_05d530f5-26f8-4bdd-8589-4e0d198df0a2	星と、あなたと。	ぱんだ（graph）	6	14453	7	LTCGI,home,quest
+wrld_ebca0ab7-7ea8-46e2-aac6-fc5a67f94924	Idle Merchant 掛機商人（V0․3․2）	turbo-	7	14220	1	game,idle,chill,qvpen,gacha
+wrld_394304f6-9938-40df-ab98-35ba57e3f75b	夜	Miro-cn	6	13845	1	BiliPlayer,视频,chinese,中国,中文,cn,B站,哔哩哔哩,bili
+wrld_99907368-1097-4a1e-a847-947bb12854cb	slayTheUdon	-帕休-	5	13644	7	AI-Assisted,game
+wrld_30251b70-8af3-4280-9d46-143e926da217	咖啡厅v1․31	Ηonoka	6	13619	7	cn,tw,hk,v1,coffee
+wrld_18e01005-beb8-4a28-bb74-f789de8494a7	［JP‚EN‚CN‚KR］VRC卓球 VRC Table Tennis	Gutty_007	6	13393	3	game,sports,multiplayer,pingpong,pvp
+wrld_8faeda21-8ac6-4efd-bf3e-b7c23c3db15a	Youtube Optimized Box	iGabyPR	4	13280	3	box,mirror,optimized,hangout,youtube
 wrld_6475f4ee-380e-4ad3-a85a-c459986548e3	CRUSH FACTORY IDLE	torikyatt	7	13108	1	game,idle,incremental,chill,qvpen
-wrld_27f3e8c3-e52d-46e1-8dd9-a91ebac9beb5	Yukiakari Sushi Train	Yunocat ༊∗·˚	7	12301	7	food,chill,cozy,hangout,sleep
+wrld_4e9fd348-ffb6-438b-8320-f4311ba0a49a	SunDown RELIT	Genixy	6	13072	1	
+wrld_4c0ecedb-a468-4b08-82d5-e338f00d33cc	HATSUNE MIKU YOZORA PROGRAM 2026	Gugenka	6	13037	7	
+wrld_3dbdd288-1aba-4202-bf6b-211b47429f59	nekoroom	nekobako	5	12989	7	sleep,relax,chill,room
+wrld_4fb6805e-54f5-49c0-a792-09b9f4e05e6d	Tenna's Green Room - Deltarune	Viօlet	6	12971	7	deltarune,hangout,chapter_3,roleplay,undertale
+wrld_5030d3f7-6e44-4d69-8a01-c5b26d757795	Trap Haven	Rackshaw	5	12949	1	udon,party,club,drinking,npc
+wrld_ce8a8ba9-c900-4a8d-b8f9-b7c13c74b387	Arab Alpha	Kawa_5	5	12829	7	arab,chill,desert,alpha
+wrld_92752568-aada-4d3a-bd72-60c1ec0999e4	Platinum	ひなむらやよ	6	12787	1	sleep,chill,bed,photo,relax
+wrld_b724938a-8bc6-436c-9c94-3d0c95e79cee	VR French Furs Hub	theghost87	6	12755	7	chill,hub,french,furry,vff
+wrld_4dd265c3-5289-41d7-9568-9de73895d580	（LCD） Green Hill Beach - Sonic World	Lugana Rysniq	6	12661	7	sonic_the_hedgehog,sonic,sega,sonic_mania
+wrld_163ea60b-50da-42f0-92a1-ba1137722178	Hellebore ヘレボー	artsy glitch	6	12517	7	boat,ocean,water,chill,home
+wrld_9f389046-8f1b-48a7-a3c2-519675e47cd9	zrain	オーゼンOzen	4	12440	1	ozen,rain,bed,sleep
+wrld_44897904-a665-44ad-aefa-781f47c73117	Avatar Museum 14	おおかみちゃん	6	12322	1	avatar,museum,avatarmuseum
+wrld_1b754e93-4601-4b50-adc5-ad512424abcf	鱼罗QIE	齊 iii	6	12310	7	chill,home,video,rain,sleep
+wrld_27f3e8c3-e52d-46e1-8dd9-a91ebac9beb5	Yukiakari Sushi Train	Yunocat ༊∗·˚	7	12302	7	food,chill,cozy,hangout,sleep
+wrld_5593ea59-6b52-4abe-90d9-fa5dbdca5dd4	Nightshift ［FNAF HANGOUT MAP］	Chaotic_Jay	6	12249	3	fnaf,freddy,horror,five,avatar
+wrld_b1992535-7aca-4cbb-8448-05c832c86ea6	Stay Warm	Lilly the cat	6	12227	3	cabin,rain,cozy,camping,autumn
+wrld_661c9e83-e1d0-489b-97a5-f415e9361e5d	City Night	オーゼンOzen	5	12226	1	city_night,ozen,rain,sleep,night
+wrld_0314ed62-301e-4798-94ba-9c431d6abd51	It's a big room	Gosha	6	12206	7	pool,video,chill,ambience,billiards
+wrld_1a300e29-a139-4402-94dc-0ae71420f579	Time to sleep	オーゼンOzen	5	12159	1	rain,sleep,bed,ozen,room
+wrld_f07759a4-85a2-40ab-98cf-e646634ecddd	The Midnight Opera （Theatre）	Taia_Hunter	6	12155	7	Entertainment,Public_shows,Theatre,Opera,Dancing
+wrld_fb4bd00e-62c7-4bce-9465-62b6c8267077	Hope's Peak Academy ｜ Murder Mystery	Hirolotl	6	11958	7	danganronpa,hopes_peak,murder_mystery,thh,violence,mm,gore
+wrld_585b32dd-0655-4b90-80c3-ded809094cd3	ぶいちゃパーティー CUBEver	CubeBlizzard	6	11823	7	game,rpg,pachinko,idle,udon
+wrld_68dcfff3-d6ae-40d9-835b-a2e3267e47e8	曇り-kumori	maoskun	6	11702	1	cozy,home,loft,rain,sleep
+wrld_36089041-3b0e-4bf2-a1a6-f5885a6ebd2c	Idle Camping - MASSIVE UPDATEǃǃǃ	Only Miyu	6	11586	7	camping,cozy,idle,hangout,game
+wrld_edd74699-3fd7-400d-94ff-bf678aba91f4	Floatharr's Comfy Theater	Floatharr	4	11576	1	hangout,mirror,comfy,theater,dark
+wrld_e9db55c1-728c-4921-9cb0-fb461546cb73	Retreat of Haze カスミノカクレガ	GinGira	6	11542	7	chill,home,relax,cozy,sleep
+wrld_496b11e8-25a0-4f35-976d-faae5e00d60e	The Box	DrPotato	4	11473	3	
+wrld_34dcd007-23fb-4794-95c9-4f0f132a7299	Isolate	sakana．	6	11327	7	home,room,chill,sea,sleep
+wrld_9792050b-5925-4f74-8154-3b6d650f3931	Rabbit Sanctuary｜うさぎの楽園	LBEB	5	11294	3	rabbit,pet,animal,feeding
+wrld_d775f4cb-8021-4b49-8c4f-1c89d21feb3a	Ethereal Plane	Kireya	6	11285	3	friends,aesthetic,photo,nature,liminal
+wrld_ed6af0dd-a499-484a-9e81-0aee0ee59ec7	English Hub	⠀Alex⠀	6	11253	3	english,learn,learning,language
+wrld_a1e635dc-8b33-493a-9bff-2b250bc6c525	Light Box ｜ Lighting Test World	Silent	6	11200	3	testing,lighting,box
+wrld_96203704-8a95-4cb2-a047-794b6b029807	N o n e ․	YoonHa	6	11063	3	chill,sleep,rain,cabin,room
 wrld_676304e3-5c38-4b8a-93dc-dfb4e281c6ab	The Freak Circus （but better）	Mista_Roy	6	10866	7	freak_circus,performances,adult,hangout,circus
+wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9	OneRoom Light -F-	Taechan	6	10718	7	sleep,music,japan,chill,video
+wrld_648ee571-e56c-463f-a690-37086c7a72d0	Demon Slayer Corps Headquarters - Demon Slayer˸ -KNY- HC	Takato Matsuki	6	10659	7	hinokami,slayer,demonslayer,kny,demon
+wrld_07d5bfbf-2c76-483c-8cd6-02e4714dbb51	星鯨の夢 ｜ - The Dream of Star Whale -	zofuto	6	10638	7	chill,sleep,night,room,quest
+wrld_71873c79-8c28-4e13-a311-8af1e16bf703	Anthro Heat Lockers and Sauna	Sluggy Boi	6	10603	3	mirror,sauna,calm,furry,chill
 wrld_39305f43-8412-439f-87ef-f704b43fb5e1	Fort Rosebay ［Beta］	NovemberFrog	7	10393	7	military,roleplay,milsim,fort,base
 wrld_9795f8ab-5305-4cfb-a757-745fd264252e	Clearwater Beach	vbamboo	6	10372	1	
+wrld_3315f74d-496a-4c43-a888-c9987a07fc58	Jupiters Sleep World Beta	Jupiter Meally	5	10182	7	
+wrld_a011297e-f547-4d8e-9ff6-f8148e9c97b1	Golden Hour	Nachtfly	6	10031	3	chill,relax,bighouse,talk
+wrld_9dd2b63a-1b11-4efc-a9be-d316bef29be0	Room Forge	WispyWoo	6	10011	3	Custom_home,custom,WispyWoo,Comfy,Build_Your_Own
+wrld_b8cb5566-00f4-4fa4-8570-300e4b72c852	水灯り -Luce d'Acqua-	RaFimyu	6	9973	7	chill,relax,lake,lakeside,water
+wrld_7b5d6275-e654-4838-b614-21568ddf5a08	琥珀色ウェーブレット ~Amber Wavelet ＂Kohaku_iro＂~	puri_san	6	9807	7	Sleep,Chill,Video,Cat
+wrld_db5353d0-4f35-4ced-862c-b1c24ffeda84	Fort Victoria Recruitment Base	Lord_Melbourne	3	9768	7	Army,Military_Base,Military,Mil_Sim,War
+wrld_47ccd61e-86cd-41b3-88df-77577fe65f96	Gardenia Blue	iochiMochiMochi	6	9707	1	chill,relax,ocean,summer,water
 wrld_0d8e96f5-7aa1-443d-a414-9a153b87c1d6	PixelWorld	淵華-huchika-	6	9628	3	chill,home,game,video,sleep
 wrld_66a5dc90-68c3-40b9-bfe0-f229e08c3322	V睡ラウンジ -もうふもふもふ-	モモリータ	7	9605	1	sleep,chill,social,pcvr,meetup
 wrld_498500a4-56d3-43dc-8399-e27a3f3e16dd	星待つ停留所。- Waiting For Stars	こさめねこ	6	9512	3	chill,relax,star,quest,sea
+wrld_ee0f1852-9781-42ff-8910-4c15e67d1a7e	雨降ってて、風景良さそうな部屋。	もくそん	6	9495	1	room,sleep,Chill,Rain
 wrld_83368149-62de-4df3-bf26-7ce15c1277a4	FIGHT FINDER	Mortugues	7	9388	3	zaphira,metaverse,roleplay,sky_stadium,arena
+wrld_ff8de6fa-1ff6-4a39-82c3-e9b23998077b	Good Night Darling	西成武蔵	6	9286	1	rain,sleep,VRCLV,chill
+wrld_fee2ae90-adf2-4e0a-838b-3a8fb8390e19	Silk	WispyWoo	6	9176	3	comfy,clouds,wispywoo,heaven,cold
 wrld_09130665-57e0-43f6-a7ed-759497deb406	Night Shift at the VHS Rental	Puppet~	7	9120	7	game,spookality,chill,horror
+wrld_cfbdaeb0-132e-41fd-bd7f-774d4a9ae9fe	kakurenbo	たんぽぽ！	6	9027	3	horror,jumpscare,horror,gore
+wrld_212979a6-2e3d-4ce1-8783-08b2f757241e	Noctix	xpmmm	6	8955	1	chill,sleep,rain,relax,LightVolumes
+wrld_96d4bcca-1177-45a9-8112-2dda6e043b74	Another Home	synqark	4	8946	1	sleep,home
+wrld_ce7a0907-474e-4c40-871c-91527e9c71ff	West City - Dragonball Z˸ Kakarot	Takato Matsuki	6	8844	7	dragonball,dbz,kakarot,capsulecorp,dragonballkakarot
+wrld_cd2ad915-c8d8-4341-8c9e-12a00b8e2d9d	OneRoom -A-	Taechan	5	8738	3	chill,japan,music,sleep,video
+wrld_5154ac3e-b489-4a31-8d72-2cf183946e14	The Furry Dorm - A quiet place to sleep and cuddle	Fusaku	6	8452	7	furry,sleep,cuddle,forest,mute
+wrld_53746561-6c42-7261-696e-726f74735652	Steal Brainrots VR	re։l	6	8437	3	game,brainrot,tycoon,pvp,roblox,idle
+wrld_a7e4d38f-8fac-47ab-9e30-628bf015e62b	Palm Point - Night	~Sam	6	8335	3	beach,cozy,drink,dj,chill
+wrld_10b0858a-65ca-4445-ac22-9ea71b684054	Let me decay	Miro-cn	6	8259	1	Japanese,English,网易云,bili,哔哩哔哩,B站,cn,中文,中国,chinese,视频,BiliPlayer,sleep,睡觉,Music,bilibili,Sleep
+wrld_7b49b124-a144-4048-80a4-35276b72d738	退勤	よけいっ	6	8116	1	horror,spooky,office,game
+wrld_3ce9cc2a-69a7-45f0-a69d-9365038a3072	Color Grows	かしわも	6	8110	3	chill,room,sleep,home,VRCLV
+wrld_eda7a7d6-a2dd-443b-9e8d-680176cc3e58	雨音のすみか - Amaoto no sumika	猫宮くるみ	6	8102	7	sleep,relax,chill,rain,night
+wrld_8e52b1d8-f7a5-4deb-a8ff-bd8e544d04d3	Werewolf / Mafia card game VRChat	groot .	2	8039	1	game
+wrld_a7700e61-4792-48d9-b897-f20712365bf3	明月何时有2․33 How rare the moon‚ so round and clear	春蕾不觉晓	6	8015	7	moon,photo,relax,scenery,china
+wrld_ff5f8330-3bab-49ac-8c41-10175a929295	すやるーむ - SuyaRoom	猫宮くるみ	6	8006	7	sleep,chill,room,home,night
+wrld_fe10508e-68ff-43a4-84fd-8f6eac0051f8	Bed Wars VRChat Edition v1․0․8	BarricadeBandit	6	7856	3	building,fun,bed_wars,pvp,minecraft,udon,game
+wrld_041634dd-5df9-4cd6-a958-54ee15f63fce	Screen Sharing World	Vard	6	7847	3	vrcstreamer,stream,screen,sharing
+wrld_7fc7ed1b-a643-4d23-a985-addad43a7f44	Sweet Aquarium	Stylish＠Ship2	4	7798	7	chill,sleep,home,cozy,color_my_world
+wrld_074ceb26-df64-454c-956b-40dc968490db	Glass Houses	Randomlocalv	5	7472	3	Forsaken,Roblox
 wrld_2d33f190-8a87-45e0-a3cc-6aed9057698e	Enclosure	˖Vera˖	7	7229	3	concrete,sleep,chill,rain,ambient
+wrld_7a107b75-755d-42cd-80d3-b86c5ad1b980	［Sleep］ 雨音と共に - In Tune with the Rain	はるる早苗	6	7215	7	sleep,chill,night,relax,rain
+wrld_18bf1af0-253d-4a6e-958d-48326690bed6	nightmare castle	Fragrantdeer765	6	7214	7	aus,undertale,dreamtale,nightmare_castle,castle
+wrld_f18916ae-e83d-4255-be4a-953b31dc6317	2人だけのASMR room	ponchof	6	7206	1	asmr,chill,home,sleep
+wrld_8adf4c69-1fba-46cd-84b2-e1022b39a25c	Blue Moon Memories -蒼い月の記憶-	ゆりぴ～（yuripi）	6	7173	3	chill,tarot,nostalgic,ocean,fortune
 wrld_f8808b2a-108f-473c-bb27-34996d8710df	City Loft	TfrOg23	6	6952	3	Cozy,Chill,Music,Rain
+wrld_d9146d0f-8e03-481e-973d-10c480cb8a94	Vee Floorǃ	TheMechOfGames	6	6923	7	dandys_world,roblox,roleplay,game,dandy
+wrld_123b7c52-81fd-4b20-87db-06fc38557ff4	crawl	西成武蔵	6	6871	3	chill,sleep,wave,sea
+wrld_521690a5-3fb2-4b91-8320-e350f27b2461	Deltarune Hometown - Ch 4	Viօlet	6	6848	7	deltarune,roleplay,hometown,hangout,undertale
+wrld_271464c9-b551-42c5-80a3-eb570ae6b856	Blend	Hakuto__	6	6765	1	
+wrld_b7343933-7d56-45eb-befd-244048ecb0f8	rainy sleepover	Luna_cydonia	6	6602	3	sleep,cabin,forest,optimized,cuddle
+wrld_fe261993-d30f-412a-a097-9a17b5fa1d42	Cushion Room	あ け ち	6	6558	1	chill,home,sleep,room
+wrld_1e316d54-100c-4044-8a34-480985ce0165	五月雨 - Rainy Room -	Yuni（ゆに）	6	6550	3	Rain,Sleep,Chill,Relax,Home
+wrld_f4962bf7-b081-4c78-947b-a8010662c9ea	星と夜景のカプセルホテル - Starlight ＆ Citylights Capsule Hotel	Ameuma773	6	6498	3	chill,sleep,hotel,japan,relax
+wrld_872fe9bd-a525-41e6-8ffd-850b256e2d91	Starlight Melody	Stylish＠Ship2	4	6479	7	chill,sleep,home,cozy,color_my_world
+wrld_b6b10470-3f74-401e-bff0-189fcabd7e1c	Serenity's Avi World	Serenity庭	3	6406	3	avatar,cozy,avatar_world,pc_and_quest
+wrld_cf5b4d70-4089-494a-bea2-4dfd22316d56	NEXT_Round_1․0․11	Satou213	6	6341	3	game,shooter,pvp,fps,multiplayer
+wrld_c4f2d08b-dc2f-4801-8a3c-081bef3bc81f	Calmium	TAGOb6c	6	6299	7	chill,relax,calm,sleep,sofa
+wrld_6fb88283-f736-4607-8c22-baaff35f9e1c	~舒休吧~Leisure sleeping Bar v3․9	ζั͡狸ั͡戨ั͡aniki	6	6296	7	cn,sleep,tw,hk,leisure
+wrld_66f6b5fa-33f6-42a2-9f8a-099d887cb9e9	Meta Deck's ~Where to find your favorite~	おかれもん	6	6267	1	game,chill,sleep,RTab,mahjong
+wrld_458c5aa5-5c06-415d-aa7b-0d5d69de0609	Pizza Mania （Clicker）	Kireya	6	6225	7	clicker,idle,game,friends,pizzeria
+wrld_d6b033c4-f4c6-42da-be05-38cbf69d6c58	Deltarune Chapter 5	Viօlet	6	6193	7	deltarune,chapter_5,roleplay,hangout,undertale
+wrld_edf7c39c-45af-4740-bcaf-9038c2ce7b43	夜花の残滓 - Flower Veil	Nyardayo	6	6156	7	relax,chill,flower,smallroom,sleep
+wrld_8901b417-3cfc-4b4c-a29c-43c67d53adde	No Reason ⁄ 理由もなく	_Harim	6	6142	1	home,chill,nostalgic,photo,harim
+wrld_3e09a927-7384-451b-9805-2cbca5be6be2	Doors ~ Library	Atomic`	6	6128	3	doors,doorsroblox,roblox,hangout
+wrld_b177e242-dbfd-4b8d-b396-fa72096ac535	Karaoke TORI 토리 노래방	ＴＯＲＩ	4	5940	3	karaoke,노래방,udon,sing,game
 wrld_a45a6a54-afee-4e59-a31c-cf68b40b3bc1	CLOUDREST	ウィル＿Willgrim	7	5845	1	Chill_Room,Vizvid,Sleep,Cliff
-wrld_c441fe82-c6ff-40c8-b37f-2320311ca7e4	AMORCE｜日本語話者向け交流ラウンジ	ゆうり。（ぷしゅ。）	6	5798	7	日本語話者向け,交流,lounge,swipe,matching
+wrld_c441fe82-c6ff-40c8-b37f-2320311ca7e4	AMORCE｜日本語話者向け交流ラウンジ	ゆうり。（ぷしゅ。）	6	5803	7	日本語話者向け,交流,lounge,swipe,matching
+wrld_548f77a1-cdb5-448a-a95c-89888b7fa90b	KOGE's Hotel	KOGE1NU	6	5777	1	hotel,sleep
+wrld_cbb67b27-9442-45f9-b766-b0ed6d87001c	Aromerican Diner	aromabl4ck	5	5764	1	diner,retro,dahlia,american,Nature
+wrld_e0b2f067-f25d-4062-b7f1-6c5a1c19d7f6	two only room	ster1224	6	5699	3	chill,cozy,rain,sleep
+wrld_d8770e80-6e3b-4fce-9389-c9afc7c423ba	Dance Studio v2	RA845	6	5655	7	fitness,studio,gym,dance,pole
+wrld_f917db0f-a69b-4d4d-844d-8fec734df065	Conversations and Constellations	evalka	6	5599	3	campfire,forest,space,stars,sleep
+wrld_d719de93-ca54-49b3-a420-c196023e6c21	すんごいカメレオン［Beta］	Yodokoro	6	5437	1	game,hide_and_seek,prophunt,gun,friendslop
+wrld_37df0dab-0df8-4550-9c60-926648368f60	DigLifeǃ ～潮干狩りして家を建てるワールド（友達と資材交換可能・自動セーブ・Quest対応）～	HK2（KUSAASOBI）	3	5437	3	game,craft,beach
+wrld_25c9646d-44aa-40f3-ae62-bedc6509930c	Glimmer	＊るう＊	6	5434	1	Night,Sleep,Chill,Relax,Sea
+wrld_b965b49c-6ea4-45b6-bdb0-2fb7449dc74b	Doki Doki˸ Rekindledǃ	Mydi-guns	4	5334	7	chill,ddlc,doki,noAI,school
+wrld_7b724d54-039c-472e-96f2-72c16597fe5d	X-Tower-Bey v2․6․1［CN·JP·EN］	晓镜子哟	6	5318	1	game,Beyblade,toy,bbx,beybladex
+wrld_d2484c38-986d-42f4-bfd9-02a42850537d	Aurora	ヴィジランツ	6	5299	3	chill,relax,aurora,coffee⁄tea,qvpen
+wrld_fe8363b1-5f7d-4ab5-af61-b1a9d5656677	卡拉不OK（同步OK）	Mr․ BoBo	6	5277	7	karaoke,sync,reverb,singing,同步
+wrld_b477c764-43a2-43f0-8355-d2871af3881d	Hexahedron Estate	Ziggor	6	5276	1	tropical,hangout,party,games,drinking
+wrld_6007811b-1249-446b-8757-b156e13aa930	Halloween Floorǃ	TheMechOfGames	6	5220	3	dandy,roblox,game,halloween,dandys_world
+wrld_60a4cf63-5212-44c9-a3a3-b49f143eddc2	Teen Titans Tower	Ian Calle	4	5208	7	teen_titans,teen_titans_tower,cartoon_network,jump_city,the_architect
+wrld_27182bc2-b531-450e-af47-04315b2dcb97	Alice and the Clockwork City	503࿇	6	5118	7	spookality2026,alice,horror,謎,puzzle
+wrld_8357d16a-9b9e-4df4-8e24-45a221418f43	リゾート温泉 夢見の湯 Dream Hot Spring	Real_MuNi	6	4967	1	onsen,spa,relax,ocean,sauna
+wrld_d74ca53b-7e4e-4c13-9c42-40a6e71a0e12	The House - A ReGect	ғᴜɴ ɢʜᴏᴜʟ	6	4966	3	regect,arg,minecraft
+wrld_cafbd53d-e98d-4343-9ea5-4745898e4cd3	Modern Cabin	Atamatunchik	6	4953	3	Rain,Forest,cozy,hangout,cabin
+wrld_988fefa9-3f42-4bde-80bc-cc5647f57489	（LCD） Studiopolis Zone - Sonic World	Lugana Rysniq	4	4905	3	sonic,sonic_the_hedgehog,sega,sonic_mania
+wrld_6cb3e81f-4c0e-4a6f-8a3d-7c165b514048	Zombies of VRC	SilentLurkers	6	4901	7	game,zombies,pve,shooting,halloween
+wrld_e7b0876f-a839-46ac-bd23-6b8648b566a3	星と、誕生と。	ぱんだ（graph）	6	4893	7	birthday,quest
+wrld_071e2a8d-0178-4aa9-94f5-251e517a0065	［Initial D］ Shomaru	Jintei13	4	4863	3	cars,touge,racing
+wrld_0507574c-bf29-4537-bd09-86e14123a98f	SleepDay	雪乃こいぬ	5	4852	3	chill,sleep
 wrld_167937af-0ff3-448d-91da-9fea8e6b5e54	Distant Research Station	CoffeeBandit`	6	4818	3	votv,abiotic_factor,half_life,gmod,backrooms
-wrld_dac0e6cf-4c97-4ba2-ae5a-5a880d9fede0	Beach Sandbox	Sylan Troh	6	4801	7	sandbox,simulation,beach,game
+wrld_dac0e6cf-4c97-4ba2-ae5a-5a880d9fede0	Beach Sandbox	Sylan Troh	6	4806	7	sandbox,simulation,beach,game
+wrld_e12d1560-89a6-479b-b28f-88db750d46c6	Drifting Milkyway	Stylish＠Ship2	4	4779	7	chill,sleep,home,cozy,color_my_world
+wrld_f3db768b-561b-461e-beea-c72957cb263d	フレンドを天ぷらにして食べるワールド	Hyakuashi	6	4705	7	tempura,avatartempura,avatar_tempura,てんぷら,天ぷら
+wrld_5ecf1d09-9f98-4d54-afb2-91dab467d712	屋根裏の寝床 - The Attic Bedroom	Ameuma773	6	4646	3	sleep,room,chill,attic,japan
+wrld_e3d2ff95-3e04-477e-8db9-2baacc75cd83	Horror Hospital	Rig-	6	4625	3	horror,funn,Game,Horror,Spookality,Spookality2026
+wrld_e9b664ed-17f0-4bee-9829-af52aa4f06de	City Glow‚ Rainy Soul	Zix808	6	4609	1	sleep,rain,city
+wrld_6a06bc98-fed3-49e3-9064-9502135e62ff	蒼雨の寝室	鬼くらげ【きくらげ】	6	4500	3	sleep,cozy,chill,rain,quest
+wrld_7eeeef0a-835e-4765-93da-e6fdc58d8a7c	Cemetery	EGirlRᴇᴘᴇʟʟᴇɴᴛ	6	4460	3	horror,cemetery,zombie,monster,chase,spookality
+wrld_bca443d8-b2dd-4174-b7e2-92c4e2e60a48	K市地下道	新井ぐま	3	4441	3	horror,horror,liminal,japanese,exploration
+wrld_8f4f085d-7152-447f-ac98-6a45377f286b	Suborbital Express	Niko∗	6	4428	3	space,travel,earth
+wrld_0fa2f775-6bd9-4d5e-8fd8-8b555287aca1	Among Us VR - Skeld ＆ Polus	ᴇᴄʟɪᴘsᴇᴅ ᴠᴏʀᴛᴇx	6	4416	3	amongus,amongusvr,vr,among,us
+wrld_a24182c6-d0d7-4dac-97da-fab9bfcdb344	Grass Cutting Idle Game	miner28_3	6	4358	7	game,idle,grass,incremental,chill
+wrld_7eb91216-9fac-4481-a3cd-5f9b9d7d3a2d	【CBS対応】悠々の間	Croys	6	4307	1	cbs,udonchips,vrc_light_volumes
+wrld_969f883f-3cde-4bd7-8006-1c6280dc76e1	Stay Here․․․	Nomad141	6	4221	1	night,chill,lo-fi,sleep,rain
+wrld_d2ed93a6-ad2f-49fd-af9e-0a39970f778c	Mango Flange Karaoke	Enverex	6	4137	7	karaoke,bar,hangout,pool,singing
+wrld_a7fa0a75-2fb8-4c0d-8e93-13d1e5f2f4a4	夜鈴ノ隠れ家	Noctbell	6	4128	3	
+wrld_87982ae0-8253-45d4-a598-7a610c2a1d1a	軌道エレベーターLounge	Kai-ichi	6	4127	1	space_elevator,lounge,sf
+wrld_7b151c72-4eb8-41a0-a27f-385c327a2594	TWO HEART TWO	MOFUx2Wing	6	4113	1	JP_HOTEL_SLEEP_HEART
+wrld_12aae0e6-03b0-4907-8a1f-8e2ce20b3594	宵凪 - Yoinagi -	おとりとり	6	4098	3	room,cozy,night,firework,relax
+wrld_1bfa3a19-b1f6-4203-8587-838f882249bf	（LCD） Nova Mobius - Sonic World	Lugana Rysniq	5	4093	7	sonic,sonic_the_hedgehog,sega,sonicheroes,sonicbattle
 wrld_3a76141a-4d02-4441-b00a-78265b00b791	雨旬｜Rainphase	ʚMiyuuɞ	6	4060	1	chill,sleep,rain,thunder
+wrld_8cba305c-b4d7-42c5-a48c-17274f9fa3a8	Udon Dance Dash	Norobe	6	4060	3	dance,fbt,beat,rhythm,game
+wrld_ab11689a-92b3-46aa-bb68-f24b2907b297	VRCくりえいてぃ部室	れいんつ	6	3967	1	イラスト,3d,作業,jp
+wrld_59913655-aa9e-4ae7-9c2d-fac0621367e2	ぱそやさ	lio	6	3901	3	optimized,sleep,pen,video_player
+wrld_c1c3cce0-1b95-4c46-ad98-ba9dd25331f0	星とねむる	いもちゃん	6	3882	7	chill,sleep,star,tiny,lake
+wrld_99a1d43d-70f3-490d-b310-4aeac6d6be0a	迷った時のポータルワールド	クランク	4	3831	1	portal
+wrld_f1d95348-8cfa-45c2-b96b-585bda930d2b	NIGHTIDEv2․0․0_放置育成RPG	もこみる	5	3794	1	game,idle
+wrld_36654deb-3779-4d2e-87ab-4adbfde41306	06_Leaf	_hoshino_	6	3746	3	chill,room,avatar,relax,green
+wrld_e1e6cf19-ff7f-4387-a00e-3f5a273acde6	PolyDance Revolution Lounge （DDR）	Enverex	4	3673	3	dance,ddr,arcade,revolution,game
+wrld_6dad9aca-5a51-43be-9835-39bc2211b50d	Aerial Bloom	Stylish＠Ship2	4	3672	7	chill,sleep,home,cozy,color_my_world
+wrld_8572367a-4de3-4a4c-84e8-18c370cca9a5	片隅の夏	きゃらめるまきあーと	6	3661	3	
+wrld_b760c37e-95b5-40ef-b105-1d5ca31747cb	IDLE SNIPER ARENA	RoseDoggy	6	3649	3	game,pvp,shooter,fps,sniper
+wrld_428aebf7-e5f4-4b42-8492-045091a85527	青空遊泳 -Aozora Yuei-	yuzu〜	6	3597	3	
+wrld_b9326dce-ee4b-42cf-9a92-27e456d55282	Soft Wind （night）	momi _	6	3589	1	chill,sleep
+wrld_6ef4c30b-5bfa-4be7-bd18-62f65516e5bd	神山 - Lost Horizon	link0319	6	3483	7	chill,photography,chinese,tibetan,plateau
+wrld_b531e3b4-968d-477b-8a35-5a2098204930	Mine Simulator	Dr Socket	6	3460	7	Mine,Chill,Game,Progression,Meditative
+wrld_8e8024ab-ebde-4496-b636-c349d2afe85d	Roost of Wind カゼノタマリバ	GinGira	6	3404	7	
+wrld_de318013-7041-49f9-895d-828e1df639ed	Metro	Gssam	6	3381	3	subway,train,night,city,metro
+wrld_d35776bf-48d7-4359-b8a0-9f04c883437e	MOOROOM for Two	ムーニー	6	3337	7	chill,sleep,cozy,hotel,two
+wrld_775c9c73-0ef9-4b2b-9929-db1fc8fa45b5	Stay A Little ⁄ 夜が、もう少し続くように	〚LUIN〛	6	3336	1	
+wrld_89f43b90-8c73-4447-99f3-ebd79df13809	フレンド広場｜日本語話者中心コミュニティ	えるるっく	6	3288	7	JP,Friend,Japan
+wrld_1d6ed1eb-8b08-4b57-ac8a-68317ff4f9b4	OBLIVION	おみみぃ。	6	3212	1	chill,sleep,rain,relax,night
+wrld_534d7786-788f-48de-b32c-45bdc21d75fd	あおぞら弓道場 （Aozora Kyudo Hall）	ぷちりゅう	4	3164	1	japan,archery,kyudo,udon,game
 wrld_4c9c974b-0cb2-48e0-8acb-f3427eee9ea1	Night rain	オーゼンOzen	6	3161	1	
+wrld_b300fc31-56e0-4ccb-9f8a-a87d1b8ed73c	Hood	Takeshi Shimazu	6	3013	3	
+wrld_85c5c415-a2ec-450e-9d75-7fe07d31e19d	ModernIndustrialRoom ［Demo］	SatoImozou	6	2991	1	chill,demoworld,industrial,modern,homeworld
+wrld_9df60b7b-ec8e-4d6b-b308-a294e2c2caf8	OVERDUE	randomlight1	6	2957	7	horror,puzzle,coop,library,camp
+wrld_b94cf643-d2ef-4504-9537-56d27b0dc5a2	MRVR Headset Museum ｜ VRヘッドセット美術館	ミスターVR｜MisterVR	6	2953	3	museum,headset,fov,vr,hmd
+wrld_d95b8c8c-806f-4bf9-a401-22d2fe287dc9	CRK˸ Hidden Kingdom Hub ［NO AI］	༒SΣRΔPHIM༒	6	2943	3	CRK,Cookierun_Kingdom,Cookierun_Avatars,Cookierun_Hub
+wrld_d5c8c9ee-57c4-4cc5-af79-6d8457b3e69a	海底に眠る ~Sleeping Beneath the Sea~	nekohotel1217	6	2862	1	chill,sleep,sea
+wrld_98695a6c-e4d4-4176-8487-953829471f61	夜月 -night moon-	_しろねこ_	6	2849	7	sleep,chill,night,quest,Ios
+wrld_be70af55-81ed-41c1-a275-4dcb0b45b2bf	True Dream	SkyeMinx	3	2829	3	Peaceful,Cozy,Dream,Home,Calm
+wrld_ed4e4aa4-65f0-4807-a04e-a141ec8e61f2	redshift	Neg-en	4	2813	3	club,space,chill,music,sleep
+wrld_ad8933c6-90ad-49b4-8722-fa7f649c3e18	-yuuri-あきぞらキャンプ場	o_ゆうり_o	6	2773	1	camp,autumn,chill,campsite,autumn_leaves
+wrld_aaf18af2-23e0-48a9-bdc1-f76feee2a42c	Sea Breeze Cafe	おおかな	6	2768	1	chill,cafe,home,room,blue
+wrld_eeb8319f-4b87-4aa9-9316-d05925b6059d	Async Research Institute ˸ 1990	Recettear'	6	2751	3	async,kanepixels,analog,liminal,backrooms
+wrld_0cd2d819-c3cf-4a6d-8e7a-18c5f6d9e0df	Ghibli Howls Castle	Magnus Trigger	2	2682	3	anime,cartoon,hangout,chill,lounge
+wrld_dc75e082-dccd-4251-94c2-6fe02dfd28c1	Spanish Home Cinema	Joita-	6	2644	7	cine,peliculas,movies,cinema,central
+wrld_290929a4-5c82-46da-aaa4-f82e5c793462	長崎には海と山しかない	enfutu	5	2642	3	relax,chill,sleep,sea
+wrld_869446a3-c0e6-4895-9ce1-e28f2793c7b8	VRCVID - Watch ＆ Hangout	Armagan	6	2567	7	cozy,hangout,youtube,queue,search
+wrld_c1ce2088-0b86-4a99-9074-ac709920bbe7	木犀環 ~Osmanthus Halo~	yo-guruto	6	2564	7	chill,autumn,relax,mirror
+wrld_854926db-ae1a-4b24-9481-d5baa58e9f93	Pokémon Battleǃ （BETA）	voidcat	6	2556	7	pokemon,pvp,game,quest,japanese
+wrld_ba7b124a-9ea6-48dd-9c41-1000ccb10faa	WBD VRC Baseball DEV	썬써니_	5	2546	7	game,野球,야구
+wrld_70610c0a-3841-412c-a33a-38aa4bec7926	Secure's Transformers Hub	sᴇᴄᴜʀᴇ	6	2529	7	transformers,city,avatars,Hangout,Cybertronian
+wrld_cdcfb049-ea25-4133-8988-2ec4ae941e23	Comfort Deluxe	Stylish＠Ship2	4	2520	7	chill,sleep,home,cozy,color_my_world
+wrld_ac7f45ed-4b08-4552-9ad3-7e2ffc309e45	【Beta版】ふにゃおすマッチング２	ふにゃすき部	6	2505	1	
 wrld_d7c02015-fa67-4c20-b576-1eef586173b8	Lakeside Observatory	0xc0de（コード）	6	2481	3	chill,sleep,constellation,star,realtime
-wrld_b8ed8c0a-d880-4de2-8ac6-388fb82fc9c0	Find the Needle	Roofy․	6	2042	1	game,farm,friends
+wrld_731a6d58-209b-48ab-9cd8-ecf8dfc93296	八字 - Demo	Pache1bel	6	2400	7	gore,horror,horror,chill,chinese_80s,taoism,game
+wrld_a1358a9f-d30d-431d-99ed-0b1c753e720e	溶けていく心	みなるくん	5	2327	3	chill,room,relax
+wrld_e12edb4f-e7ab-436b-95ac-d6108ae3b757	Sleeping Cube - 雨降る寝箱	Ameuma773	6	2327	3	chill,sleep,cozy,relax,rain
+wrld_ab4d3109-9f99-4680-903e-6540266fc5f9	D0main's Avatar World	ˏˋDomaˎˊ	3	2268	3	
+wrld_cbeaaed0-b84e-41a1-830b-7c86c171fb75	Cinema 3D Spanish Version Clasica	VFCS	6	2231	7	cine,cinema,peliculas,spanish,movies
+wrld_d9d4b223-16b5-4a5f-a946-0cf1f8dcd55b	Deltarune （HALLOWEEN UPDATE）	Wisp_03	4	2181	7	undertale,roleplay,rp,Deltarune,game
+wrld_5f85df2a-b914-4d47-bdb1-0a70d7bc65c0	Alpha Hills Skibidi Toilet Base - Outdoors	JayWhiteHawk2	6	2168	3	
+wrld_b201fb00-0a9d-47df-bd77-6af735d07aa0	V I V I D	Broskitooo	5	2160	3	trippy,fractal,vivid,game,space
+wrld_fc143fa1-3be0-4d90-8b68-586cfb5edbce	一旦ここ集合で	そりたか_mp4	6	2141	3	
+wrld_c1a1a784-a7f4-44c9-8ab9-8b925aced668	COLDLINE	Recettear'	6	2074	3	game,thriller,time,cold_war,phone
+wrld_874b441d-4bcb-4281-8eee-42ffe1ad6872	午前3時の夢	SiroPoko	6	2073	7	sleep,chill,rain,night
+wrld_579dce92-6b66-4bb5-a1ac-63edade6241e	【協力ゲーム】ここで二手に分かれよう2	tatibana3_3	6	2069	3	game,puzzle
+wrld_b8ed8c0a-d880-4de2-8ac6-388fb82fc9c0	Find the Needle	Roofy․	6	2054	1	game,farm,friends
+wrld_109a24de-f5e6-4dd6-8773-c82e9cdace9a	Modern ＆ Rain	むらと。	6	2046	1	rain,chill,photo,studio,modern
+wrld_ac6b19d0-f560-4256-97bb-3bf127c2d91a	TKDB Military Base	THE_TK_115	6	2024	3	
+wrld_4c98cc9b-bf02-4546-8216-688bb39b49c2	Lumen Lagoon ~ Aquarium Hotel Fishing ＆ Waterpark	Zetashirken	3	2004	3	chill,hangout,sleep,penguins,game
+wrld_e14545f8-ef05-46ff-ab8b-7f466b6b0c0e	VR Fuse Beads ⁄ VR拼豆	shunxin	6	1912	3	
+wrld_757094d4-d446-4c06-80e4-aeac39ad668b	（LCD） Sandopolis Zone - Sonic World	Lugana Rysniq	3	1890	3	sonic,sonic_the_hedgehog,sega,sonic_3_and_knuckles,sonic_and_knuckles
+wrld_31ad2668-a4b8-4590-8ac3-6df56ce3e80f	幻	narcissu 1	6	1848	1	
+wrld_0d9b7e52-3309-40f8-b1b6-fcdbb43ac2e0	放課後ゲーセンver0․12（WIP）	ショウ。	6	1845	1	
+wrld_68581943-410d-4742-9c44-e3d8c6e247bb	Man cave	Magnus Trigger	1	1801	3	game,games,relax,hangout,chill
+wrld_a01695cd-bb59-4b90-948e-035b02fedf9f	The Wall Hideout	Qyuming	5	1753	7	chill,home,cloud,hideout
+wrld_40f88502-eed0-4b66-915b-6c393f3af5ea	（LCD） Night Sanctuary - Sonic World	Lugana Rysniq	4	1751	7	sonic,sonic_the_hedgehog,sega,sonic_3_and_knuckles,sonic_and_knuckles
+wrld_eb51b4b7-ba50-418d-9427-10780ecbe0ab	静寂をふたりぶん	agetate	6	1747	1	chill,Night,small,sleep,relax
+wrld_11e77d1a-2280-49e7-80c9-b80da4bfb5f0	町林市 - ドライブ＆フライト	sinhy99	6	1737	1	game,drive,flight,vehicle,simulator
+wrld_02deb4db-fd76-42e0-808e-dce67dd2006e	【10⁄7 Updateǃ】ととのえ！あるぴのガチサウナ！	あるぴ！	6	1726	1	chill,sauna,spa,relax,gimmick
+wrld_0b8b0863-59f6-4bb5-a342-c1119156cc82	エクが運転してくれるチルワ ⁄ Cozy Cruise with Eku	がんだる	6	1704	1	Chill,Sleep
+wrld_ab92f716-1fa7-4e60-822a-0d54b2983452	Glitch Hound Arena RPG	Zetashirken	5	1696	3	game,pve,halloween,boss,survival
+wrld_143f9ad6-5cda-4b38-8935-895949b7a649	おもしろフラッシュを見るためだけのワールド	エージェントSATAN	6	1680	1	PC,FLV,movie
+wrld_7582ccac-0228-4d3e-b37f-b0b60f9e0945	~Re;Villa for two~	ღLebiღ	6	1661	1	chill,sleep,bathroom,for_two
+wrld_67db1436-3ce6-4b22-ae19-cc094b2b030e	Rainy Night Camper	Reos 3D	6	1657	3	rain,cozy,camper,chill,sleep
+wrld_855f41f3-6e8b-4273-9bf4-c3c0177eec69	Asian Aesthitics	Magnus Trigger	1	1637	3	relax,hangout,lounge,asia,japan
+wrld_ea0b892c-4117-44cf-bcc7-f6f8537ffeee	Existence˸ Disavowed	King․ Ddraig	6	1623	3	Horror,Monster,Spooky,Game
+wrld_9b4a7f6a-bbc3-44d1-a9e6-19f2d71b1c1d	なんかこういう温泉行きたいよね。	namamelon	6	1616	1	chill,onsen,RBS
+wrld_cb5c324a-a31c-40df-b27b-11838255b618	危険物乙4が取れる（かもしれない）ワールド	otomo2gou	5	1603	3	game,study,chill,qualification,quest
+wrld_5528f00d-63f5-4357-bb3d-4e898b84f534	穂波 - Susuki field	vbamboo	5	1597	1	
+wrld_8a495d93-8cb1-44e2-9ecc-91f52527de73	Cloud Veil	VILET_TI	6	1587	3	
+wrld_656f4867-fc8a-4cb0-a50c-c474dd9ead68	アルコーヴ-Alcove-	COSΜOS	6	1578	7	chill,relax,cozy,sleep,チルワ
+wrld_434bd14e-4fac-4add-b859-a4eda3143e74	蒼霖	えびさん	6	1563	1	home,cozy,sleep,rain,chill
+wrld_3398f8aa-a7e6-4b47-8b22-19765de71eba	VRC Catan	星宮さら	5	1562	3	boardgame,game
+wrld_484159ec-baf2-4c00-8b66-dc94d0b754bd	The Vegas Sphere	Parksua138	5	1517	3	music,lasvegas,new,EU,japan
+wrld_e6149943-d930-444b-86f2-5f3e091e9469	満天の星を眺めて	NoAAyano	6	1504	1	
+wrld_fdcd9257-5d2a-48a7-8eee-28577bef815e	Examination Main Map	`Moonie`	6	1490	3	roblox,examination,horror,roleplay
+wrld_d2b3c1db-94cc-4410-a80f-8fb0e2090372	（LCD） The Special Stage PLUSǃ - Sonic Bar	Lugana Rysniq	4	1480	3	sonic,sonic_the_hedgehog,sega,club,bar
+wrld_63156bc5-a116-460a-a3dd-447d5fadccfb	Construction Hangout ǃ	Mac-Ros	6	1479	3	roblox,construction,hangout,retro,ragdoll
+wrld_d8a9f35e-92f7-45dd-9f61-4a6af339a27a	この世界に色彩は不要。	ʚ 白 ɞ	6	1475	1	
+wrld_e5e7622f-5aef-4a50-8fd4-1b098966f72d	Container Capsule Hotel	Vistanz	3	1399	1	cozy,hotel,capsule,sleep
+wrld_714cb5ee-a51f-458e-8fd2-d0bc98ad9312	Furry Grotto	LidoBnuy	3	1383	3	openflight,furry,hangout,chill,quest
+wrld_75855adb-c229-4afc-874f-e08b5cba8389	溶けていく心 - Rainy Night -	みなるくん	5	1348	3	chill,room,relax,rain,sleep
+wrld_21580069-6c2f-41bb-99c1-65eca121c2a0	Guess The Vocaloid Song	ryo9	6	1323	1	game,pvp,vocaloid,miku,music
+wrld_11a2d4a6-d642-4121-9373-77ad50364f6c	Backrooms The Complex	ѕubliminal	6	1299	3	Async,liminal,Backrooms,Exploration,horror
+wrld_5c5077c5-a83d-4782-982e-8272265267ec	いらすとやがぞうあてクイズ	まのき_	6	1284	3	game,quiz,quest,japanese
 wrld_73b41023-2e71-4c8d-9cea-8a0db5428c6f	家賃25万円の部屋	碧乃辰砂（あおのしんしゃ）	6	1279	3	chill,sleep,home,night,rain
+wrld_ab6308c1-d5b8-4267-b32a-601e36d3c6ef	ケーキが作れるおうち	_えね_	6	1275	3	
+wrld_75707be7-1422-41f2-870a-ce0258c8f8b7	Can't Live	Apathy	6	1271	1	night,chill
+wrld_0ca043a4-5963-43a0-8f5d-b3f225369889	（LCD） Green Hill Beach Legacy - Sonic World	Lugana Rysniq	4	1251	3	sonic,sonic_the_hedgehog,sega,sonic_mania
+wrld_a2d83927-3a05-481d-b1df-4416eb619638	FPS Fox Per Second - Idle Clicker	Libby~	6	1238	3	game,idle,clicker,cozy,fox
+wrld_68e3bf3e-07ab-4d9a-a047-adb13207441e	Lingering Afterglow	Stylish＠Ship2	4	1185	7	chill,sleep,home,cozy,color_my_world
+wrld_c5fd6a41-0ce0-4427-9c69-c227096e7d05	Park Lookout 觀日亭公園：Sunrise ＆ Day Night Simulation【avatar lighting solved】	odplus	3	1173	1	Night,stars,sky,Sunrise,Nature
+wrld_4e6f8d80-9cc2-4721-838d-89802358e258	Aleks Genshin stuffs-New and Improvedǃ	AlekStahl	4	1071	3	avatars,genshin
+wrld_8f9f1651-1bca-45cf-8387-e294603c580c	KirbBoi's Avi Worldǃ	KirbBoi	3	1049	3	godzilla,ultraman,gamera,pokemon,evangelion
 wrld_dd1a28b9-465d-49d6-a9db-c4ece895e28a	05˸00pm	向海想睡觉	6	1048	3	chill,sleep,night,tanki,npc
+wrld_00d17c4f-0cf5-412e-b705-a5eeaff34bc3	Takoyaki Time	jinjing9	6	1034	1	
+wrld_d4be8521-c90d-4511-a601-b81681113b89	のんびり釣り日和 夜景のホーム	らくどす	6	1021	3	fishing,game,chill,home,night
+wrld_9ae0a5f8-e548-483c-9a9d-cfad9fe747a0	Ghibli Spirited Away Train	Magnus Trigger	3	1016	3	miyazaki,anime,cartoon,roleplay,picture
+wrld_fccea9ee-1367-4d0f-b1bd-e8eebf1cf337	Hazbin⁄Helluva Hotel	Magnus Trigger	3	1013	3	chill,hangout,vibe,relax,roleplay
 wrld_418fafe6-6f9c-4feb-8959-3c2d2f9d04e1	DOT HERO IDLE｜도트 용사 키우기 Colosseum	「키르케」	7	1007	3	game,idle,clicker,rpg,chill
+wrld_54aa840d-548e-4676-9a2e-3f20e54a6fa3	ダイストーク！［Dice Talk］	_えね_	6	998	3	
+wrld_137a1910-0152-4240-b8a0-ed84c34aa9c1	ABSバトルフィールド2․0	Oct․H	5	997	1	
+wrld_a0d10d7d-aa8a-417a-9d49-34ab012e657a	Cliffside Apartment	StephenVR	6	993	7	concrete,cozy,hangout,apartment,sunset
+wrld_c53799ce-08a4-406d-b776-151454fd7593	エレガント集会所 The Twilight Banquet Hall-Eleganttiqué-	HakaStLaurent	4	956	3	meeting,日本語,castle,royal,vrc_salon
+wrld_1d70175c-03de-429f-a0a6-bda2fac9243e	onigokko	たんぽぽ！	5	951	3	horror,jumpscare,horror,gore
+wrld_83f0434e-b702-4e73-bfd2-913816ef5ed5	しゅがりあ -Sugar Reactor-	NiAka	5	936	7	asmr,sleep,chill,cute,cafe
+wrld_856556f5-36f9-4a4c-b2ad-23fb615d8357	Domínio Retrô Brasil	Domínio Retrô	4	900	3	brasil,anos_90,retro,cruzeiro,bar
+wrld_3a242d5a-d8d8-4267-b90f-cd2633c03ff6	Puff Clicker ǃ	Missing_	6	899	3	game,idle,clicker,cat,cafe
+wrld_0dd3400d-fbb3-4317-b4f6-c532b1af2575	アラサー独身お砂糖なし、実家暮らしの部屋	Hinayama	6	898	3	chill,room,sleep,home,relax
+wrld_d4b4692e-ffdf-4854-a15e-4f2bc1ac350c	Sanguisthesia	Superfriend	5	866	7	Horror,PvP,Spookality,Game,Party
+wrld_6e51aee3-c840-4dae-ba78-2be85b9aed84	Stolen Strides	Stylish＠Ship2	5	856	7	chill,sleep,home,cozy,color_my_world
+wrld_afb41b2c-2a41-4bf3-99d4-908c968e5614	変形！アバターにらめっこ	Uzaki うざき	5	844	1	
+wrld_cd431e79-0b89-4dc2-bcdd-0110227f9d1f	1日の終わりに一時を	daradarap	5	830	1	chill,night,private,sleep
+wrld_2034977f-ad02-453f-ae50-3dc2e4776a20	French Furry Rage	_Nisk0_	3	829	3	français,furry,french,chill,fr
+wrld_74843356-a596-41e5-a329-d1648d7f9b50	Koi Toys	lemͥonͣxͫah	6	806	3	udon,fish,pet,chill,ocean
+wrld_006b76aa-a8d4-40db-80db-afe699dbd34b	宵の居場所 - A Place at Dusk -	アズキ。	6	768	3	chill,hangout,night,sleep,cozy
+wrld_68f26659-91a8-4d5f-bd47-393ab9e1df27	Autumn Queen	Stylish＠Ship2	4	749	7	chill,sleep,home,cozy,color_my_world
+wrld_03fc50d2-de18-43e4-b712-5937be129cd7	Memorial Isolation	Stylish＠Ship2	4	737	7	chill,sleep,home,cozy,color_my_world
+wrld_be5f716a-7936-4083-8925-b06226ac493c	TheK1tsune's Hot Drops	TheK1tsune	3	729	3	avatar,home,minimal
+wrld_74c63490-b17a-4c38-b4d4-02bb9b7396c7	（LCD） Lugana's Sonic Avatar World	Lugana Rysniq	4	693	7	sonic,avatar,avatars,sonic_the_hedgehog,sega
+wrld_3877d73b-74be-44c0-b5b6-f9981a93c2d6	Lunar Falls˸ BlackMoon	Salena	5	686	7	Horror,Puzzle,Forest,Lunar_Falls,Game
+wrld_424edb06-2f75-490b-b126-753488f60b83	Benjamin's Backrooms	ScriptWizard	1	678	7	backrooms,netanyahu,youtube,horror,video_player,horror
+wrld_1781995e-720d-4517-bfdd-e0e4acd8b424	くうたと添い寝したい！	Imamura_	5	670	3	chill,sleep,karaoke,kuuta
+wrld_175b20ce-f206-48ee-ae8b-5ba70ef4d201	Fallcolor Nocturne	Stylish＠Ship2	4	662	7	chill,sleep,home,cozy,color_my_world
+wrld_dc3414c5-9fc9-4f9a-b238-794a1c506727	Epic Fellowship VR Ministry	HarukaEmberfall	5	654	3	church,christian,bible,jesus,reading
+wrld_73fcbb03-fd45-4e12-81e5-f443c2394ee6	ニコニコ動画をコメント付きで見れるワールド	おちょこ	5	650	1	
+wrld_a8d5b208-55fa-4911-b940-053fec6eeff7	誰がドアを叩いている？	Himeno-Yumemi	5	631	1	violence,gore,horror,multilingual,multiple endings,japanese voice,game,galgame
+wrld_509d91e9-384c-4000-9ceb-b33c22a3e23b	Mellow Serenity	みゅぅあ	6	618	7	
+wrld_6ec10459-66b8-484f-930c-17bdf3ffb8c5	ほしぞら弓道場 （Hoshizora Kyudo Hall）	ぷちりゅう	4	618	1	japan,archery,kyudo,game,chill
+wrld_b476c3b5-6f42-4046-90b4-1ece39f04f6c	pawince AvatarWorld	ραωince	3	607	3	cute,moe,avatar,avatars
+wrld_d39c3f2d-c02f-4eee-995e-73f123b71847	Hortensia Soliloquy	Stylish＠Ship2	3	591	7	chill,sleep,home,cozy,color_my_world
+wrld_354b67e7-0167-4549-8067-eab852d6f23d	Doppelganger Mirage	momoma	3	582	1	shader
+wrld_0e0caf6c-5eae-41ff-ac66-ec920fd0e881	Competetive Shitting	Netcat~	3	566	1	
+wrld_7774b7b5-293b-4957-873e-d9fc8585258b	うへや․ -うみの中のおへや-	ururishu_	6	543	7	undersea,chill,sleep,rurune,library
+wrld_02e33fd2-00c6-449b-816e-0d3e95c6dbcd	そっと寝-sottone-	Riumu	6	510	1	sleep,chill,hotel
+wrld_9ff873c4-6f1a-4d01-a253-d78a97eb6d8f	Unknown Theater	SimonJosh	3	493	3	events,standup_comedy,improv
+wrld_18dc96df-1c1e-4bfb-946a-5684bf56bf39	Sly Fest 2026	Theslythief	6	487	7	
+wrld_e3614beb-67f9-4d82-8f06-97457157ceee	LAVENDALE ~Moonlit Garden~	RIKU_VR	4	456	1	garden,lavender,DJ,Events,Chill
+wrld_65fb9243-a855-4415-a8e7-01b66d7bda51	AIボイチェン体験会場	むーんらいと	4	451	1	
+wrld_ea224ed2-a828-46c6-8f4e-81b2e1839424	WHARF	Glitchmood	5	450	1	club,arc,lightvolumes
+wrld_847d9376-199f-4049-a50c-f56fe84d9eda	The Curse of Scarlett Manor	Miradeath	5	421	3	horror,horror,paranormal,gore,game,spookality_2026
+wrld_769b38bc-db70-42c2-9cbe-14a4caf83558	Camp Kindle	WiFiPunk	5	411	7	horror,story,exploration,mystery,supernatural
+wrld_d195ab4c-4fb6-4e8c-9460-dfa4768be1a3	Hardys 3D Guest Gallery 2	Toscano8070	4	409	3	
+wrld_93cecb11-676e-4b9b-a92b-ad7ab4f7176e	［WIP］ LUMEN ⁄ 01	ParusuRblx	6	407	3	chill,sleep,brutalism
+wrld_d6c5aca3-a19d-41d0-a0f7-5175bb5d38dd	portal world	さんかくけい	3	393	1	
+wrld_ecdbab1a-2f0c-40c6-b347-3f2b5f4936c7	悠哉乐园咖啡馆	奶歌noka	4	384	3	chat_and_sleep
+wrld_28dd878b-c71c-45f7-9e09-62570daa9b0e	The Vault Rave Bar	Lasyusha	3	358	3	Bar,DJ,Live_Events,Music,Games
 wrld_0b773dcd-d821-40c3-b53c-1779ee8f269c	PV's OASIS˸ MMORPG（Beta）	Prospect Valley	4	353	7	chill,game,relax,mmo,rpg
+wrld_7b1b74cd-3fce-4832-955e-b968477b1999	Crimson Promise	Stylish＠Ship2	4	337	7	chill,sleep,home,cozy,color_my_world
+wrld_79aba659-f586-45ea-a72c-2e4582bc5835	lost in the snow	Volumetric	5	335	7	liminal,cold,field,snow
+wrld_60576c51-a84e-4fdc-9893-25e8b16805f3	A Graveyard for Giants	MilkDotes	5	323	3	liminal,spooky,dreamcore,field,backrooms
+wrld_5c2980bf-a085-4b77-966d-a4839f00a07d	Peaceful days - Country	しろ・v・	4	313	7	cozy,sleep,quest,vocaloid,Fireworks
+wrld_c7ac6b43-76a8-462e-86cc-f069d6aa9d18	Mercer's Cabin	Dark Mercer	2	313	3	cozy,rain,cabin,mercer,rest
+wrld_9e374325-d87d-402a-ba26-b92d0b39b287	Oculandia Villa Beach	KillDNoise	4	301	3	
+wrld_07b45a3d-f587-4a5e-a7a2-071b7fc6742b	A Railroad in the mist․․․	TontonDemon	4	300	1	TontonDemon,fog,ambient,realistic,railroad
+wrld_7a1c3262-bbab-4780-8223-647571255d11	DREAM TOWN	_Cola_	2	297	1	chill
+wrld_6e8d266e-dac2-4708-93d7-eac8cad1accb	Don't Take the Candyǃ - Spooky Halloween Horror	cozo_cobun	4	296	3	halloween,short_horror,horror,horror_art,Spooky
+wrld_17901372-e9b5-4111-b3fa-cc7c54b47536	しおきゃらほーむ	しおきゃら	5	293	7	home,NPC,nemesis,cibi,ELusion
+wrld_07b2d0d6-0d7c-435d-80e2-f37543b48a49	滝と海がやたら近い家	Yotch	2	291	1	BAR,Cafe,Sea,Billiards,Darts
+wrld_e4ea0512-c06b-4ee8-800a-775370e33ec3	【CN】 中文图书馆Libruary 学习ǃ 内卷ǃ	破局之道 HX6	4	288	3	cn,library,study,中文,图书馆
+wrld_6b699023-dc60-4efb-8ba5-7d56f4c2de8f	Cozy Paw Cabin	Quadriva	4	283	7	youtube,Movie,German,Film,Kino
+wrld_81bfa041-69ed-4b00-83fb-17a4ba6261be	Easy Estates｜省心大富翁	SunRiseFor2ver	4	283	7	game,monopoly,chill,cn,en
+wrld_6734fb3d-8d0b-4b17-8edd-43b31544ef28	Phightingǃ Intermission Lobby	phighting yaoi	5	268	3	
+wrld_a6298313-a669-4f71-9bed-7d5192596129	BladeRush	とりのすけたろう	5	265	1	game,PVP,sword,battle
+wrld_7c1ce00c-3314-4725-8302-159312b0164d	Cross fly jetski ‚fun submarine	Radwolf_fr	4	252	3	
+wrld_9861e06f-bd73-4765-b4b7-9cd45a62658e	謎解きワールド 1006	かげ くらど	5	240	3	nazotoki,riddle,piece
+wrld_274bc357-60b8-4262-a65d-38c333a01d5d	Afterhours Lounge with YT ＆ Lyrics	North6ix	3	227	7	chill,music,karaoke,cozy,youtube
+wrld_fd5e6ea0-687b-47ba-b372-fda86b3e9bd4	Yao_Airport	はるな_DDH-141	4	226	1	aviation,flightsimulator,airport,helicopter,osaka
+wrld_48812309-60b9-476c-ac92-b7353e41a2c5	Cheese Clicker 1․1	只只世事	5	225	3	
+wrld_e879b898-248b-4ddc-ae38-a8c37a6e8c97	CareerConnect	癒色えも（イシキ・エモ）	3	216	7	office,meeting,conference,meetingspace
+wrld_de2be449-1830-4f77-b373-023d6b5c8f6e	All Night	shizuku_k	5	215	1	chill,sleap,play,night,water
+wrld_fe57b6b3-06c2-47fb-a779-e4c12716441b	Osmanthus Serenade	Stylish＠Ship2	4	211	7	chill,sleep,home,cozy,color_my_world
+wrld_ba60fb12-4ad0-42aa-8df1-590f459254f1	木津川飛行場	スカーレット_0104	2	199	1	flight,sacc,aircraft,jet,frying
+wrld_db36c42a-c73c-435c-b66c-94872429e352	POWERSHIFT Anime PvP	悪魔 Akuma	5	193	7	game,fighting,combat,arena,rpg
+wrld_14aa2b9f-56d1-40d4-b06b-f54cc89aad54	YMM Night Pool	iyFale Edvifin	4	188	1	pool,swim,chill,sleep
+wrld_b66df047-bb01-4e5a-b17f-d8c5dd2bb088	焦燥と暮らす	よば。。	5	187	3	chill,sleep,bedroom
+wrld_823bfa00-ef99-4576-b9e3-8d7f346ac58b	Idle Cove	DoubleZ ［だぶぜ］	6	187	3	chill,incremental,game,moon,idle
+wrld_73856983-881a-4bfc-9c24-d21feb132d13	Room489	よ は く	5	184	3	chill,gamble,sleep,relax,cozy
+wrld_911bc7db-aaae-4cb6-a24e-99537a086876	あこはうす-Ako House-	あこ-VRCの姿-	4	183	1	chill,hangout,home,sea,jellyfish
+wrld_10e1912e-8f7a-409a-86dc-ba78dc270010	断幺一点都不快乐屋 - 幺九雀庄	PoetrY·H	5	177	3	mahjong
+wrld_96dee99d-c158-4466-a999-175d863cdde1	Castaway Island	NemoDingo	2	170	7	hangout,dj,club,chill,games
+wrld_f3dfe8fe-7997-4d7d-a7b9-897917e52c76	South Town Spirits Touhou	CocoanutOwO	3	168	3	hangout,fumo,arcade,Touhou,FGC
+wrld_e5505c16-dc8f-4ce4-bba8-4a9ff34bcc3e	Blue Angel's Avatar World UPDATED	BlueAngel_13_	1	165	3	
+wrld_ee74a47c-d3d4-4558-8dc7-b41d0eb5408a	Skibidi Event Hub ［Halloween Update］	Halo_MOV	5	151	3	skibidi,skibiditoilet,event
+wrld_ae4943a0-9125-41b7-baa8-f7a8a3e22eda	Penthouse Pool	ZenopticPrime	3	150	3	
+wrld_b2eb1cae-bef0-47df-afdf-5aca8baff683	QUIZ WORLD NEXUS	りるあいす	4	144	3	quiz,クイズ
+wrld_976f69a4-509e-4f60-808a-bea4251b846b	Bjärgurn Proving Grounds‚ Sweden 1940	Darranis	5	143	3	WW2,Milsim,Swedish,Military,PVP
+wrld_615bbd81-281e-4bc0-905d-bf617491013e	Inazuma - watatsumi island	ATLAS․q0x	4	142	3	rp,genshin,inazuma
+wrld_c7814855-61ff-42e8-9c3e-520c56c59acc	Evergrove Meadow	Syphere01	4	141	7	
+wrld_78f2bb79-2635-4055-b203-e1c826b488b4	CatsUdon TRPG Home Test	VirtualParty	3	140	3	
+wrld_90bdd0bd-9911-456a-90ed-3e50fe5673c4	＠kissaten - RELAX TALK STAY	kissaten	5	140	3	cafe,chill,theater,cigar,talk
+wrld_3e286c15-91e2-4307-a7ce-c375509e6030	My cozy home	Erik_21	4	137	3	
+wrld_b739229b-f0bb-40b6-9412-3048b54ce2b4	Superstar Daycare （TAS）	《༒》Mr Vortex《༒》	4	136	3	superstar_daycare,fnaf,daycare,the_astral_show,tas
+wrld_e8a0685c-ca0d-4eb3-92d0-d88f15d845a9	Melanie's Corner	MelanieADV	1	136	3	
+wrld_6981cae0-0ebd-4085-95e5-639b0803fa62	Golden Shore	KaiaKiuti	4	133	1	nature,landscape,forest,lake,daytime
+wrld_220cf193-5254-4db7-8a10-b3d0c0b1f8ef	BackroomsTest	Tuck2846	4	129	7	
+wrld_1f8fc373-1f98-4b53-a23e-2364ead88c55	Drinking Legends	Participant1	3	128	3	drinks,social,events,drinking,games
+wrld_df57740d-b1bf-4ffd-bc9a-0fa5cc3b0e4d	Cyber Apartment ＆ SF-City（Zeguar Custom）	ゼグァール（Zeguar）	3	126	7	cyber,chill,vocaloid,miku,game
+wrld_9b01eae7-54f1-406a-b5fa-7e44b39c1392	BEN SOCIAL CLUB - LA VILLA	BENFX	3	124	3	
+wrld_3d863d9d-ad8f-42b7-844e-f7fe9cf5d1ad	The Place to Belong	luoyvzhuxiong	5	122	3	game,school,中文,sleep,relax,cn,night,home,Chill
+wrld_b73dca9a-0001-4d9d-8e1a-091aae95e1c3	Cosmos Avatar World	JaxSays	2	119	3	daycare,avatar,avatar_world,cosmos,tsams
+wrld_14364d20-6001-4098-a70c-1661d2ed0e83	Stay with me․․․	小石头meta	5	117	1	chill,sleep,lo-fi
+wrld_005cc640-97cf-49a8-b8c3-c9366be1ae3b	とがわ鉄道写真館⁄Railway Photo Gallery	Togawa Umi	3	115	1	trains,japan,picture,locomotive,railways
+wrld_f0362299-24df-42a4-8073-1f0cf184178d	Deadlock Midtown	Blue_portal	4	112	1	deadlock,midtown,new_york
+wrld_e2d49e0a-0eef-4ca3-a1f0-213728629268	Blackglass Facility Beta	Yani777	3	111	7	SciFi,Horror,Simulation,Mystery,Furry
+wrld_0907d514-95b9-4a9b-946d-b4a6e1120429	NEON FREQUENCY ｜九龍	ヤキ（yaki）	4	106	1	Chill,Kowloon,music
+wrld_7c760d34-d845-4c40-8887-3d1a8953ac70	Love is Everywhere	Rusty Beans	4	105	3	tree,field,love,music,chill
+wrld_0e42f612-83fa-443e-955f-a6415d927143	［Beta］ VECTOR ARENA ［PvP］	花月天音	3	104	3	pvp,gun,shoot,battle,game
+wrld_ce1df0f7-3785-470d-81ac-026e90532d54	Hollow Corridors （Alpha 0․17）	RilyRobo	1	102	3	backrooms,game,horror,survival,monster
+wrld_263649e8-9149-4ea1-943d-32f3b650bbbf	スイッチ10	hiyoko_piyo	4	101	1	Puzzle,game,Riddle
+wrld_a2bc263b-c46c-4b1b-bb88-114c9ff80717	青空麻雀（改造版）	あやかちゃん_24	3	99	7	麻雀,mahjong,chill,game,video
+wrld_d7c77886-6c08-41c2-9493-0986ad2b2d27	Rogue Zomblinz	Linke~	4	98	7	rogue_like,zombies,spookality,halloween,game
+wrld_05f5f585-d462-4fc9-be87-87d7abd54764	桜光のアトリウム ⁄ Atrium of Sakura Light	MonAoi	1	98	1	
+wrld_da54cc09-35c3-4a5c-9aba-4701a26767dc	Speedway Motoarena Toruń 2025	Azi_Azi	3	98	3	żużel,speedway,motoarena,motorcycle,bike
+wrld_d94a2dd9-2176-4462-91b6-63caf41a88a1	Dreemurr Hub	Lucsol Dreemurr	4	98	3	omega_timeline,undertale,deltarune,underverse,dreemurr
+wrld_e94c27a8-f908-4e71-ac1e-f2021937c8fa	Aqua Beat․ 水底中を揺らす深蒼の音	fumi_Nyan	5	97	3	aqua,dj,music,fish,audio
+wrld_0b41a7db-432d-4d49-8d7c-620f12cde57d	Hometree	ZsomborLIVE	3	95	1	avatar,navi,pandora,hometree
+wrld_79562706-741e-44b1-9444-409173a367c8	Catsdonbury Festival	Navajoleo	0	95	3	
+wrld_990d596e-04bc-4ccd-86f9-bc3eb509f4a6	ししゅかちゃんを好きに弄れるチルワ	igaguri_	2	92	1	まめふれんず,mamefriends,physics,ししゅか,science
+wrld_108d09fc-bebb-4241-a737-11719497615e	Snugout Lounge	Ada Zeren	3	89	1	audiolink,lounge,sensory,chill,cozy
+wrld_c3b6fec5-b45f-4a13-956f-afab4ef3531e	狭めの沈むベッドで寝るためのワールド	あやかちゃん_24	5	89	7	home,chill,sleep,mahjong,room
+wrld_18866ce5-eca3-4dbf-92cf-f89a4b7a861b	BeerHideout	֎ SKoRPioN ֍	5	87	3	chill,party,club,game,bar
+wrld_2f341f93-2cd2-4e74-aa6c-40fb2f8959e1	THE SNOWLIGHT EXPRESS｜新京2085 雪明りの特別車	帰ってきた尾張のジョンII世	4	86	1	新京2085,train,chill,winter
+wrld_33c3c7d4-c764-4417-bcc2-773c4363e398	Japan Garden	°Ayod°	4	84	7	japan,garden,chill,nature,jp
+wrld_302c3803-e202-4c35-843f-106fd901cc64	self	CuteZam	5	83	1	
+wrld_b6ce5f07-d165-4292-aa10-c1d1c4658c5b	萌萌的林中营地	Romia Kokomi	5	82	7	rest,chill,home,night,sleep
+wrld_2cdbf8a9-f58a-451b-8a54-a4e252b1527d	the house （from House 2）	miles_upshur226	4	80	3	
+wrld_a1fe8a94-4a95-48bc-95ef-4f954f6c7fa7	Caverns of the Endless ［Beta］	KoBro12	4	79	7	dungeon_crawler,tower_defense,strategy,rogue_like,game
+wrld_d7918bfb-4eea-4b17-8232-3300e7373f9b	つぎの世界のほとり｜On the Shores of the Next World	yossy222	4	79	1	portal,chill,gellery
+wrld_49ed7b2a-5d65-4745-bbad-ccfd32c6c4b4	Cyberpunk Spanish	ΑSTΞRIØN	5	73	3	
+wrld_d2d1b669-c612-49e0-85b9-bac05f97722c	BELLEQUIPE COZY HOUSE	Hyuga-Fujishima	3	72	1	cozy,japanese,Chill,Retro,RVCLV
+wrld_52a84017-326a-447f-82cb-331b0f894988	十五の空 ⁄ Fifteen Skies	ﾊｲｺﾞﾚｲ	4	71	1	particle,space,audiolink,chill,sleep
+wrld_e6b59a9d-1699-4609-91cb-94020e6c7bfa	SolarSystem	すらたま	4	69	7	Space,Earth,Sun,Solar,Moon
+wrld_f5c09de1-2779-4d7e-a6ac-2b2078e43683	海底Bar	hayato-023【JP】	0	68	7	
+wrld_66e59842-8d21-403f-b76a-8aa4c3d8bc2e	The In-Between	Talox	4	65	7	game,crafting,puzzle,idle,discovery
+wrld_c5fb1ca2-9d0a-48f1-9431-9157e07c2ae6	ビルの屋上で	にもくん	5	64	3	
+wrld_85e03a33-9697-4d69-9eec-eef393a06140	カフェ付き平屋	まいる。	4	63	1	
+wrld_004e6d65-ddf3-43c2-b5f3-2c3a1a5bc587	もこ部屋	えもたこ	4	62	7	chill,mkkey,mkck,casino,japanese
+wrld_6033c3cf-5824-4c8f-8444-e7e5b226ad6e	Pequeño Esmero Velado	Stylish＠Ship2	5	59	7	chill,sleep,home,cozy,color_my_world
+wrld_dd93050c-c904-49e1-b179-b7ba6aecac6c	LUCID ~ルーシッド~	いちな（ichina1717）	4	59	1	
+wrld_6e37f41e-4937-4781-a9f5-336fe16efff6	AMBER COVE	noooma	5	59	1	chill,room,cozy,sleep,wood
+wrld_0e5f3d9c-51f8-46ba-a76e-a1b9bf6f8e94	WFS-Lichtspielhaus	Wolffchen-WFS	4	57	3	kino,Musik,unterhaltung,scify,mystic
+wrld_582a976e-0080-4f3a-8243-bd80c07bbd1f	月夜-Moonlit Night-	雪乃 桜	5	57	1	chill,night,sleep,rain,cat
+wrld_504a624a-91b3-4416-94a9-77db944f13f6	Euchre˸ Screw The Dealer	Dooley	4	57	3	Euchre,Card_Game,Multiplayer,Social,spades
+wrld_17aa606c-d121-42dc-94c7-13b9514a7ca8	UPorDown	5M09_58n ごもく	3	56	3	game,card
+wrld_f29cbb43-52e9-4300-8178-71e31c061e89	Wayaのたまり場	_わや_	4	56	3	
+wrld_40714572-5338-4464-bcf6-a7edbc2e80ab	corn	thesweetist	4	55	3	
+wrld_7116748e-28df-422e-afdf-814424f8b8e9	大人のたまり場	tetsu95	5	55	3	chill,home,sleep
+wrld_88c312fe-fe74-4488-9c9a-f84cde6cbfe7	Ai一键生成的世界（12个场景 by ailiaili）	ailiaili	4	55	1	
+wrld_e299907d-cef3-4aa4-818e-462917a2d5ab	My house	SAY_T	3	54	1	
 wrld_2dea66fb-1c74-471c-93b4-a1d4533674ec	PV Plaza（Updated 9-29-26）	Prospect Valley	2	52	7	kfc,tacobell,chill,relax,fish
+wrld_9552ce6b-2bc2-43cf-9801-1dd7c79e069c	imperial light crusier ［UGE］	JAYDEN1803	4	52	3	
+wrld_88ab4229-723d-4be7-8e1a-e80f901dd0a2	The Cheeserooms	ZadeTheDeaf	2	51	3	backrooms,liminal,cheese
+wrld_ba42c4df-de94-4894-8f56-118bcef1a105	tpot world wip	semore9	4	50	3	bfdi,tpot,osc
+wrld_2d980894-7ab4-469e-9547-a2e3fb153550	Hypax Retreat	Sygil	3	49	3	
+wrld_8382bdfc-e83a-413b-9fef-1ca9c23a1b3f	Spy on The Mafia （Spyfall）	x_Jeffrey_x	4	49	3	game,deceit,group,fun,spy
+wrld_caa095e8-2b27-4907-bd54-5daf2bf31e5a	ETERNALS	VR Creators Lab	0	48	3	eternals,hedonism,transhumanism,society,liberty
+wrld_78ad314b-12c5-41dd-9b9b-977e175db569	Chao Garden Neo	୧ · ᴋᴀɪɪ · ୨	4	48	3	Sonic,Sonic_world,Sonic_The_Hedgehog,RP,Roleplay
+wrld_5ddc1d41-e7a7-4cb5-b89f-1a3cb88516c7	ホームワールド～フレンド達のたまり場～	HAL（VernalWind）	3	48	7	
+wrld_3146cbf9-9e26-4df5-9046-1a15249f6721	Pathologic - Bridge Square ⁄ Мор․ Утопия - Площадь Мост	DatSnek	4	46	3	
+wrld_0de52f7e-72f6-408f-a606-b64c4fa934dd	少牌マイティ -Just Mighty Mahjong-	fried_ebitail	4	45	3	
+wrld_236fc464-928b-4149-a466-959fbebb7d2c	撞球室	つかぽん／tsukapon	4	44	3	billiards,snooker,3cushion
+wrld_6a49949e-0057-4c4d-bcb3-876c015260f5	だみんちる	だみるഒ	5	42	7	asmr,game,chill
+wrld_d5dabba7-e016-4f44-8fe5-97506d5df432	The International SL Classrooms	ZadeTheDeaf	0	42	3	classroom,sign_language,Helping_Hands,JSL_Salon,Teaching
+wrld_61b184fb-0671-497b-8516-14b50c8ce2b7	Camp Sakuma	Sakuma Umoharo	4	42	3	
+wrld_d94cc9a9-25c9-41f2-baa0-e8ff71df78ff	Forgebound Idle RPG 爐火遠征 1․0․3	FlyFlyowo	5	41	1	rpg,idle,crafting,game,chill
+wrld_bf574bf2-b60d-48bb-998d-dbd5018b9527	---suneaters---'s MHA avis	---suneater---	3	40	3	
+wrld_afc53420-c3fc-41cc-8250-0190aac8478d	MUNDO DO CANTINHO	Cantinho Glow	4	40	3	furry,brasil,otimizado,espelhos,canetas
+wrld_51e00dc6-388a-499d-b523-23e6bc1421b1	Accretion	ᴅɪɢɪᴛᴀʟ	5	40	1	Brutalism,Brutalist,DJ,Techno,Scifi
+wrld_db15efed-a56f-4af3-b3df-a8612137a649	Crash Bandicoot 1 - Slippery Climb⁄あらしのこじょう｜Stormy Ascent⁄あらしのしろ	Bedrock3264	2	40	1	game,crash,bandicoot,TimeTrial,udon
+wrld_95a1a07d-ee1a-477e-a7bf-f9e06d9ca355	BLUE BERTH	PAPICO	4	40	1	bar,ppc,BLUE_BERTH
+wrld_51393dd8-dbb4-42c6-9390-7cee380f8c85	Specterminators	Kire ｶｲｱ	4	40	7	spookality,horror,keys,puzzle,ghost
+wrld_778cae75-0f75-4ba3-a5ab-d372da6a024d	视界 Horizon	dpdpddpp	3	39	1	
+wrld_5490427b-22b4-4722-8a01-9a291ef8ca42	Sunwashed Reverie	Stylish＠Ship2	4	39	7	chill,sleep,home,cozy,color_my_world
+wrld_651e76e0-2b22-4fe9-8719-8334b3772b96	Home	ơŋıﾒɛʀơツ	4	38	3	
+wrld_08b2c561-202f-4537-8163-d75e58ce2788	穴にいる	ぺお_peo	0	36	3	cill,relax,coffee,sleep,green
+wrld_3b6d4ba4-92ad-4ce8-bb2b-5fe258bd13ad	Bunny Club	gammanerd	4	34	3	
+wrld_07e5d141-cd90-4e3c-b3b1-a034945589d5	｜CUMULI｜	abcde_kind	4	34	1	chill,photo,liminal,simple,cube
+wrld_ec13254f-233d-47a3-90a0-067122c73252	sub1_VRCニコニコ集会（vR）	CheddaraddehC	4	33	3	SubWorld
+wrld_35d1fced-4e7c-43f8-8184-45e5c436c8e6	Luxury Penthouse ＆	raz111	3	33	3	
+wrld_f582a8aa-c165-4378-b6e2-064f2b024ef6	夜景と自然を	ねむたいねこ	4	33	1	chill,room,sleep
+wrld_f3d6eaa5-1a38-4fc1-9891-1b067c4fa692	イケメンLab	＝じず＝	4	32	1	game,photo,Lab
+wrld_dff2a7b5-ee9c-4356-ae1a-2bb0be9b18d2	Selbina-Mhaura Ferry	Buizu	4	31	1	final_fantasy_xi,ffxi,ff11,boat,final_fantasy
+wrld_f6f92eff-23e9-47c3-a79c-2a515be0c2bb	throw random stuff	Blu_berry_V1	3	31	3	
+wrld_dd7f5408-1546-4bb9-b987-504946c44860	havoc cafe	Nue_76	4	30	1	
+wrld_7018f06c-95ac-4b4f-88d2-87d6676d2bbd	KittyMixikins Cliffside Escape Redux	KittyMixikins	3	29	3	video,chill,mirror,sleep,relax
+wrld_280432d4-31a5-47c8-a252-efb60f564e0d	飞越拉萨	高桥 真冬	4	29	1	Tibet,photography,flight,China,City
+wrld_018aca1e-b87b-4059-9fb8-125a214b84f1	かまぼこるーむ	かまぼこ 4649	4	29	3	
+wrld_948cf531-d83a-4b8c-8e93-40f120c27acb	MING ROOM	alsruf	3	28	1	room,house,home
+wrld_69e25a8a-68db-4a3a-88ae-c49c56551ce2	酔処 - KANPAI -	Highball_KP	2	27	1	
+wrld_67f01d54-772d-459e-8b38-8c6de4fb6e6d	白昼遺夢 - Daylight Reverie	Astesia16	3	27	1	chill,dream,blue,music
+wrld_e1df8eee-59a5-4d66-816a-c9b85625865f	Rollenspiel Workshop	Phin	2	25	3	Rollenspiel,Roleplay,Workshop,deutsch,german
+wrld_0c65e0a0-d1a6-40af-991b-3dec417dcbb0	The Midnight Hideaway	hiromin8	4	25	1	
+wrld_166876f9-36ee-4567-b21e-04e8f2e89b9e	おやすみやで。	なまあ。	4	24	1	
+wrld_d8827e65-a915-4842-bffb-0c41c17afe10	エクちゃんと添い寝できるワールド	かしわ_	3	23	3	eku
+wrld_dff68ed7-377f-4c36-951e-f4aa9c203f06	TaidaDJ-House	doooma	0	23	3	dj,chill,studio,watching_videos,event_space
+wrld_1f84f482-a402-4942-b81c-92d7af5146e8	おとるーむ	otomo2gou	4	23	3	
+wrld_513e95d3-131e-452c-8747-65de90e81bc7	Spades -Trick Taking World-	k3kato（恵三）	3	23	3	playingcards,tricktaking,cardgame
+wrld_eb735abd-3845-45d3-95e7-d188937bccd1	Shadow Island	-Wolfgang-	4	23	1	
+wrld_e3deb321-2708-4f0f-a570-7956cf5b8100	ǃ ~ emy's avatar world ~ ǃ	emy69	3	23	3	
+wrld_9dc0cfe3-d6f0-45cf-9ef2-9b3f8579fed1	酒カス集会	ジュンベルク	0	22	1	
+wrld_940aa741-27ce-464f-9351-e98ef039d3c4	101 ⁄ Japanese Apartment	八神精工（yagami）	1	22	3	chill,room,japan,home
+wrld_a2613bfd-d65b-436b-a96f-5c55cee1dbc7	bogo's power ranger hangout world	BØGO死	3	22	3	
+wrld_dd28e50e-83b1-4805-a302-0ef29221f847	変身 ⁄ Metamorphosis	Hakuei	4	22	7	horror,gore,metamorphosis,kafka,cockroach,room
+wrld_6e719564-b8d6-4465-9f9e-b65fa3d1b6f7	Serenity Sands Resort	djteknical	3	22	1	chill,water,beach,sleep,music
+wrld_7b97c738-536a-48ba-9f35-2ad18480b13a	Bundles	༺·Majjesty·༻	3	22	3	
+wrld_50211032-5675-4bc7-b0b9-8ff226bf2373	AHHpartment	HeathenPrincess	0	21	1	forest,whimsy,chill,cemetary,cozy
+wrld_a827fa74-066d-4cd8-8c66-dcdd04a825ca	爱屋3	Jone༃	3	21	1	
+wrld_4c25fb8d-cdf2-4981-9ceb-114c95090f96	vibing world	DͥAͣKͫOTA	3	21	3	
+wrld_3b7c9f16-ecde-48ea-ba73-ef86ca182e7d	【VRMV】狂妄之人⁄bad-time	yaohu	3	20	3	undertale,sans,VRMV
+wrld_eab49626-97a0-4cfb-9b01-f42423e6ead7	clover's retreat	wolfen862	3	20	3	hangout,chill
+wrld_168cba4a-51e9-40f1-a866-5d65b9af6ef0	havoc cafe （Work）	Nue_76	2	20	1	
+wrld_627a9d75-072e-458d-8e86-eaf16e74ae45	Fresh Command	fresh air	3	20	2	
+wrld_88a1917b-293b-43fc-947f-97cf41cbe128	［ZYTL ⁄ DLC］大連金州湾国際空港	Shawn Hugo	3	20	1	airplane,a320,flight,udon,airport
+wrld_bce07abb-0eb7-4cd9-b293-7f57914b7873	グルメのつぶやき	苦楽園／kurakuen	3	19	3	
+wrld_b8363a1d-977e-4a7c-bea9-514f0c9a1016	Squash's Homeworld ＆ Chill	-Squashy-	3	19	3	Home,Chill,Gothic
+wrld_04e09d40-2ec8-40de-bc05-0285987cd559	さめとおやすみ	spool_	4	19	3	relux,room,sleep,chill
+wrld_df8b7ada-5aa6-4785-81c2-949d7d9cb766	藍に沈む箱庭 -Secret blue haven-	NAIKUN	3	19	7	chill,sleep,room,relax
+wrld_7796fac7-2253-4745-8a70-00ff30d39513	MelMeHouse	MelTHOR	4	19	7	
+wrld_a238a5a1-a320-44f4-ac77-fbddf9000a69	医師国家試験の過去問が解けるワールド	新澤オルト	4	19	7	
+wrld_00128d47-46b4-4bfa-93e9-00af696a7470	THE SPARKLIT LANTERN ǃ	Yipsy	4	19	3	
+wrld_16197b74-18e2-4bea-83b0-a1df23439679	Dreamy Hope	Aeliana ʚɞ	1	18	3	relax,chill,cozy,hangout,quiet
+wrld_c15ebf8e-7436-446b-9f98-b1c92f0beeaa	Home D'Angels	AngelsDraven	4	18	3	family
+wrld_1cb91246-2bef-47c7-88a2-8f7a1d165bc2	Blissful Eternity	AllieSkullMommy	3	18	3	Regretevator
+wrld_da6e19d8-7fb5-42fc-b6be-754231a2b9ff	Genesis - Ark	Morcane	3	17	1	paradise_lost,rp,roleplay,space,genesis
+wrld_d63aa35f-a159-4e46-9c4f-4f296f515b2a	My Beats	Creeper_XD	4	17	1	home,sleep,afk
+wrld_7fcb7233-edca-429d-bfa4-0974cbef4352	ぼくがかんがえたさいきょうのV睡部屋	nikachu2012	4	17	7	chill,sleep
+wrld_894eb419-b42c-4b14-ba29-d1824ef1e4fb	festival Communautaire jeux et club	foxytransport56	0	17	3	
+wrld_136d7490-c336-4583-9111-3b848600bf3c	STUDIO AICA	藍香 -aica-	4	16	1	work,studio,office
+wrld_dab8d6d0-fe65-4aa2-b54c-0c150e787648	バカでかいマインスイーパー ⁄ Giant minesweeper	aki_lua87	3	16	3	
+wrld_bddf08e4-60cd-48b2-9f85-703403b893a8	りるくんち	＊Rirukun＊	5	15	3	
+wrld_a2ed6d86-aa69-4b11-8642-d0f7fccac439	From	Дaрк	3	15	3	
+wrld_e7b07b0a-4f43-41cd-80a6-480d1f84dc41	Squad Forever Fest 2026	NovedPlayer	4	15	3	charity,music,noved_squad,squad_forever_fest
+wrld_e1c5ae1c-a261-4c1e-9487-81f29a8bcdbf	Archived-Floor of Philosophy	Wesi×	3	15	3	
+wrld_03847ad6-756e-480f-acd0-b7f548b2a643	LIMITED STOCK ベータ版	クエイド_Quaid1990	3	15	3	ボードゲーム,boardgame
+wrld_728e5d04-03a0-4239-b300-f883d016c902	Sleepy Chiffon	mio9	4	14	1	chill,sleep,room
+wrld_ec067de4-1c04-42b2-b79f-be6e477c062d	酒カス集会2nd	ジュンベルク	1	14	1	
+wrld_85472360-3bac-4961-b540-e849e8eaf7d4	Honchos Office （Remake）	Devonmyrhaugen	3	14	7	roblox,doors
+wrld_03b47262-7778-46a0-b48d-039d88f0f23d	Kuraigana （BR）	ναєʟ ᴅ уυяαυѕу	3	14	3	
+wrld_dfa4468d-1d42-4a88-b466-93c6791c092e	Mammon's Stage	Pockylop	3	14	3	
+wrld_d609cbd3-0f32-4dfb-8773-3e3c4f3b53d0	Great Basement	~Kyte~	3	14	3	basement,work_in_progress,house,hangout,chill
+wrld_ce3a3945-9a80-4baf-9d9b-73c3250b1f91	猫又発電所跡	りょくちゃねこ	4	14	1	
+wrld_ea4f11b9-ac0d-4ebb-a85d-776774a2ae30	ハ·7的ハ·7 印象	ハ · 七	3	14	1	
+wrld_0f812f21-5b19-4ded-9128-52254610f0fa	さじんちStarlight	tsuna（kan）²	5	14	3	
+wrld_c6290339-c427-4a94-92ea-57c953f1084b	Melodalia	Kydd_	0	13	3	openflight,Fantasy,Airship,concert,Stage
+wrld_728c23ea-6e05-4de7-8e93-af187aba9084	月球列车 · To the Moon	桐生一喵	3	13	1	赛博朋克,边缘行者,月球,太空,列车
+wrld_80872774-f0e4-48a1-aa7c-3bef3df9b316	Tqrtilla's Space	tqrtilla	3	13	3	avatars,hangout,videoplayer,cozy,mirror
+wrld_5b67d930-64aa-4827-8197-49dcda536ec6	Odeon	JIGYEON	2	13	1	
+wrld_a07873c0-225d-4724-a06c-904cb20c5e3d	Midnight Moons	~Angiethekirin~	4	13	3	
+wrld_7636fd32-9ca5-43e3-8eac-a30007f80069	Submerged Lounge	雪乃こいぬ	4	13	1	dj_world,club,chill,minimal,vrc_dj
+wrld_341b46f5-5d1b-4cee-ac49-034c9371a935	Super Pizza˸ 3D Land DEMO	lumarizle	3	12	3	mario,nintendo,game,udon,super
+wrld_3dce853f-f990-4160-9448-7dd2493d8dbd	Minecraft （Urban City）	Murias	3	12	3	
+wrld_969dcb76-10c1-49be-8e33-b842522e89f7	Shelter （night）	KURONERU	3	12	1	attic,lodge,chill,moon
+wrld_4e8fcd03-f50e-4d11-9073-7bcb75da269f	デス見切り	ぺぎー_VR	3	12	1	
+wrld_1e5e5666-5430-4679-8cdf-268431dd80fb	Mochimaroom ［VER․P53ud3p19r4ph4］	teleji	4	12	1	chill,mochimarun
+wrld_353b3a3d-486f-49b0-ab5f-3e95b3004f79	LUSO WORLD PT BR	RewardingRun93	3	12	3	convivio,jogo,divertimento,pt,br
+wrld_d98838b3-7d15-4a8d-9c47-b7c16136d010	FA Shooting Range	FeriseCAT	4	12	7	shooting_range,collision,chill
 wrld_aab8758b-15e8-4cef-95f7-1e0c4eb4c99a	PV Palladium - AVPro ＋ Youtube Search	Prospect Valley	3	11	3	youtube,hangout,chill,relax,relaxing
+wrld_f4a2c81f-6a72-4725-85c7-de5aaf21a2e8	VILLAGE PETANQUE - BEN SOCIAL CLUB	BENFX	3	11	3	
+wrld_89eb49ab-2e5f-45ec-8000-41bbc69d96aa	PUFFMIMI LAND	sao＊chan	3	11	1	
+wrld_d634aa84-6ff0-482e-8b0d-afdbd33d87a1	Creamy Nightclub	bartman261	3	11	3	Nightclub,ProTV,AudioLink,VRSL
+wrld_324e110d-7d40-46e1-8a4c-aa80077d549a	Duskaria （Render）	WhøDance̷r	3	11	3	realism,instagram,tiktok,beautiful,photography
+wrld_7bdd3d35-56bb-4c98-9569-b71addbe2f2d	仟千竹居	输了变成狗娘拽着尾巴注射今夜	4	11	1	chil,sleep,cn
+wrld_94317e18-dd1e-4abb-b506-982291611a80	Opening Ruins （Final Fantasy X）	Biorang	3	11	3	ffx,ff10
+wrld_83627c45-0da5-48b9-8dbe-dab9bebfc559	AISHŪ	Im Beemo	3	11	3	sleep,rest,avatar,space,love
+wrld_05df5b32-3a24-49c5-8a93-fd48d6eeaa7f	奶酪工厂 ⁄ Cheese Factory 1․0․28	一只轩吖	4	10	1	
+wrld_b6c5e9a6-4924-46c2-b793-de801c261977	The Lazarus Experiment	GAMING KNIBBSE	3	10	3	dr_who,doctorwho,doctor_who,lazarus_experiment,si-fi
+wrld_5720a4f2-492c-4e06-b47a-c89a5d8927ac	luna's world （Work in progress）	Rob_the_vikingr	4	10	3	
+wrld_1eb769e3-981d-42f5-9568-ca1988e616c1	Katase coast（unfinished）	しゃち-orca	3	10	1	
+wrld_78d1477a-eeea-4101-8cc3-8f36f2193eaa	Find The Button 2	MMXXVI	3	10	7	game,puzzle,exploration,challenge,speedrun
+wrld_a721d9c4-e5ae-486b-ab36-b2fe2e40c4db	あの夏に、私を置いてきた	七夕 凜	3	10	7	chill,qvpen,videoplayer,mv
+wrld_28eadfae-079e-41e7-bbcd-a27d1a426e81	K․K․ Bossa Performance - Animal Crossing City Folk	Anomaly_Lad	3	10	3	relaxing,chill,hangout,animal_crossing,nintendo
+wrld_41e5c8a4-9a8c-470d-aeb6-5ea1637e9d3e	Skeptic's Room - My Hero Academia	Takato Matsuki	4	10	3	myheroacademia,myhero,academia,mha,hero
+wrld_1e3b0a8e-17d3-46ba-8e8e-df89f5521a39	极光港湾 · Aurora Harbor	Kitkat_Joker	4	10	1	福瑞控,furry,兽聚,毛茸茸,兽展
+wrld_f8abf216-3f45-4555-80f9-a0c1bd7194e8	思い出	フィジカルモンスター	3	10	1	chill,hangout,photography,school,relax
+wrld_4cbd0aca-cad9-4102-be8a-9aea8eb890b7	ShaderEmu	misha_m	3	9	1	
+wrld_d43f4107-1eab-40bc-ad73-44fd3b23a006	릴파 VR 포인트 컬링대회 연습	엔루입니다	4	9	1	
+wrld_51a96f1a-5422-46db-9004-0eeca7f22309	教室	枫末fumo	4	9	1	教室
+wrld_86196e36-23c2-439f-9bf6-54a81d038ab4	月見座-白黒に色が付く映画館- TSUKIMI-ZA -Colorized Cinema-	ズーズー	3	9	3	chill,movie,theater,retro,japan
+wrld_58a49ff9-f870-4ec6-88bd-c1609f8b111b	k	֓֓''k	2	9	1	
+wrld_2b571228-4e03-4ea1-822e-24e0788173a1	Skyroof	Tukha_トゥハ	3	9	7	stars,night,sky,city,chill
+wrld_84e0267c-ba74-4e16-aff3-76d7228248ee	chzzk racing club	진짜남궁혁	3	9	1	
+wrld_8522789f-41f4-4377-98e6-9b70f2fe14f3	Baldi's Ultimate SchoolHouseǃ	2005_Tripod	3	9	3	
+wrld_a1909842-992b-4bd0-88e3-d6f72a5b008e	（ENTERTAINMENT UPDATE （SAFE SPACE HOME）	DJ_EnderFox2025	4	9	3	cozy,warm_place,your_safe_space,relaxing,hangout
+wrld_c78cd73e-cfd3-4c4a-b055-0eac87afd220	Dogfight Arena Schakal （WIP）	BambooPill	3	9	1	sacc,flight,jets,dogfight,game
+wrld_827e782e-a6c1-44c4-97f0-2e75e8796eae	SPIRAL	AnJ1uwu	4	9	1	
+wrld_e6f11b2b-762c-4270-85f6-10af14c96d47	無重力ハンドボール	tsubasa_jp	3	8	3	
+wrld_33932245-af10-423e-8c2d-d250310d72fd	［TEST］ PoyoPoyoBilliardsTable	ぽよたろう	4	8	3	
+wrld_1ecab68f-46d2-4686-bf8c-94b9fc39b463	Выставочный зал «Заря» 자랴 전시관 ⁄ AI Instructed by Gyoeung	Gyoeung	4	8	1	soviet,mosaic,driving,relaxing
+wrld_bff9a3d5-177c-4de4-8a71-9d559385387b	Allegro	てつごろう	3	8	3	
+wrld_7411e3cb-5ea8-4c46-9141-fa03f03f260f	Avatar Collection	A Collection	3	8	7	avatars,collection,anime,girl,gay
+wrld_135b0332-4005-433d-b0bc-11dfea16bf73	Hortus de Escapism Floppii	Floflofloppy	4	8	1	
+wrld_1825c8d2-f4d9-4b95-bb29-d424fbc3fbd8	Musa Home 3rd	むささびさん	3	8	1	
+wrld_7a8420cd-cbe2-4745-b882-d886ccf256b4	bobs cool world	ƁoƁ77	3	8	3	code_geass,Tokusatsu,YuGiOh,Kamen_Rider,bob
+wrld_e8deb723-fa23-49d0-886b-a485eefb13ac	ちくわんるーむ-Studio Chikuwapartment-	ちくわかわいい	3	8	7	狹いワールド_,アパート⁄マンション,cozy,avatar,chill
+wrld_932a172b-b654-47a5-8928-4f1172d3db68	Yukimori Shrine	glockinmyrawrii	4	8	3	japanese,winter,chill,snow
+wrld_a6ea316b-075a-458a-bca2-5f174605b904	潮騒・夏の終着駅	IN_UNI	3	8	1	summer,spring,station,nice
+wrld_88f9c40a-87e6-413e-ad6e-dd329b2d146a	Cabana Life	HalleyVR	3	8	3	beach,youtube,games,chill,resort
+wrld_b035918d-3e0c-4a78-a741-f368dbc22d6d	Blissful Stagnation	きじいど	2	8	1	chill,home,改変,v睡,shrimp
+wrld_d375e660-1627-4159-b14d-55e43c51bb79	台本読み合わせるーむ＆Chill	minari''	4	8	1	
+wrld_5e247caa-de0c-4994-9608-c2d6ee443ea6	はぴうすのすみか	Happy-Bread	2	8	3	
+wrld_16dfd863-1a43-4be4-84aa-0039d73f215e	摆摊直播地图	碳酸（官方说不让两个字）	3	8	1	
+wrld_afde6c70-31f4-4216-b16e-0c818761ab84	bmbb․ photo gallery room	vbamboo	4	8	1	obscuarfilmshader,room,gallery,photograph
+wrld_a73737bf-305d-41c8-934e-aac7067205ca	JUST 障子破り	ぷにっと	3	7	1	
+wrld_8d8da0d7-1f2a-48a9-8f9c-df22bd4ffd97	Super Mega Condo	Ya Boi Aids	2	7	3	tower,unite,super,mega,condo
+wrld_bae67fa1-935c-4ff1-af09-157a18027341	?ǃ薯鼠ǃ?	AniseMeadow	4	7	1	home
+wrld_515cafe2-8447-41a5-9855-5557dabc9f79	Gob'Lab Hub	Rio_GobAyaVT	2	7	3	games,chill,hangout,french,english
+wrld_75d162fd-df5c-4dc0-b22d-04d5ced4eafc	Smol Apartament	Jaycy	2	7	1	
+wrld_92d3ed83-5035-47ca-9c04-b8ac165476ba	Paradise Casino （Very WIP） （1․0 alpha）	Norelock	4	7	1	poker,blackjack,casino
+wrld_2f0bf8d9-e3a9-4f1f-aad8-b3024b1ca87a	Club NG	Tator_Vision	2	7	3	
+wrld_a612d58b-5714-4f88-9b3e-22eee4dfca77	It's Been A Slow Crawling Feeling Finding What's Been on the Inside of Our Dreams․․	ジャネス	3	7	1	eye,miss,my,wife
+wrld_da8c071d-31fa-4345-bba5-1ea462a0ad69	すぅのお部屋	水無月すぅ	3	7	3	chill,Rain,Home
+wrld_b520c91f-aea4-4cec-972f-569ff935400b	チルワ	さぶおさん	4	7	3	
+wrld_d00b14dd-3f77-46f5-9ec6-b44df90e40bd	KingSquad x WorldSpace	World Space	4	7	1	
+wrld_d628ead0-bc12-4313-8dbf-7a8386de486c	Bluey's creations	Bluey Barks	2	7	3	
+wrld_56e8dbfb-cc03-475f-84f3-7ec0f818c263	オーサキストア	おおさきくん	3	7	3	
+wrld_9a6b2bf2-5d42-4a86-853a-16bdef566e74	GOBB 9 GV Land	ғʟᴜᴍʙᴀɴ	3	7	3	
+wrld_ed6a2d5f-6cc5-4fd2-baa7-83aff1f8dc2f	α	Alphapa	3	7	1	Mahjong,cute
+wrld_c4abc391-4941-4993-b045-9c3c30d9f843	ぴりもちっ！	ピリリたん	4	7	3	sleep,chill,home,miirror,イベントカレンダー
+wrld_f5d13c38-dbd3-4960-83aa-99e8108d7098	谷歌小恐龙ChromeDinoGame-0․0․2Beta	星辉辉影AuraElicase	4	6	1	
+wrld_420bf71a-a032-4c94-a212-54b9bcd12af6	【謎解きワールド】Space․	Weiss White	3	6	1	riddle,nazotoki
+wrld_12b1dcf4-64f9-4e72-82e2-4ae4d94ee77c	このピアノでお前を8759632145回ぶん殴るだけの部屋	ねむぎもち	2	6	7	
+wrld_dc95a3b4-124d-4378-a741-f12c9bacb2d1	Chill Room Italia	Renzo Hex 07	3	6	3	Chill,Ita,Italia,scacchi
+wrld_33446054-a101-473e-ac65-08b38d562b30	AQUI PUEDS LLORAR	Creator50	3	6	3	
+wrld_79417bdb-1c1e-4456-bccf-119163e592c0	Flowline escalator	のむらす	0	6	3	escalator
+wrld_c772250d-9270-4f95-9c9a-23e4a5a46688	武陵风味建筑	LHT02	3	6	1	Wuling,Endfield,CN,Arknight_Endfield
+wrld_ce34abc9-f0f5-4301-af1c-171b77a4d439	ヨミのまったりハウス - Chill ＆ Sleep - Ver․1․2	Yomi_Shinen	3	6	3	
+wrld_2ca875ac-bcb8-4d9b-bdd2-cb671a8fe12d	RABICO's Home	RABICOちゃん	1	6	1	chill,sleep,home,rabbit,relax
+wrld_bd6f0f68-6e81-4c26-90eb-1bc029cea713	ツギさんる～む	フタツギ	2	6	1	
+wrld_385a1a62-32a7-45e1-a8bc-edfbb9e90750	INMU KINGを無限に聞く部屋	_ろでぃ_	3	6	1	inmu,inmu_king,淫夢,例のアレ,野獣先輩
+wrld_e9fcc7f7-4854-484d-86ae-255cb479a9ee	写真わからん集会 会場	limvo	4	6	7	event,gathering,jp,photo
+wrld_bd975cf9-7c53-482a-a2ae-5ad7fe85684a	BOAT RACE 虫恋（テストワールド）	眞白みあ	3	6	7	
+wrld_61b9a889-19e7-42d9-aace-de7e7061c9bd	Rhino pits Primates	Rhinopit	3	6	3	
+wrld_73be9582-afd5-4d1d-a8e7-34f9993d84ae	幽红渊的房间	幽·红渊	4	5	1	room,home
+wrld_fc4ce424-f461-40dc-ab0b-8341bbe0d7d5	タソガレアフター ワールド ミュージック	みこと45	2	5	3	particle,audiolink,music
+wrld_550adf45-04a5-4b03-8f71-14f86b126ae3	ROUND 1 - Alien Stage v․0․3 （WIP）	Shîzuko	3	5	3	alien_stage,alnst,mizi,chill
+wrld_8e11cbb7-0b6f-4bc7-b8f9-2a2547e3ce3d	Tranquil Marrow	momijiAC	3	5	1	
+wrld_30a7e5ad-1284-4ff7-a32f-a431edb785bd	Siuのチルワ（仮）	-しう-	3	5	1	
+wrld_2de5aefb-7a64-4e56-9418-f7823bf3ac92	Familiarity	~Tweebzz~	3	5	3	home,eerie,creepy,warm,comforting
+wrld_76d16031-4c5c-406b-a4a5-68027bff821c	Celestia Ruins	GameNationRR	2	5	3	
+wrld_4a7ab60b-8257-461b-86af-b81ad811d1fe	PAID County City	DesPAID	3	5	3	City,Club,Driving,Beach,Hangout
+wrld_ea3f2b68-87eb-443d-abe2-09c78ae14831	是他还是她？！选择现场	K_MESON	3	5	1	
+wrld_08e7e6e2-b09e-4f99-867b-46952c0cc49e	Yeoju_Atelier	_여주_	3	5	3	chill,home,night,ocean,sleep
+wrld_e47b35e2-7be0-44ef-921d-31081f06641f	La Libreria	AmeVT！	3	5	3	
+wrld_01844418-0a12-4c40-9d64-0c3d16ea1e37	写真喫茶「稜鏡」	prismsan	3	5	1	
+wrld_11fc5edf-2c79-41d9-b0e9-7a27ee53cd38	Skylar's fluffy chillout world	SkylartheWolf30	1	5	1	furry,wolf,Social,Interactive,Inflatable
+wrld_5b50ce49-7380-45de-b388-74648e4f8d25	death star ［uge］［halloween］	JAYDEN1803	1	5	3	
+wrld_0e61dadb-c9d2-4609-9568-eab404a294fb	VSLOT XYZ B1	ZYNX_404	4	5	1	Game,VSLOT,SLOT,スロット,xyz
+wrld_6f4267ef-d6a9-4ac7-b8ca-e0d0fa0b3f40	Mello Midrise Demo 0․0․4․1	Zerithax	4	5	3	game,apartment,home,lofi,decorate
+wrld_7b34726c-68df-4dff-b5d7-bea33eb18a1f	ミニゲーム テストワールド：迷路＆ドミノ ⁄ Mini Game Test World˸ Maze ＆ Domino	wkcp0717	3	5	1	
+wrld_73eceeec-51c0-4259-b37d-77b387c30188	マドちゃんの隠れ家	マドちゃん	4	5	3	
+wrld_93cd80c0-b3ed-49ad-9ad1-eb9008f24c53	Richie RichJ Tokyo Nightclub	RichieRichJ	4	5	2	
+wrld_89b05f94-d47a-49cb-b06d-3d9691f6ff79	baseDental	するsuru4787	3	5	1	violence
+wrld_4d6ffd91-1527-4567-9649-2f1887ceb876	Lil Nas X Event Map	CallTowntalk	3	5	3	
+wrld_972a1f2a-e539-4d47-96f2-52f2eca1515f	chill theatre	ブランさん	4	5	1	
+wrld_f3321dec-4967-4746-b879-b7304c6087a0	Dongbaek	TOTO is me	4	5	3	cafe,jazz,cozy,korean,bar
+wrld_2433f7d3-2a98-452c-965f-ceeeafcb6bc1	YoyleCity	soonband	3	5	1	idfb,bfdi,bfdia,yoylecity
+wrld_b740c787-b69b-47bb-a2c3-3d256e066846	【AI制作】巨大将棋ぃぃぃいい！！	tomo643	3	5	1	japanese_chess,shogi,chill,game
+wrld_259b79d3-797a-4ec2-b91e-31e4d70f9d8c	ミセスグリーンアップル 再現ワールド「天国」	uritan	3	5	1	
+wrld_0917353d-953c-4745-bccd-668fd5fe8f89	UGE Moonscar Junction	UGE Productions	4	5	3	
+wrld_6e35900f-8cf3-4bb1-af07-eaaac3afb64c	私人world 姬路城 Himeji Castle	そらぴょん〜	3	4	3	
+wrld_71582918-6496-4b5a-882f-db757e5c6d11	room00-forTwo	テヲ_Teo	3	4	1	chill,sleep
+wrld_732c2c48-7762-408b-90ed-833c83792122	Just 3色LED式車内案内表示器	しらす⁄shirasu	2	4	1	train,led
+wrld_68e60d4b-84f6-4920-b212-222f5c975393	A PLACE TO DREAM	Creator50	3	4	3	
+wrld_5a5ef5fc-27e5-4abf-b4d9-577c1dc21dd7	Piranesi World	findノastra	3	4	1	
+wrld_6dbafbe5-5110-48b4-a0be-03929c8c62ef	Hortus Regis Alti	うぃべる	3	4	1	acecombat,airplane,grassland,anemone,flower
+wrld_f833ed31-e1ed-44fb-b7dc-978d48639ec7	Icarus Armories ｜ Shooting Range	Hayko_XG	3	4	3	
+wrld_52b23d7f-c991-42c0-b7ef-be150d4f8e17	Checkers VR	Nukaǃ	3	4	7	Checkers,Game
+wrld_da04d8a9-b34b-4f59-aeb8-617421fca724	MMU Room	towa0131	4	4	1	room,music,chill
+wrld_3cc5aada-6e31-409c-a8be-68cc78019729	Club Earthquake Pinky shot	ro_tta	4	4	1	club,dj,audiolink,music,chill
+wrld_597105d4-f09e-4be4-b8aa-dbda15e58afe	qrxz's wholesome avatar world pt․ 2	qrхz	3	4	3	avatar,avatar_world,wholesome,space,chill
+wrld_c7459ca4-576a-4ac2-9832-a474a73a08a1	机上演習ができるワールド	kiridaruma	3	4	3	military
+wrld_76c139f0-4df8-4bf9-9f85-f600e12ce4b8	玉米的窝	玉米包饭	4	4	1	avatar,sleep
+wrld_0f6f6f4b-767f-48a5-bcf5-36b2b0676e08	Dracula's Mansion	¿Cøunt Dracula?	3	4	3	cooking,chef,cook,baking,house
+wrld_17e5e570-c999-40d3-bdd1-423b0f3e3da2	TANKIが2台あるだけのチルワ	さにゃん	3	4	3	chill,mahjong,tanki,麻雀
+wrld_e2ba79f8-b63f-4606-a174-72ca6295cbc7	dreamcore˸ Violet （DEMO）	-やわ-	3	4	1	
+wrld_f2e94f20-d832-4c18-aef9-5cb4e5670e85	Star Wars˸ Geonosis PVP	Chaos-3967	3	4	3	
+wrld_d7251d07-3c67-4b7b-a2ab-4ce4c75e7c92	Grand stellaris	【Hᴀᴋᴜᴍᴇɴ】	4	4	3	
+wrld_d5d8cf51-b1ba-40a9-9683-a22c1291531d	Maison des coupaing	claquemaboulass	3	3	1	
+wrld_17d208f7-b8da-4314-993b-a64267416067	まめ戦車道 テスト版！	コバさん	3	3	1	
+wrld_0d424078-5852-497d-adc6-c97436052355	Astra's Infinite Pole	findノastra	3	3	1	glitter,particles,dance,chill
+wrld_f26979b2-0df1-438f-89a4-4cede20c2439	Backrooms Survival ［Beta］	lofoxe	1	3	3	horror,violence,backrooms,horror,survival,game,multiplayer
+wrld_a55bfd93-acae-4f51-9210-5c3c51c87478	サウナで梨本ういを聴くワールド	ずんだろ	3	3	3	
+wrld_93cf9cf3-2ddd-4d3f-88ea-4bed0176466e	Faepunk industries	Juvino	2	3	1	rp,mortisian,fae,industrial,floral
+wrld_ee13a947-b262-44de-94b9-0f45e722bd3b	Atlantis Sunroom	-Bill-	4	3	1	underwater,chill,cozy,sunlight,cabin
+wrld_9d51212f-86d9-41cf-84ac-451f606f6415	Hotel Tranquillità -For Two-	高宮遠子	3	3	1	cozy,for_two,relax,home,sleep
+wrld_7704da8a-c6ab-4192-ae08-5cc27de8e970	A camper van by the sea	kaneroku	4	3	3	chill,sea,camper
+wrld_93900c47-ccdd-4d4f-ac53-1cba6a973c13	Halloween Palace	ゴッドスレイヤー	3	3	3	
+wrld_892f7087-b47f-47bb-8cb5-355369b2e537	GRP˸ HF Valley Bunker	'Artificer'	2	3	1	
+wrld_ad566169-26a3-48b2-9ce7-b341f4c795b0	Mirai	Tashiaki	3	3	1	
+wrld_621f6b0a-8193-4ab8-9db3-53a6fa29658e	salonia․inc	ᴛʜᴇ ʙʀᴏᴋᴇɴ ᴇɴᴅ	3	3	3	
+wrld_f1ae2a2c-98e6-4462-98b6-6bc0a71f791e	world	dcr_francis	2	3	3	
+wrld_c60953e2-3894-48e3-8c0c-0737bc9567c5	カーテン越しの水平線 （夜）	いぶです！！	4	3	1	chill,sleep,Home,fireworks
+wrld_ff5dffae-9209-4406-b460-985c37f99db0	星見舟の茶室	Cast3LLa	3	3	1	teaceremony,japanese,sado,scifi,spaceship
+wrld_4cc7b4f7-a86f-45ab-ab96-70bd21aada93	PROJECT˸ DRAGON BELOW 0․1	asadvampirexo	3	3	1	game,horror
+wrld_c506655b-edcc-4ed6-9e48-47661754d3a6	Exodus	_-Semi-_	0	3	3	
+wrld_65868c5c-fe8c-4c11-b6b5-776e16c31b0d	SHOKOのオラクルカード	お菊-OKIKU	4	3	7	
+wrld_4a47b972-ed18-4c1f-ab98-3ac8e644aa7f	stance car meet	イカのスルメ	0	3	1	
+wrld_eda6acf7-6240-4e88-a6e8-f5ae9d685a23	maru room	丸子中的丸子	4	3	1	
+wrld_3f82cc22-87c7-4c56-b82b-646127954a5b	Comfy Paradise	Nαtsu	3	3	1	chill,hangout,comfy,chillout,rain
+wrld_1bdc96e1-d488-4c77-b041-086aaa4a4923	またーり個室	睡蘭 どれみ	3	3	1	kawaplayer
+wrld_7695d03b-7958-4b80-8960-eaf0c90dba58	Negative Dimension （Reworked）	Retro Night	4	3	3	roblox,dimesional,pens,video,mirror
+wrld_345df9b6-1fd6-4598-b7ed-43961a7cd3c2	I kinda like murder drones	LT_LATIN	3	3	3	
+wrld_33055092-e669-4502-a152-32305d47e558	Abyss․․․	金のしずく	3	3	1	
+wrld_964e4d11-e1d5-444d-85eb-c57863d3d9aa	Starlight	Undery	4	3	1	
+wrld_9679e0cd-4b20-4dda-8d7a-24a72072422f	冰冰冰	TheEmou	2	3	1	funny,meme
+wrld_5a979d76-fa1b-4903-9c24-903b8d04cf12	りんちゃんワールド	星乃 莉々 ほしのりんり	3	3	7	
+wrld_0a6e5984-ee0d-46c6-a9bd-b166600514a3	VoR対戦交流会 待機所	Aureai	3	3	3	
+wrld_3773c587-202c-4b14-9725-df61b674cd11	第2 捨て犬喫茶秋ワールド	46マシロ	3	3	3	
+wrld_17bc5dbe-6f1a-4ed9-a0d5-46c0eac4229b	DanceCubeFUTURE demo v0․1	xplanet	3	3	1	
+wrld_a9a6c47e-5a9b-4281-b7e1-cf7dd3bc7fb0	Neon Rain Apartment	xShadoeWarrior	3	3	3	
+wrld_ee55873c-322b-4f53-979c-7bea7aa986cb	HELIOS	Peachy Vibes	3	3	1	club,rave,space,dyson_sphere,audiolink
+wrld_428fbd06-e162-4885-9ff2-39d837363554	Saudi school	Fahd＾	2	3	3	saudi_school_arab
+wrld_69418b56-fc4c-49f7-b86a-edb582c0a6f3	ワールドギミック確認用Aka	Aka_JP	2	3	3	
+wrld_732173f9-b3ba-4993-8909-032d70269a7d	フレズ工房のギミック置き場	ジャック（フレズ）	0	3	1	booth
+wrld_049e0f8c-bca0-4763-b0ec-7a2c1c28bb82	Sushipi_Home	assan01	4	3	1	
+wrld_d912f626-80eb-4cf2-9a17-004ccfd05a2a	Timezone Airport	Timezone464210	3	3	3	
+wrld_68b73228-02be-4903-bf87-dea493cf158f	Citrus rooom ver1․2	ᴇʀᴜɴ	3	3	1	chill,sea
+wrld_2e2e7907-f178-4b2b-ab6b-35edfce39bc2	AFTERHOURS｜夜の遊び場	あべっち abexpro	3	3	3	game,hangout,fireworks
+wrld_15432206-4d49-4ac2-9624-7864df9979d8	夜と共に	暮星夜月	4	3	3	
+wrld_88873237-05ea-4e1a-8a76-1ee0e00336df	おやすみ	冷やし坦々麺	4	3	1	
+wrld_a6bae056-2347-427f-9ab4-9431bf9947f8	Mast Year	Shoalstone	3	3	1	nature,forest,chill,cozy,cabin
+wrld_85b02d3e-15f2-4507-8446-dafb86e206ee	アソビバ	雨宮りつ	3	3	1	
+wrld_38ae23d0-b862-4997-acf9-047a6a67b61f	くーろんちる	タヌキさん	3	3	3	
+wrld_0823f16c-6397-4863-bd8d-e9baff9cf3de	Cozy Home	fkseba	3	3	3	
+wrld_20f3ebae-d685-44ec-94cf-f56f05311cd9	We bouta grease your gears	Drastic48	1	3	1	
+wrld_9e2a904b-7328-4235-9038-df317c5dbffe	やま工房展示ハウス	yama_2525	2	2	1	
+wrld_320699e3-61eb-47db-9aeb-3decb7054a56	The Upturned Inn	taiyoutaii	0	2	3	
+wrld_f6ed2680-a8aa-4fa8-ba77-5e01cd72aad5	Villa 【夜の向こう側】	ichishiki1	3	2	1	Home,Hangout,Chill,Pool,Beach
+wrld_8369c028-a6c9-433e-8bfe-fb4370f8c398	屑之测试	屑萝卜（Kokomi）	2	2	1	
+wrld_91ea4f68-3370-45ba-8a9c-ce18072fa22b	Back To Dream	早紀奈奈	4	2	1	chill,cozy
+wrld_25e27ac1-d6ae-468c-8d40-5b4f01e9eb35	口口口口口口	霰弹专沙小南梁	2	2	1	
+wrld_6b3266ac-36fc-456c-b597-e29d5d4822f0	Chill Edge	てきとうさん	2	2	1	chill,slot,udon_chips
+wrld_da259151-bb60-4dfd-b98b-33409bb392d2	yamano test world	Yamano uratora	3	2	1	
+wrld_dc038620-63e3-431d-93ba-a5e20d3b4b51	Super Giant World	BlahBlooh	3	2	1	
+wrld_78accdd8-9e24-4e28-8997-00fb3e056c4b	GPW WareHouse	BUNKLZZ	3	2	3	
+wrld_9c90fea9-d4f1-43c5-b42d-42604df8c052	ちるわ	୨୧FLORA୨୧	4	2	3	
+wrld_6fbf54b7-af16-4735-bd91-7410c0e6b111	安穏	といといといとい	3	2	1	
+wrld_b6fd2ae0-a043-4c4d-b17d-702d0b348b8a	Hinata	tqrtilla	0	2	3	chill,lofi,small,optimized,starry
+wrld_2a9b9e22-00e9-46c1-9403-9fb700de83e2	Sponge room	Aporthailis	2	2	7	
+wrld_d4809fa6-9373-40c0-bb8d-0ab23742a068	汐汐の轩	今汐是何年	3	2	1	
+wrld_395e2305-4739-4d7a-a6b9-7dc3941315c2	The Furry Temple	ᴅ ᴇ ᴍ ᴏ ɴ	2	2	3	
+wrld_4d9e29da-8488-4e92-9ba8-494ff292816e	Our Dream House	WOONRANG	3	2	1	
+wrld_f5be5301-5f63-4dc8-b8d0-0b28a167ee26	Sumiaを聴くだけのワールド	うにまろ。	4	2	1	Music,Sumia,Audio_Link,DJ,Chill
+wrld_2d2d3917-5467-4f7d-a2b3-a100be853f00	たっちーの別荘	たっち一	4	2	1	
+wrld_9b2be9c0-5def-4273-8bf3-fb552c9363c1	お誕生日おめでとう！	サメシマ	2	2	3	
+wrld_1f9772ac-971c-4c0c-a0dd-2c4259e25356	Chill Back Room	ろぽたむ	3	2	1	horror,chill,liminal,horror
+wrld_897e0d36-819d-4e4a-88cd-faf69ea63485	STAza Test	Azaruka	2	2	1	
+wrld_2a758df6-7181-4632-bbc8-8a1bf05a4c0a	Springtrap MINI GAME 1․0	ITACHIJJ	2	2	7	GAME,ROOM,UPDATE10,CHILL,Springtrap
+wrld_e3188370-96df-4d23-80ad-227d6c0cf535	Sorairo Rooftop	kurokikori	3	2	1	chill,sleep,music,rest,ambient
+wrld_3bea1636-d7dc-4d94-a666-99d175606090	るんかふぇ「あわてんぼうのハロウィンぱーてぃー！」	赤福もっち	3	2	1	
+wrld_264580d9-cb40-4494-8664-bea76e664186	Gromov Gallery	Graf2112	3	2	1	
+wrld_3a32c57b-ffd6-4add-a777-d99b08ee646d	room	파 폭 이	3	2	1	
+wrld_d76aa77f-58a8-42b6-9a32-0c97438aa202	家族	KIRAMIKIMIKIKIA	3	2	1	
+wrld_2b034220-7b5d-45c5-8da3-7c2bf138f782	Until the Sunset Fades 直到夕阳褪去	ღ生活不易 顺顺叹气ღ	2	2	1	
+wrld_88e58822-7d5c-4ba7-968d-be8d6319c2f6	Monkiki World	CrisRHG	2	2	1	monki,friends,spanish,chill,club
+wrld_cec02802-545c-415c-9baa-38176b4f21e1	秋、この世のもの＿＿？	集楽電丸	3	2	1	
+wrld_1bfa8477-9ffc-4ef0-99a4-a6ec911993e8	mira house	mira777	3	2	1	
+wrld_7db83ccc-56f8-40d7-a6bd-73a22dba622f	NEON STAGE CLUB	GrimReaperXD	2	2	1	dj,club,music,dance,audiolink
+wrld_f14331ab-cfc2-49c0-8cc4-04177b362fbd	lunaroom	るなLun4	3	2	1	
+wrld_0288c5c7-b9c2-450e-b519-b7f577509b91	黄昏	凛華_Rinka_	3	2	3	
+wrld_76f06449-0eb9-4f1b-9b25-d6ca90696b73	Neon Chillout Bar	Kurumi7yz	3	2	1	bar,drink,neon,chill,lightvolume
+wrld_0d5da179-e393-4371-8286-6e949a08202e	Tim Burton Village	Hevell	2	2	1	
 wrld_31e96358-ded4-48fe-94a7-4eeec526a4c3	PV's TATAKAI NO SHIMA（Beta）	ScriptWizard	0	1	7	chill,relax,video,hangout,game
+wrld_d53a1549-71f5-4db7-9551-f93f2ef5e4ef	THA AND THAM ATTRACIONS	Fet-Sinister	2	1	3	
+wrld_2a1b1c30-e5da-45fd-8b66-5e8c9e9fe498	Hidden Cave Bar DEMO	VIDAL357	0	1	1	
+wrld_4cfc91f9-44b1-4a68-b121-c3add2a7f14f	Leyndell	Zerobot_ATRI	3	1	1	
+wrld_785a6296-428f-441f-9537-b43e77466e4e	晚风 ⁄ Evening breeze	Rhythm诗	3	1	1	
+wrld_26bbb3ad-8635-47ba-bdfe-3f5680db3d06	～夜の帳～	ғɪᴄᴛɪᴏɴ	3	1	1	
+wrld_ebf6efd4-8e23-470d-8307-46e104aaaf50	牢麦的模型房	MikeSAMA	2	1	1	
+wrld_cc78ae69-9563-497d-a8b9-75fb3274acf0	poupongamer hub	poupongamer	2	1	3	hangout,chill,gaming,youtube
+wrld_31101509-bee4-4625-96d2-dbe132f39228	Dreams Adrift	wakq	2	1	1	chill,sleep,home,sea,night
+wrld_4d36446a-275d-4240-8f4d-006186b99af8	LEON Room 2	レオン（LEON）	3	1	3	
+wrld_9890d4e6-5655-4d50-8194-cc44cf273079	GOLDEN RIVERSIDE	FreeDom TrailS	4	1	7	
+wrld_2b4b28ee-6331-4243-a040-8fbe5d9aaeb0	霧間定点観測室＃2	きりま｡oO	3	1	1	chill,sleep,LTCGI,lycoris,rain
+wrld_73c95e52-4093-4707-8570-b0ba216ba2ad	Neon Palms Nightclub	JazzSolo84	3	1	1	club,retro,dance,party,chill
+wrld_843eeb21-6a7a-49b8-8ee3-1158ba9bd671	ZAAZAa's mansion	乙ﾑﾑ乙ﾑﾑ420	2	1	3	
+wrld_cc62cbe7-4773-46f7-84c8-a3dfbc4f4c77	雨と、魚と、雑多部屋	-DYF	3	1	1	Chill,sleep,rain,fish
+wrld_5f8bd425-8bd3-4696-9500-5e7a07e8a1c4	Juke Say chu	白璃々蝶	0	1	1	
+wrld_71a8bd8f-16e7-4763-a3bb-c405382c3cec	Armed Titan格納庫	Mitzel Ascender	2	1	1	
+wrld_9d15b8da-aa88-4589-b73e-5769481ae6c7	小海豚試着001 自己送给自己的2026礼物	XIAOHAITUN2	2	1	1	
+wrld_012cc05f-e986-4069-bae2-166b64976589	中子星-城市【重制版】	神魔万仞LDB	3	1	1	
+wrld_3f7c5c85-7121-41fa-a775-e558087284ea	鳥の巣チルワ	クロワッサン009	3	1	3	
+wrld_126adfab-e26f-4487-80bc-e98d1ebbe052	Gw2 - Adventure Box Shop	Captain Weegee	0	1	3	Gw2,chill,Adventure,Box,Guild_Wars
+wrld_d371034f-97af-4e6c-af87-0556739dc77c	Da Bug Shack	Foxbug	3	1	1	
+wrld_a0b1d195-b727-4b75-96bc-6bd4024fea47	Snowdriving Test	白冬_Directavia	2	1	1	
+wrld_6d42a9f8-5128-440c-9303-63e2cb297825	White Ascent DAYTIME	砂刹吖~	1	1	1	
+wrld_563650f7-242e-4456-8b7b-fc7095be03ed	Metro Heights	Gambo81	2	1	1	
+wrld_15b237d2-30de-40fb-80c1-99f411b2065b	Sinners Dance Studio	DreadedSynn	3	1	3	
+wrld_dbec4feb-0ca3-4b8b-81ad-2b7d38788d37	こむるのさんぷるがあるおうち	雪花しん-shin	3	1	1	chill,avatar
+wrld_a03e376e-9eaf-42df-9151-4c7ea5b0cd19	The Last Autumn1․1	yuuGan	3	1	1	autumn,mipple_leaf,relax,sunset,sea
+wrld_f31c01c8-a6fa-4fb6-920f-3a70af7cfbc2	락커룸	Retona	4	1	1	
+wrld_1731c15f-1346-48b2-9463-6c4d0cc2b3fd	透明な家具がある部屋	22koma3	2	1	1	
+wrld_6244927a-3ece-4155-b18e-837e4a6367df	おやすみの前に	べるチャン	4	1	3	
+wrld_f6530ddf-a2a9-468f-92db-f7a77c2798de	VRCLV 3․0 TechTest	Not Cat	2	1	1	
+wrld_33513f02-a7ec-4f97-806d-8d17dea98095	Kaitlyn's Chill Reloaded	Kaity Kat	2	1	3	
+wrld_61f5cea6-7428-4963-9bd1-32d3d1676c3a	BedRoom（寝る所）	芋虫ひよこ	4	1	7	
+wrld_600c62a2-744b-4714-b691-fd908baa06f8	分可の閨房（施工テスト中，施工测试中）	十几分可sjfk	3	1	3	
+wrld_f7a01f1d-bf87-4407-bd41-87f5c9ab0e4b	Chess Ranked Garden Club	Yani777	3	1	3	Chess,Strategy,Classic,Ranked
+wrld_d565efd0-147c-40e2-b2d5-8812dc6e257f	Hotel Night	Asaka․	2	1	1	ai,hotel,night,city,chill
+wrld_e42de523-9c8f-4bc8-a03c-5c281ee3d0bb	tes	ノイノア	2	1	3	
+wrld_9d02f560-809b-47d4-9a68-626202bcd08d	Cha-Hom	-Pixy-	3	1	1	
+wrld_c88ddecb-c17a-47fc-90a9-7bd7e59b72f2	Fallingwater	Danny932	2	1	1	
+wrld_cb642663-bce8-461a-9e8b-5d8e3a4a0d78	Foxxen's room	icyloon	2	1	1	Foxen,Chill,cozy,streamer,comission
+wrld_0983e9c6-52b6-488d-83b4-8f257f066970	ろぺぺの簡易へっや	R0PepE-	2	1	1	
+wrld_97077974-351d-4f13-a9b6-b50113f7c923	Blue Chamber	artov	0	1	7	rooftop,Cozy,Simulation,Player
+wrld_ba1b7a49-a09d-4b74-9a22-2dda516b2a72	mannsio	YUKINAKAM	1	1	1	
+wrld_805cffe4-2530-4131-8a52-ba9b5f26ad56	Seaside Villa	みどな³	3	1	1	
+wrld_dc4111ac-cf28-4ed1-84ba-524151e673d9	Bar Do Zé 4 Official	Doutora_Tina	3	1	3	Bar,Ze,Official,brasil,brazil
+wrld_55b47f8a-e003-4ce7-b456-4a75c0771570	けこかふぇ4号店	けこか（kekoka）	4	1	1	
+wrld_9bf5fd0b-b76d-47b8-b82d-49504b2a17d4	Desert Drift CVS2	Zero_sinsVR	3	1	3	
+wrld_165676c3-ecb8-407b-9bd1-b1251d500a53	푸씨세가	luna_xxin_	0	1	1	
+wrld_6dbbb48d-76c8-4297-a2d4-2c30bfc04b61	Dimly Lit Room （薄暗い部屋）	ゆ き ໊	4	1	1	sleep,home,chill,night
+wrld_beaa256a-0435-4ba4-b58a-426929f648ab	Anteroom to Eternity	Taranturamen	4	1	3	
+wrld_c486cd61-86ac-43b7-87c3-07a1cfcf3ae1	Minty's Avatar Dump	MintyMelon~	1	1	3	
+wrld_93456da8-d0fa-48ea-80f8-97ca536fb71e	study work chill たくさん動画部屋	soto689	2	1	1	
+wrld_124699c5-c66f-46f0-8fc4-9430e3afff7e	軽量DanceHall	Astra＿d444	2	1	1	
+wrld_47e98be3-5db5-4eae-be70-70b41d4553d1	Synn's School	「 WickedSin 」	0	1	1	
+wrld_7c65a6b0-fd6a-482e-8512-224a9901d2aa	nuinui_home	KOJAKU	3	1	1	
+wrld_81324485-5247-4968-b9da-3014347bf18e	The Gallery of Mine	SlickBλck	2	1	1	gallery,memories,photos,nostalgia
+wrld_432761f8-71f6-4784-ae5a-88a2b9dac5d9	Night Belowー夜空と海とー	つきみだんご	3	1	3	chill
+wrld_779469da-2c35-4aec-b6b6-73769b54baad	HAKUCHAROOM	hakusaiEX	4	1	1	
+wrld_a74ac1d7-7ba2-492e-8302-e8a7784600dd	地下bar テスト営業	ｔじゅん	1	1	1	
+wrld_1d8b5116-a803-4320-8782-329f842b5184	home sun 窝窝头	sun'z'p	4	1	1	
+wrld_09459a04-8c90-4a95-a98d-a51f15625d06	小さい和室	しもやけ＠	2	1	3	chill,japan,room
+wrld_b71bb7a2-8515-4826-b60b-c1b899ea315a	鍵付き開閉ドアギミック KWG-SDL01 モデルルーム	Kanitama	2	1	7	
+wrld_36b38664-c577-4c0b-81c3-44394b85b35b	nemu	Berryベリー	3	1	1	
+wrld_538808cb-7e2e-4805-8ed6-465d10ac8de6	俺の遊び場	猫ジャコ	3	1	1	theater,chil,game
+wrld_d6f57606-1f28-4c1c-9ca7-5430ea78b058	酒処 響	魂_Tama	3	1	7	
+wrld_87d1053d-2ce4-4af4-85d1-1f30332e1d42	LOveSighT	賽河ヒバチ	3	1	1	chill,hangout,liminal
+wrld_79e8179c-3110-46d3-bde8-51116803aba0	ワンダリング・ガル号 ～海の上のおうち～ ⁄ Wandering Gull - A Home at Sea	Pignic	2	1	3	karaoke,chill,sleep,dance,ship
+wrld_6f575d26-0433-422f-9ae1-ac6ff311fa3b	Just RAPT理論	Tsuikyu	4	1	7	RAPT_Theory,Christian,Education,Chill,Room
+wrld_f581355e-0b2f-48d4-855a-fe1ca18b8303	BAF Wolfpack Hunt Redux	-Sirion-	3	1	1	Roleplay,PvP,Multicrew,SaccFlight,Battle
+wrld_3b81ab03-e25e-44d2-af68-a19526efaaf6	緑chill	鈴月リース	3	1	1	chill,home
+wrld_5e3c5c19-3d70-4733-9005-deb8999fa123	～秋の訪れ～	やすい【jp】	3	1	3	
+wrld_a8fa56dd-54fc-4922-b3b3-e16cc9069e97	Shahar Cafe	天乃ソラ	3	1	1	
+wrld_d7ece186-d2b8-403e-b57a-249e81d66aa2	エビカニフォトギャラリー	エトア・ラスカー	2	1	1	
+wrld_7a20208f-2f2c-427f-b926-89dc7b2c9d10	かなペア · 假名测试	Nemuna	2	1	1	
+wrld_df0593ba-7493-4b24-9926-1adb418c2f19	海上のビリヤードハウス	フクちゃん	3	1	3	
+wrld_0c382936-1c63-4ea9-9635-0afbd1a35be1	Ang3l's Office	Ang3l_N0xx	2	1	3	
+wrld_cc7da75c-503e-4cfd-9872-e8535ad76e6e	0NC Base	fun_girl235	3	1	3	
+wrld_a0f67f76-6aba-407c-aab3-261434d3706c	瓦瓦123	Zena-蜘蛛	1	0	1	
+wrld_4e559db9-06cb-4d44-a675-c303395703ee	Where the Sky Ends․	雪乃こいぬ	3	0	3	chill,sleep,home
+wrld_db502fb9-1f20-43f7-ba26-2ea2cd239e2b	Real Sky testd	Akat ／ 赤月さん	3	0	7	
+wrld_f84cbaec-0789-49d3-9881-459569c875b7	IconCentration - VR Game Show	Ptiberius	1	0	3	
+wrld_b79daf28-a27c-4261-9f6a-e1e0385d590d	ノティスの別荘	ノティス	0	0	3	
+wrld_c6a8eee9-45a7-413a-98ef-61ddbf3d2124	发牌！	Alice · 爱丽丝黑白	2	0	1	
+wrld_81bdbbcc-5706-47fc-b403-9a178b07bcfd	愛唱不唱KTV 測試版	yaen夜恩	3	0	1	karaoke,卡拉ok,ai,taiwan,music
+wrld_e5a60075-c8e5-4265-a66f-089e660301e6	チンチロと大富豪とチル	きぬゆ_Kinuyu	2	0	7	
+wrld_3330cd53-36af-42c3-b25a-ed2415ce8d43	Tiny Silent Room	ぞえあちゃん＊Zoeachan	3	0	1	chill,rain
+wrld_f63e94ef-11af-4ddc-b052-cb156a735c6e	雨の日	Cosian	2	0	1	chill
+wrld_de809420-2e18-4888-8f3d-4766ab67e53c	UK Finest Ladies	PlatinumQueen	2	0	3	
+wrld_71044a33-5b8b-46f4-b8f4-6e37a2176bc5	Slay the RaidMonster β ver․	のほほ․	3	0	7	game,card,strategy,rpg,pve
+wrld_6d34ecff-fdda-4783-a2a2-20e73f7f9619	15㎡小屋	神代 アリス	2	0	1	
+wrld_b0c16c0c-09a4-4804-8852-f92bab21bbb3	雨夜の余白	まぁむ。	3	0	1	
+wrld_0c4e10bc-b652-497b-af05-aa6da5e49021	Byebye‚Juli	热热的热热-RERE	2	0	1	
+wrld_343061a3-6d0e-448b-b62a-a2607066c91b	Necois room	Necoi Milk	0	0	1	
+wrld_31773e6d-95a7-464b-80e6-fd8ca99fa76a	Test Room	Ichirou?	1	0	3	
+wrld_b357b8c5-7045-46ff-8a58-39ffe806ad3d	ぶるちゃんハウス	ぶるちゃん	3	0	3	
+wrld_8f47cb56-d23d-4e59-a8fa-b10a192a5806	AI and Our Video Games	LogMeIn Hamachi	2	0	1	3dgs,tlou,death_stranding,ai,video
+wrld_1f52bcb0-a1ee-4312-bcbe-84092f8e38c6	寝る、たまり場	Access 404	3	0	3	Chill,Sleep
+wrld_c2bd78e5-53ee-4e11-b61d-51c5faa26152	Emil VTuber - SETUP	Emil 愛	3	0	3	
+wrld_00e170f5-6c7a-4c6c-bb04-d9fa44d44a75	Myroom	虚愛愛華	3	0	1	
+wrld_b459e1b3-6706-4d1e-8028-0d8253016693	APSWAGG coming soonn․․․	APSWAGG©	0	0	3	
+wrld_83f56772-fc52-41ca-bcab-b57a4ab352a7	WildAquaCozy	A Wild Philly	3	0	1	
+wrld_caf66666-b6ca-4c0b-8063-5745f2b557c4	MIKU EXPO2016	MIKU3478	2	0	1	
+wrld_a97ddade-07d9-4023-904c-01a5fec7a05a	宵に溺れる	ka_getu_ki	3	0	1	chill,qvpen
+wrld_cc531ca2-98e3-45a4-abe2-e6d56f030562	bumper cars	メ MAZIΞ メ	2	0	1	
+wrld_740dac3e-d6c5-4a7a-a635-8786b3cab5a7	Modern Industrial Room	Coomsie	3	0	3	
+wrld_ccb8fc48-0fd8-4c3e-8ec4-af56475837f9	OX Quiz	Diaphin	1	0	1	quiz,퀴즈,ox
+wrld_c729a76c-982b-40f2-a142-a0697a8a89dc	水华南街	Darkestのnight	3	0	1	
+wrld_341df89a-07d2-44ae-8934-02c8707e7998	たんぽぽのおへや	たんぽぽ_	3	0	1	
+wrld_6b6aa542-ed11-4622-9d6c-2a25b8e3ccdc	水原ホーム	水原 凛	1	0	1	
+wrld_d0fcdf1f-bd30-4b6c-bb8b-22d0fa3b7fdf	しどうのお部屋（仮）	しどうsidou	2	0	1	
+wrld_20139615-bb17-4fec-8e31-037d2ee88706	The Truth of Chaos （Particle World）	Nathieon	2	0	1	particle,particle_world,particle_systems,video_player
+wrld_739bdbaa-f844-40d6-a3d9-0939c200f53b	test	sleepy-epyjacko	3	0	3	
+wrld_c8f881a8-e6e6-433b-a473-b73f6172d42b	SInphoria Bar	༒ʟᴇᴏ ᴛᴜғғʟᴇ༒	2	0	3	
+wrld_0f2b0453-edd5-41bf-aa19-8b36ebfddd88	CommentBoardDemo	皮皮拉Pipiraピピラ	2	0	1	
+wrld_29e486c0-e75a-4d3e-9503-5105c3ccc5b1	雑貨刀剣商 「雑草」	chichijima	3	0	1	
+wrld_72e22490-8dfe-494b-9ef2-97483d79120d	破损的小家	不二的焱久桑	0	0	1	
+wrld_599e6226-a606-4b0c-9b8e-97a4e01740ed	cafe test	夜届花火	2	0	1	
+wrld_3b0b5f9b-1344-4397-8be5-dd4aa3ce0695	100円で買ったホムワ	hell8624	2	0	1	chill,sleep,qvpen,video,quest
+wrld_8a385c9f-e174-45ce-a12c-d1ab6ed09c41	倍々ファイト	relybird	2	0	7	idle,game,chill,clicker
+wrld_1dbe83bf-9c81-4e7b-b429-f77e7285c224	~SunsetWind Bar~	RuoZheng	3	0	1	
+wrld_19c7b159-8cfd-460b-864c-d9e5b0637488	Forest Photo	HazyPrincess	2	0	1	
+wrld_4a826d96-ec98-4c82-a161-81401da35d3d	［BIP］ 학교	옳다쿠나	1	0	1	
+wrld_285c98e0-cd4d-4aca-b5f4-1c41dcba4064	【β0․6】テクテクカフェ_tech-tech-cafe	Xenoah	2	0	1	cafe,technology,makers,study,drone
+wrld_ed4d4851-0250-4a0c-a26a-d4ff0844c59d	The Monument - The Sims 2 PSP	DaniKH	2	0	3	
+wrld_0e9e85bd-e4f5-4e2e-9f99-9b34c0b43a03	Fallout New Vegas Caravan	Ashxy_Wolf	1	0	3	game,cards,fallout,fallout_new_vegas,caravan
+wrld_0817933a-2667-44a4-a43b-35db2ef9ec7f	2g's Home ver0․1	Tixa2g	0	0	1	
+wrld_2deb0d2a-645c-4b73-93a9-289dcb729650	ONDE OFFICE	O҉N҉D҉E҉	3	0	1	
+wrld_431ec661-509a-4bca-9555-1e41ade9ac30	ガヤ飲み銀座 x nanochiffon	miramiramax	3	0	1	
+wrld_891156d1-1277-48ae-b368-a116a3364879	来る？待ち人	Ygolonac	1	0	3	japanese,chat,matching,voxel,relax
+wrld_4cdb89b1-feec-42dc-bcd1-a7bf55ad011c	test making	ㇱンアー	1	0	1	
+wrld_e9f87836-1a6d-42c2-84ab-cacd75c61110	SETUNA_29x1x0Home	SETUNA_29x1x0	3	0	3	
+wrld_76933dd4-5cfe-49c3-afe6-e6e700daa513	My Spotlight	Greenie~	1	0	1	
+wrld_fd126638-c771-49e7-b2ab-07a3505efe50	Audience Bridge Listener Token World	星影クシィ	3	0	1	
+wrld_c3d79f9c-08a5-4a16-b5b5-383709e2f21d	観 Kan	アスター・スリエル	2	0	3	sleep,chill,galaxy,bed,star
+wrld_e9c5256f-996d-49e8-b742-9a7df1f02b34	Sakura Island	SwiftyTails	2	0	3	
+wrld_f138b1b2-2ebd-4f3e-a976-5170d64fc074	there is no world here	_MiRUUU_	2	0	1	
+wrld_9e63a15c-fba7-463d-98d9-3b4376cea68e	VR音風景ギミック ⁄ VR Soundscape - Demo World	Mosco_あしもす	2	0	7	
+wrld_54152bab-0e92-4dc4-bc67-e8d1c79a5e71	かいぞくせん	九十九喜常	2	0	3	
+wrld_d5527641-d839-4038-8dc6-68def4533192	Quitter's Room	Jayde×	0	0	3	petscop,belle,quitters,room
+wrld_b66f7ac4-9dd5-47bb-a704-6cba995ca821	白色毛绒玛吉卡 2․0	ShinShinPuff	2	0	1	
+wrld_872a354a-85f9-447f-bbfe-ee8c78cf07fa	ガングリオンの遊び場	Ganglion	4	0	3	
+wrld_1b856464-74e5-4f65-b136-2b1ee8f7cb8f	海が見える作業部屋	こじょん（co-john）	4	0	7	work,study,chill,warf,sea
+wrld_f8ad588e-ea57-4c61-b564-6f6512d8755d	무리룸	dalmuli	4	0	1	
+wrld_65b9d645-6458-432d-9404-7b8d137aa77d	Astral Haven 星々に包まれた安息地	ฅにゃーくんฅ	3	0	3	
+wrld_26efdf06-a406-4306-9b35-b505bd329206	喋り処バスカ 別館	凡犬もち公	3	0	1	
+wrld_76e9ed45-97ea-48be-95c9-176a103bca4b	Grus Dienr	柊莉hiiri	4	0	1	
+wrld_b64f6608-4a97-4a53-8b8a-ebcf90a534d1	ありすと夕凪のおうちver2	Ar1Nisありす	1	0	1	
+wrld_04fbd9d1-a293-4501-ac96-76a9aef4a64a	青に染まる	Aries_ありえす_	3	0	1	Chill,Sleep,Relax,home,simaenaga
+wrld_92de5b9b-3e00-4614-81ec-bfbc09c6cb13	おはうし2026 8	ゆすら。	2	0	1	
+wrld_16202c18-bfc2-4d6e-9ecd-cd20cadcf169	Meetup - LZT	Sparadox	3	0	3	
+wrld_03b927a9-c959-4117-96c8-50ce76ac7c64	EVOS FAMILY	EVOSGD	3	0	1	
+wrld_376f8be6-484e-4232-9afd-4f2f56c5124b	just a world	-̶A̶z̶r̶a̶e̶l̶-	3	0	1	
+wrld_901a2bb1-8e3f-4c0c-8310-78b8688f829b	падежи	marinokiba	1	0	1	
+wrld_78c0c5b2-0c31-4a4b-a0cd-3be375cdb262	Apex Detention Facility	Lucien-Lachance	2	0	1	
+wrld_983b3328-514e-4ae1-a894-a15dd87eb8de	Leisurely island	GalGame高手	3	0	1	
+wrld_6b8cd4f4-8750-4996-ad23-7114d5ea17e6	유앤아이매방랑의 쉐어하우스	gamsung9450	2	0	1	
+wrld_acd64a2f-fece-4bd5-8385-2aaff6ceb513	LC Poker Test	LicaChan	0	0	1	
+wrld_92a41e8e-6552-4b9d-8855-5d56401cb8fc	RABICO's ROOM	RABICOちゃん	0	0	1	chill,sleep,home,rabbit,relax
+wrld_61e19174-6844-46d8-8501-8830199bc567	四万十川源流天然水のホムワV3	四万十川源流天然水	3	0	1	
+wrld_3b83d37c-11c8-412c-b719-4fef30d622d5	EngineCore World	Simdev-M	0	0	3	Surreal,Good
+wrld_4127d4a2-9e89-4c00-bd3d-a5c6b159f751	泡和朋友们的回忆录 Memoirs of pao and Friends	Broken bubbles	2	0	1	
+wrld_57fd10e6-ac6e-4ad2-b929-0bb81c7d2ffc	Shiratama Room	白玉くろ_negi	2	0	1	
+wrld_a9325357-3af8-49c7-9093-5d638ca4f253	おうち2nd	ひめしろ	3	0	1	
+wrld_fa276646-130d-4f3b-9684-569278a3fee7	小窝窝	kadexisi	3	0	1	
+wrld_fe6d5fc9-7474-45ac-bba0-6cc129f1bca3	bjh	Satono-Diamond	1	0	1	
+wrld_6c1fb4fb-721f-42fc-96c2-2b0d41c52483	ライブステージ	東風谷ポッキー	2	0	1	stage,dance
+wrld_2852cfda-f2b4-46bf-b4fa-3b1b511d7682	暁光同盟会場	HAL_Yudoufu	1	0	1	
+wrld_1b8b1503-c082-41b4-b9f2-6a99d2968a35	いっしょに運動しよ！	みらんか	3	0	1	
+wrld_300545ae-88ca-4ba5-af39-a173d05abb39	WhiteRoomDemo	fufu忍者	3	0	1	
+wrld_3c914d1c-efcc-4edd-bc61-e3ae1a40b6b3	The Discotheque	Aeizu	2	0	1	
+wrld_22989389-539c-47b3-af5c-1522d845bf3a	Hazard Division HQ ｜ Testing	~ Jinxx ~	3	0	3	
