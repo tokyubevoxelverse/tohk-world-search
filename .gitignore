@@ -1,0 +1,3 @@
+.collector_position
+*.tmp
+__pycache__/
